@@ -1,6 +1,8 @@
 # Emotion Analysis Project
 
-Proyecto de análisis de emociones utilizando datos sintéticos generados con Faker.
+Proyecto de análisis de emociones utilizando **datos completamente sintéticos y ficticios** generados con la librería Faker.
+
+⚠️ **IMPORTANTE: Todos los datos en este proyecto son completamente artificiales y generados mediante código. No contienen información personal real de ninguna persona. Los datos pueden ser utilizados libremente para fines educativos, de investigación y comerciales.**
 
 ## Estructura del Proyecto
 
@@ -20,7 +22,8 @@ Emotion_Analysis_Project/
 ### 1. Dataset Original (data_emociones_faker.csv)
 - **Registros:** 500
 - **Columnas:** 7
-- **Descripción:** Datos sintéticos de usuarios con emociones generados usando Faker
+- **Descripción:** Datos completamente sintéticos y ficticios de usuarios con emociones generados usando Faker
+- **⚠️ DATOS FICTICIOS:** Todos los valores son artificiales, no corresponden a personas reales
 
 **Estructura:**
 - `user_id`: ID único del usuario (UUID)
@@ -34,7 +37,8 @@ Emotion_Analysis_Project/
 ### 2. Dataset Limpio (data_clean_emotions.csv)
 - **Registros:** 501 (después de procesamiento)
 - **Columnas:** 11 (después de codificación)
-- **Descripción:** Datos procesados y listos para machine learning
+- **Descripción:** Datos sintéticos procesados y listos para machine learning
+- **⚠️ DATOS FICTICIOS:** Todos los valores son artificiales, no corresponden a personas reales
 
 **Procesamiento aplicado:**
 - Eliminación de duplicados
@@ -87,12 +91,17 @@ El dataset tiene una distribución aproximadamente balanceada entre las 5 catego
 
 ## Acceso a los Datos
 
+**🔓 DATOS PÚBLICOS Y LIBRES:** Todos los datos en este proyecto son completamente sintéticos y ficticios, generados mediante código. No contienen información personal real.
+
 Los archivos CSV están disponibles en la carpeta `data/` y pueden ser utilizados libremente para:
 - Análisis exploratorio de datos
 - Entrenamiento de modelos de machine learning
 - Análisis de sentimientos
 - Práctica con procesamiento de lenguaje natural
 - Proyectos educativos
+- Uso comercial
+
+**No se requiere permiso especial ya que todos los datos son artificiales.**
 
 ## Requisitos
 
@@ -102,7 +111,11 @@ pip install pandas numpy faker scikit-learn matplotlib seaborn
 
 ## Licencia
 
-Este proyecto y los datos sintéticos están disponibles para uso educativo y de investigación.
+**DATOS SINTÉTICOS - USO LIBRE**
+
+Este proyecto y los datos sintéticos están disponibles para uso libre en cualquier contexto (educativo, comercial, investigación) ya que todos los datos son completamente artificiales y generados por código. No contienen información personal real de ninguna persona.
+
+Los datos pueden ser redistribuidos, modificados y utilizados sin restricciones.
 
 ## Contribuciones
 
