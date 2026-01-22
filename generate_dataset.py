@@ -7,7 +7,7 @@ import random
 fake = Faker()
 
 # Número de registros que queremos generar
-n = 500  # Puedes cambiarlo según lo que necesites
+n = 2000  # Generar 2000 para obtener ~1000 después de limpieza
 
 # Categorías posibles
 emociones = ["feliz", "triste", "enojado", "sorprendido", "neutral"]
@@ -48,9 +48,9 @@ df_emotions = pd.DataFrame(data, columns=[
     "user_id", "timestamp", "text", "emotion", "age", "gender", "region"
 ])
 
-# Guardar el dataset como CSV en la ruta absoluta
+# Guardar el dataset como CSV en la carpeta data del proyecto
 import os
-output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
+output_dir = os.path.join(os.path.dirname(__file__), "data")
 os.makedirs(output_dir, exist_ok=True)
 output_path = os.path.join(output_dir, "data_emociones_faker.csv")
 df_emotions.to_csv(output_path, index=False)

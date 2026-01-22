@@ -2,11 +2,12 @@ import pandas as pd
 import numpy as np
 import re
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 # MANIPULACIÓN Y LIMPIEZA DE DATOS FICTICIOS
 
 # Cargar el dataset
-df = pd.read_csv('data/data_emociones_faker.csv')
+df = pd.read_csv('data/data_emotions_realistic_medium.csv')  # Usar dataset realista
 
 # Revisar las primeras filas
 print(df.head())
@@ -31,6 +32,13 @@ df = df.drop_duplicates()
 
 # Convertir la columna timestamp a tipo datetime
 df["timestamp"] = pd.to_datetime(df["timestamp"])
+
+# Extraer características numéricas del datetime
+df['year'] = df['timestamp'].dt.year
+df['month'] = df['timestamp'].dt.month
+df['day'] = df['timestamp'].dt.day
+df['day_of_week'] = df['timestamp'].dt.dayofweek
+df['hour'] = df['timestamp'].dt.hour
 
 # Filtrar edades válidas(opcional)
 df = df[(df['age'] >= 0) & (df['age'] <= 120)]
@@ -61,15 +69,27 @@ df["text_clean"] = df["text"].apply(clean_text)
 # Revisar resultados
 print(df[["text", "text_clean"]].head())
 
+# Vectorización TF-IDF del texto limpio
+print("\n=== VECTORIZACIÓN DE TEXTO ===")
+tfidf = TfidfVectorizer(max_features=100, stop_words=None)  # Limitar a 100 características principales
+tfidf_matrix = tfidf.fit_transform(df["text_clean"])
+
+# Crear DataFrame con características TF-IDF
+tfidf_df = pd.DataFrame(tfidf_matrix.toarray(), columns=[f'tfidf_{i}' for i in range(tfidf_matrix.shape[1])])
+
+# Combinar con DataFrame principal
+df = pd.concat([df, tfidf_df], axis=1)
+print(f"Características TF-IDF agregadas: {tfidf_matrix.shape[1]}")
+
 # Escalar variables numéricas
-num_cols = ['age']
+num_cols = ['age', 'year', 'month', 'day', 'day_of_week', 'hour']
 scaler = StandardScaler()
 df[num_cols] = scaler.fit_transform(df[num_cols])
 
 # Guardar CSV limpio
-df.to_csv('data/data_clean_emotions.csv', index=False)
+df.to_csv('data/data_clean_emotions_realistic.csv', index=False)
 
-print("Dataset limpio guardado como: data_clean_emotions.csv")
+print("Dataset limpio guardado como: data_clean_emotions_realistic.csv")
 print(f"Shape final: {df.shape}")
 print("\nDistribución de emociones:")
 print(df['emotion'].value_counts())

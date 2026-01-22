@@ -1,0 +1,1001 @@
+user_id,timestamp,text,emotion,age,gender,region
+ea1e733e-4885-4dcb-98b8-1ddbda9d4cc8,2024-10-14 16:17:13,"I am frustrated because it is mad, stupid and irritated! Unacceptable!",enojado,40,masculino,Este
+d9ce6989-9f1d-4021-b239-1d38dcd3e61b,2024-07-28 15:06:53,This is terrible. This is awful,triste,66,femenino,Norte
+5a68b4ae-b9d7-41c6-ac41-190671842b61,2024-01-21 22:25:34,I am furious! So frustrated!,enojado,20,femenino,Este
+0f16e333-893a-4572-b3bc-9fcd79dada65,2025-10-14 17:30:46,This is normal. Everything feels common and typical. I think this is standard and average. Just fine.,neutral,61,masculino,Norte
+e1480809-9b62-44be-85b2-0627bc0df8f3,2024-10-17 23:49:39,"I am stunned because it is unbelievable, surprised and wow! I cannot believe it!",sorprendido,59,masculino,Oeste
+29476b0d-2ca4-4822-84b9-ea536bec1b38,2024-02-09 21:30:15,"This is typical because it is typical, adequate and normal.",neutral,41,femenino,Este
+af081a69-6b8b-48e2-bfb8-0c2e33cbd7bc,2025-02-23 16:07:43,I hate this!,enojado,66,no binario,Sur
+41c9a68c-fdec-4ed6-a9dc-2b7738404926,2025-03-08 05:02:17,I am outraged. Everything feels livid and unacceptable. I think this is furious and outraged! I hate this!,enojado,23,femenino,Centro
+84919c19-8e76-49d6-ad6e-b11ec8215427,2024-07-02 16:26:18,This makes me smile. Everything feels cheerful and smile. I think this is great and fantastic! :),feliz,58,masculino,Este
+c98c89cc-60fe-4632-8b3e-e415ac31c147,2024-08-16 14:24:18,This hurts. Everything feels sad and devastating. I think this is crying and miserable. :(,triste,27,femenino,Sur
+0ce7d132-f02e-414b-b4bd-1957271ffffa,2025-01-24 15:00:32,"This is typical because it is usual, common and moderate. Pretty normal.",neutral,51,masculino,Centro
+266dff34-32b5-49e5-a7f4-842e4e7a7fef,2025-11-11 23:30:39,This is wonderful! 😊,feliz,61,masculino,Norte
+93a2c7d5-061e-4ae2-8de3-735d2ef28ef3,2024-07-06 06:59:41,This is wonderful! I love it!,feliz,34,no binario,Sur
+dd83fb6d-6a64-417c-aae6-090c853c991a,2024-07-02 02:03:15,"This is devastating because it is terrible, depressed and painful. I feel terrible",triste,45,masculino,Este
+405943ff-3958-41bb-beb2-a16b07110ca4,2025-12-01 02:54:58,Wow this is! What a shock!,sorprendido,18,femenino,Este
+e630ba85-a98c-47c5-be3a-02262eed10cf,2024-12-03 13:55:42,What a shock. Everything feels unbelievable and shocked. I think this is incredible and fascinating! I cannot believe it!,sorprendido,20,femenino,Norte
+80306d74-1dd8-43b0-b4d7-613095663302,2025-12-16 04:34:54,"I am heartbroken because it is heartbroken, depressed and upset. Very disappointing",triste,66,masculino,Este
+7d32b7ff-ca5c-4758-97bb-fc07b6110e82,2024-10-08 13:43:37,I am outraged! I hate this!,enojado,22,femenino,Sur
+e5189452-2d73-4d9a-a49e-1ffd39fa7a9c,2024-04-05 09:07:38,"I feel amazing because it is thrilled, pleased and joy! I love it!",feliz,43,no binario,Centro
+86df76e0-ad5f-471f-9599-46e450ad0b12,2024-05-01 21:12:27,This is devastating. Everything feels devastating and crying. I think this is upset and depressed. :(,triste,44,masculino,Norte
+128cf6c6-02de-492a-9196-67ab40a38b76,2024-01-25 19:32:13,I feel incredible. Everything feels joy and wonderful. I think this is excited and brilliant! 😊,feliz,30,femenino,Centro
+c31d6989-0200-4846-98a6-248e383ba3f6,2025-12-21 11:50:55,I feel down. I feel terrible,triste,59,masculino,Este
+c9be8913-f83f-42cd-a23b-45a1e4383f24,2025-08-14 10:55:45,I am furious! This is ridiculous!,enojado,54,femenino,Norte
+561e67ed-2349-41d3-8bee-cb04b4a93472,2024-05-12 09:57:15,"What a great day because it is cheerful, happy and amazing! This is great!",feliz,55,femenino,Norte
+68823c1f-69fc-4789-ab09-51fa9d92fdcf,2025-08-19 17:28:40,This is incredible! Wow!,sorprendido,44,no binario,Centro
+a578eadb-7a49-4e0f-a14b-4597597ce9fd,2025-09-01 11:03:55,I am outraged. Everything feels hate and frustrated. I think this is irritated and ridiculous! I hate this!,enojado,52,masculino,Oeste
+4e00b1c9-e667-47ab-a43f-f47e949e24dc,2025-06-19 15:54:43,I am frustrated! This is ridiculous!,enojado,28,femenino,Centro
+c875e33a-e444-4369-9732-bc5671b31d4b,2025-01-11 01:33:12,"Wow this is because it is fascinating, mind-blowing and amazed! Wow!",sorprendido,19,masculino,Sur
+bfc1bd1a-0329-47f4-89c5-42f1820e9a88,2025-12-21 16:53:29,"It is acceptable because it is common, normal and acceptable. Just fine.",neutral,43,no binario,Centro
+35547325-c07e-4e34-a97a-c4a41f583a1c,2025-04-20 06:28:40,"I cannot believe this because it is remarkable, fascinating and mind-blowing! Wow!",sorprendido,21,no binario,Este
+8601165f-971c-429e-bbbf-88c86880b952,2025-09-26 05:07:28,This is standard. It is okay.,neutral,44,no binario,Oeste
+22a70110-02f0-42b1-870a-5ba3abd6babc,2025-11-19 18:43:48,It is adequate. Everything feels reasonable and acceptable. I think this is fine and usual. Just fine.,neutral,40,femenino,Este
+0297994d-a1f4-4022-a673-e70611920ae5,2025-11-30 19:03:09,I feel amazing. Everything feels smile and love. I think this is amazing and ecstatic!,feliz,22,no binario,Este
+4470d185-9402-464e-a6b0-5f17f27c6ffd,2025-02-19 17:24:25,"I cannot believe this because it is extraordinary, remarkable and unexpected! I cannot believe it!",sorprendido,60,masculino,Norte
+32dbdab9-4759-4ae4-8211-40339cca2503,2024-02-14 17:43:11,I am so angry. Everything feels unacceptable and ridiculous. I think this is infuriating and upset!,enojado,33,masculino,Norte
+7d746bd8-4132-4c3f-802a-313337ed7ef0,2025-07-12 02:15:51,I am so happy! This is great!,feliz,36,femenino,Sur
+9484f467-4b80-4096-af47-bb15dc19e92f,2025-03-30 09:44:05,"This is stupid because it is furious, stupid and hate! Unacceptable!",enojado,64,femenino,Norte
+c390d783-8d3d-4ed1-8c8e-359d1b851f96,2024-03-08 02:50:26,"This is terrible because it is crying, sad and depressed. Very disappointing",triste,19,masculino,Este
+e552af83-d4ca-41bb-807b-6cab89224221,2024-11-22 16:20:16,"I am astonished because it is amazed, shocked and mind-blowing! I cannot believe it!",sorprendido,68,masculino,Este
+cd37a49d-0a7c-4cfc-8f86-aa6a4f0241ca,2024-10-23 10:06:48,"This is normal because it is normal, fine and standard. Pretty normal.",neutral,38,masculino,Norte
+0e1bf761-6712-4f68-9a83-dfd7643388da,2024-06-17 18:12:12,This is devastating. Very disappointing,triste,18,masculino,Este
+98089547-a9ed-4108-a9ef-9c9766a1a5cd,2024-04-22 17:54:26,What a shock. Everything feels fascinating and incredible. I think this is remarkable and extraordinary! What a shock!,sorprendido,50,masculino,Sur
+60ef2ec1-9c01-49e3-82ae-4b1ba4981b1f,2025-12-09 02:16:41,I feel amazing. Everything feels cheerful and excited. I think this is pleased and ecstatic!,feliz,56,masculino,Oeste
+590e2c78-5a4c-4192-942a-0e93e8bdcaf4,2025-01-10 03:40:32,How fantastic! This is great!,feliz,50,no binario,Sur
+45fd2f16-0292-47a7-9c5b-dd58d1aaf1ff,2025-03-31 11:17:34,This is incredible! What a shock!,sorprendido,48,no binario,Centro
+636eeb29-c054-4f7b-8e36-36ca031ff624,2025-10-14 09:45:01,This makes me mad! This is ridiculous!,enojado,29,masculino,Centro
+c7e1c316-b013-42bb-8a59-2d1eb67a7a79,2024-03-15 18:20:02,I am astonished. Everything feels remarkable and shocked. I think this is stunned and unexpected!,sorprendido,44,no binario,Norte
+1e72d75a-ce53-4b5b-b554-f6bf0b8b675c,2025-03-04 12:04:05,I cannot believe this. Everything feels amazed and incredible. I think this is extraordinary and astonished! I cannot believe it!,sorprendido,48,femenino,Sur
+f281622d-9cb3-480a-bfb2-7dffad6cf270,2025-01-06 13:25:43,This is stupid. Everything feels frustrated and outraged. I think this is disgusting and hate! This is ridiculous!,enojado,33,no binario,Oeste
+65487a54-7f9c-4cc8-b1e5-c1d271809f74,2025-09-22 14:13:06,I am frustrated. Everything feels upset and infuriating. I think this is disgusting and ridiculous! I hate this!,enojado,23,masculino,Norte
+e6b4d0de-16f4-47f6-9bfc-7dd71235aa66,2025-07-04 08:35:54,What a great day. Everything feels happy and great. I think this is love and pleased! I love it!,feliz,21,masculino,Sur
+92cb183b-d184-47f3-88c3-9ee89c41a01a,2025-02-23 03:12:55,"It is average because it is sufficient, common and regular. It is okay.",neutral,65,no binario,Centro
+66f189ac-d2c4-493f-bc8c-06878538678e,2025-08-22 22:41:23,"This is terrible because it is hurt, unfortunate and terrible. :(",triste,56,no binario,Centro
+b78135ca-4e38-4a9f-8b23-d928d99870ae,2024-03-01 12:56:31,"This is typical because it is standard, regular and adequate. Nothing special.",neutral,60,no binario,Sur
+4871d334-9763-4e6c-bfea-1abca5838ddd,2024-07-13 15:43:37,This is amazing! I cannot believe it!,sorprendido,23,femenino,Oeste
+79b0452d-4486-4bc4-a327-fe93b44d771e,2025-04-01 04:14:16,I feel incredible. Everything feels ecstatic and love. I think this is delighted and happy! 😊,feliz,41,masculino,Centro
+12f6b4ac-cce5-4d4b-9bd9-5dbf5283413a,2024-09-23 19:08:28,"It is fine because it is standard, acceptable and typical. It is okay.",neutral,48,no binario,Oeste
+21034d8c-40a2-44ec-acb7-a30ae28da019,2025-08-13 18:26:13,It is average. Nothing special.,neutral,28,femenino,Oeste
+24707927-0b1d-4d58-b339-0ddf0396898f,2025-05-02 16:34:25,"I am so angry because it is upset, mad and annoyed!",enojado,18,masculino,Oeste
+0604f7d5-4523-4c12-92ba-b11fde6bbb50,2024-12-14 09:05:14,"I feel down because it is terrible, depressed and hurt. :(",triste,51,masculino,Oeste
+fd1db882-03a2-4cd3-a863-16f1ef4b56ab,2024-05-18 22:29:44,This is amazing!,sorprendido,43,no binario,Centro
+eb0d78f4-1208-498e-815f-5f82f10c6921,2024-12-17 06:50:59,"I am so angry because it is upset, unacceptable and ridiculous!",enojado,31,femenino,Oeste
+d53bbea4-1581-41e8-975c-2860ea2cab95,2024-11-19 04:39:29,What a shock!,sorprendido,65,masculino,Norte
+e63c0614-f54b-4943-a353-123aa30298d9,2025-04-30 11:21:43,It is average. Everything feels moderate and common. I think this is okay and adequate. It is okay.,neutral,49,no binario,Oeste
+79f9c670-b2af-4701-8f40-6d52823244b0,2025-11-12 15:57:07,I am so angry. Everything feels irritated and infuriating. I think this is stupid and livid! So frustrated!,enojado,68,no binario,Sur
+d1ab8c2a-d6c6-4fb8-9e3e-5b64c0a54fa0,2024-06-02 00:49:08,I am so angry! This is ridiculous!,enojado,29,masculino,Este
+051b36a2-35d1-45c3-bc77-32f741dc83f0,2025-08-12 23:12:27,This is ridiculous. Everything feels disgusting and irritated. I think this is unacceptable and ridiculous! So frustrated!,enojado,69,masculino,Este
+bf520495-7955-4101-9881-f4dc0823bff2,2025-03-31 10:05:59,This is incredible!,sorprendido,55,masculino,Este
+4202c24e-847f-445e-bf26-834e5eeedc65,2025-06-13 19:27:09,This makes me cry. Everything feels sad and painful. I think this is upset and lonely...,triste,47,femenino,Norte
+8fa1656f-6b62-4daa-a172-bbb62b274b00,2025-03-27 13:45:07,What a shock. Everything feels shocked and wow. I think this is surprised and extraordinary! I cannot believe it!,sorprendido,34,masculino,Sur
+f6d024cf-0e77-4833-aba5-72282afdd358,2024-10-31 16:54:31,"It is adequate because it is acceptable, fine and adequate. Just fine.",neutral,69,femenino,Este
+0a00c4be-547f-4b7f-a973-b57404112eff,2024-12-06 02:39:36,What a shock! What a shock!,sorprendido,50,femenino,Oeste
+4bbe59a0-5e78-422d-99b4-dba2f7669c89,2024-04-24 09:48:52,It is average. Everything feels reasonable and normal. I think this is typical and okay. Just fine.,neutral,42,masculino,Oeste
+3c2b910c-3d49-4185-8e6a-5eab45c5f078,2024-09-01 12:30:59,I am thrilled! :),feliz,46,masculino,Centro
+81d57c56-8b85-41a1-8146-72aa6a6521ad,2025-04-19 17:57:56,This is typical. Everything feels common and moderate. I think this is typical and average.,neutral,51,masculino,Sur
+27f73cc3-2d04-4b59-9149-3cd7d30b02cf,2024-02-27 13:07:00,I am so happy! 😊,feliz,40,masculino,Este
+e1d7c08d-b044-4a5c-b391-599e74a8eba1,2025-01-23 11:08:36,I hate this. Everything feels pissed and ridiculous. I think this is annoyed and frustrated! This is ridiculous!,enojado,31,masculino,Norte
+dc0314d6-c84a-4b29-9862-39cb8f61bcea,2025-01-05 15:19:15,What a shock. Everything feels surprised and amazed. I think this is stunned and extraordinary!,sorprendido,55,no binario,Centro
+455dcb91-a1ac-4da3-80fe-39b1c421cbdd,2025-08-11 21:54:14,"This makes me smile because it is thrilled, delighted and smile! I love it!",feliz,35,no binario,Norte
+d0dcf536-514e-4523-9062-d93b55a4f097,2025-05-19 16:55:53,"This is wonderful because it is fantastic, pleased and great! This is great!",feliz,29,no binario,Este
+633193c7-eb35-4137-b274-431854726844,2025-09-21 16:31:37,I hate this! I hate this!,enojado,20,masculino,Sur
+281e69b5-d592-4a51-b465-01a11bbf7c89,2024-11-13 17:25:11,I feel amazing! This is great!,feliz,61,femenino,Norte
+904304ef-d52a-4dc0-b881-673b8de6124a,2025-05-11 04:16:48,I am so sad. Everything feels down and miserable. I think this is lonely and devastating. This is awful,triste,66,masculino,Centro
+93d147cb-edfc-4b37-b048-e9fbf2d04e08,2024-02-05 11:39:30,"I am furious because it is ridiculous, hate and frustrated! I hate this!",enojado,26,femenino,Oeste
+c64ca97b-ef34-4435-883b-dd62b7232e8f,2024-09-05 03:27:33,I am thrilled. Everything feels perfect and delighted. I think this is love and excited!,feliz,51,masculino,Este
+e70bafa2-3c9c-4c79-8e6d-9094c1ca784b,2025-04-16 11:19:15,"I hate this because it is pissed, ridiculous and unacceptable! This is ridiculous!",enojado,36,femenino,Oeste
+5cb2b242-565c-4046-9dd9-74b35e855992,2024-11-26 08:49:55,This is unexpected. Everything feels amazed and unexpected. I think this is surprised and mind-blowing!,sorprendido,35,femenino,Centro
+bf0e9c72-d9f1-4585-a9f7-06bde754240b,2024-06-03 05:45:53,What a great day! This is great!,feliz,46,no binario,Centro
+a291fa6e-afc1-4302-b958-f8aa9088633d,2024-05-08 15:32:26,"It is adequate because it is regular, moderate and typical.",neutral,41,masculino,Norte
+4d125c35-80e1-435a-9510-98b4ac13ed97,2025-04-22 08:43:39,This is ridiculous! So frustrated!,enojado,41,no binario,Oeste
+9d211de3-4f41-4766-960b-b1e0adf19827,2024-05-26 16:28:24,"This is okay because it is standard, moderate and common.",neutral,22,no binario,Este
+226b4e67-b85c-497f-872c-24049b5eed07,2025-08-01 01:37:56,I am thrilled. Everything feels delighted and smile. I think this is thrilled and joy! 😊,feliz,64,no binario,Norte
+1963e61c-ab3e-48a9-ad0d-4eb0fdcdbef9,2024-12-20 04:33:55,"This is standard because it is regular, sufficient and reasonable. Just fine.",neutral,59,femenino,Este
+ff524bb2-4671-4003-a3ea-17b2348bc5a8,2024-06-09 17:10:26,"I feel amazing because it is amazing, thrilled and smile!",feliz,31,masculino,Este
+a4e9c45c-b7c1-415a-9351-09886faf3f0b,2025-11-02 09:31:13,I am so happy! This is great!,feliz,31,femenino,Norte
+b8ce6a2d-c05f-4b8b-b017-265fe9e9400d,2025-07-22 03:30:51,I am outraged. Everything feels furious and annoyed. I think this is angry and hate! So frustrated!,enojado,58,masculino,Este
+452c92d7-a407-4575-bff2-96a4c5d283a6,2024-05-08 05:25:16,How fantastic! This is great!,feliz,20,masculino,Sur
+f82b5113-301d-4088-bc3d-83fda5049462,2024-12-06 09:04:45,I am astonished. Everything feels amazed and shocked. I think this is wow and remarkable! What a shock!,sorprendido,69,femenino,Este
+e8db8a62-742b-47d5-9d9f-235460611292,2024-12-31 01:25:15,This makes me cry. Everything feels terrible and gloomy. I think this is crying and down. Very disappointing,triste,25,no binario,Norte
+5140ea89-58e5-438c-a42c-fd21b2d0d5eb,2024-09-20 12:06:16,"I am heartbroken because it is hurt, sad and down. This is awful",triste,51,no binario,Centro
+187c9c24-567d-4b57-83ef-8c77b483d7bf,2024-05-27 15:58:27,"I feel awful because it is upset, terrible and crying. Very disappointing",triste,55,masculino,Este
+83cedb6c-7a63-42f8-90f0-94fdabacc5aa,2025-02-28 21:49:12,Nothing special. Pretty normal.,neutral,44,no binario,Este
+1c23b9d9-436c-4c31-82cb-89439aded2dc,2024-02-26 01:37:08,I am stunned. Everything feels remarkable and unexpected. I think this is amazed and shocked! I cannot believe it!,sorprendido,48,no binario,Centro
+b8e82cee-9b1a-43d2-bb71-73fed8dc4eb0,2025-09-15 02:57:49,I am disappointed. Everything feels heartbroken and sad. I think this is painful and crying. :(,triste,62,no binario,Centro
+9e183729-0b1f-4827-afb2-b0f9db02c1f4,2025-03-19 02:14:36,This is unexpected. Everything feels stunned and amazed. I think this is astonished and incredible! Incredible!,sorprendido,54,femenino,Centro
+a34ffe7a-21f8-4889-8364-ed9a9efcf684,2025-12-02 03:02:04,"I am so happy because it is thrilled, cheerful and joy! 😊",feliz,26,masculino,Oeste
+1f183db5-5cb7-4bc2-92e3-bf746cfd4414,2025-07-10 09:41:43,I am so happy. Everything feels cheerful and amazing. I think this is delighted and brilliant! :),feliz,34,no binario,Este
+6e75f444-2a6f-4cc4-9ea9-010acb29e40e,2024-04-18 16:41:11,This is normal. Everything feels normal and sufficient. I think this is okay and usual.,neutral,58,no binario,Sur
+e67a08fc-9fb6-4da0-9613-06bd4c1d7999,2024-01-29 16:31:28,I am so happy. Everything feels ecstatic and amazing. I think this is cheerful and fantastic!,feliz,42,masculino,Oeste
+5a2df6ed-2ca1-484f-a25f-d474f9adb7b9,2025-02-22 12:23:17,"I am astonished because it is stunned, mind-blowing and astonished! What a shock!",sorprendido,18,no binario,Norte
+5fe22c09-dd6d-4f96-839c-bed2d4f6c8f4,2024-05-14 04:53:07,"I am outraged because it is upset, hate and stupid! This is ridiculous!",enojado,50,masculino,Este
+b49e010c-8ea6-46e9-b9e5-13b7f609b342,2025-08-19 07:53:12,This is normal. Just fine.,neutral,58,femenino,Norte
+240cdd47-6d5c-4320-85e0-30f33199c17c,2024-06-11 00:26:59,Wow this is. Everything feels wow and unexpected. I think this is astonished and remarkable! What a shock!,sorprendido,66,no binario,Oeste
+261930c4-eedc-4a6b-b77c-54bf1092c4e3,2025-10-11 08:23:44,"This is unexpected because it is amazed, wow and mind-blowing! Wow!",sorprendido,63,femenino,Oeste
+e927ed27-3aa2-4b3a-bc34-4e6c100f6937,2025-11-06 19:06:42,This makes me cry. This is awful,triste,39,femenino,Este
+d133ae41-d5e0-44ec-82d9-c52047561ad1,2024-10-20 07:41:58,I am furious. Everything feels frustrated and mad. I think this is infuriating and furious! This is ridiculous!,enojado,27,no binario,Sur
+b2913d4e-f009-4381-a26c-ef535488327b,2024-11-16 04:48:50,This is incredible. Everything feels surprised and unexpected. I think this is stunned and amazed! What a shock!,sorprendido,33,masculino,Oeste
+b32d6e74-17cb-4996-a67d-8cf3246ed65f,2025-02-04 02:17:44,I am disappointed. Everything feels lonely and gloomy. I think this is miserable and sad...,triste,27,no binario,Este
+4fc0b7fa-4ed6-41a3-8d1f-5cd6cd7b1d6f,2025-08-18 12:56:59,This makes me mad! Unacceptable!,enojado,50,no binario,Oeste
+d1bf707a-8b39-48fa-a4dd-ea1e74b7f660,2024-04-16 09:37:11,"It is fine because it is typical, common and adequate. Just fine.",neutral,43,femenino,Norte
+6777fc42-92c4-42f2-a588-407b15ba3910,2024-04-13 20:02:28,This is wonderful. Everything feels joy and delighted. I think this is awesome and great!,feliz,29,no binario,Norte
+b24f815f-c16e-4d93-8034-5c73c3ba7feb,2025-08-17 06:14:31,"This makes me smile because it is awesome, perfect and thrilled! I love it!",feliz,56,femenino,Centro
+ae2cbf14-d247-467e-a80f-4d03f9138874,2025-11-12 08:24:19,This is standard. Pretty normal.,neutral,59,no binario,Norte
+c284aa51-4dba-4511-be3a-5c44f84c4f2a,2025-11-29 01:43:33,"I feel down because it is devastating, miserable and hurt...",triste,61,masculino,Sur
+d73ce8fc-f4d7-4cf8-9df4-c376dc6eb1d8,2025-10-15 19:19:23,I am outraged! This is ridiculous!,enojado,39,femenino,Este
+dc0f9a87-e383-4271-a76e-eb0f208cb53e,2025-08-15 22:46:05,I feel down. I feel terrible,triste,49,femenino,Sur
+0e9966e2-9de3-48cc-aa16-275b5f1d5fce,2025-07-06 18:23:36,I am furious! Unacceptable!,enojado,39,masculino,Este
+c09599a1-fce9-4a34-a875-b4ad29e84e62,2024-11-25 22:03:08,I am thrilled!,feliz,50,masculino,Centro
+f232060c-20d7-474c-8e66-b9de16b74c7e,2024-01-21 01:04:16,How fantastic. Everything feels excited and brilliant. I think this is love and cheerful!,feliz,45,femenino,Este
+081fb26c-2fdc-4e07-b5ba-89889ea5b85a,2024-05-15 17:09:23,This is devastating. Everything feels terrible and painful. I think this is devastating and sad. I feel terrible,triste,35,no binario,Oeste
+14a06b6a-31ae-4c70-a4c3-efaf61ecd85c,2024-10-20 07:52:58,I am stunned. Everything feels incredible and shocked. I think this is unbelievable and stunned! I cannot believe it!,sorprendido,23,femenino,Sur
+fa527b92-88e5-4fa7-ae37-e55c5131233c,2024-02-20 10:49:46,"It is fine because it is regular, usual and typical. It is okay.",neutral,27,masculino,Oeste
+5a5aadfd-f9c3-4149-aab2-a65a98b250d2,2025-08-13 12:48:13,I am outraged!,enojado,28,femenino,Norte
+2565b615-a6e8-4394-9d69-736d7fc58ec9,2024-11-16 04:24:53,I am furious!,enojado,24,no binario,Centro
+1c42a3be-1ce0-4acd-9655-aa3cdd10ed9f,2024-10-28 16:04:36,I feel incredible!,feliz,36,no binario,Sur
+3a3bd380-3d46-4dd8-806f-f7790a2a0055,2025-07-07 09:08:22,This is standard. Everything feels fine and sufficient. I think this is usual and typical. Pretty normal.,neutral,65,femenino,Oeste
+b23af760-488e-432d-9d72-98604c94f26f,2024-06-18 21:36:51,It is acceptable. Everything feels average and normal. I think this is adequate and usual. Pretty normal.,neutral,64,femenino,Sur
+4714fa67-4b5d-4912-9236-ab54ab60ebdd,2026-01-07 16:33:09,I am outraged! Unacceptable!,enojado,46,no binario,Norte
+3d3b5c40-293e-415a-a7b6-31cadf6ab475,2026-01-14 14:15:12,I cannot believe this! Incredible!,sorprendido,23,no binario,Centro
+b429daad-b493-4166-a1aa-e81393a0198d,2025-03-25 14:41:49,Nothing special. Everything feels adequate and acceptable. I think this is usual and fine. It is okay.,neutral,61,masculino,Este
+78710c78-1060-45ef-a571-526042e2ae02,2025-07-26 09:22:38,I cannot believe this. Everything feels mind-blowing and extraordinary. I think this is unbelievable and remarkable! Wow!,sorprendido,60,no binario,Centro
+87001ec2-48f7-4bce-8c29-46b214344571,2025-03-13 00:36:30,"I am furious because it is frustrated, upset and outraged! So frustrated!",enojado,68,femenino,Este
+05e1acd5-8aba-47f6-8cfb-0da9eaa8930b,2025-01-14 08:58:54,This is devastating. :(,triste,54,femenino,Norte
+6605678d-9026-4ea8-a6b0-941b4d99492a,2025-04-22 13:22:51,"I feel incredible because it is joy, great and fantastic! 😊",feliz,23,masculino,Oeste
+eb92a27f-ef0b-47b7-a5bd-79573933c4ae,2024-08-27 21:06:22,"I am disappointed because it is awful, bad and miserable. This is awful",triste,69,no binario,Centro
+cfa33bb4-1769-46b0-867d-e22de4550ee2,2025-06-01 00:59:18,I am so sad. Everything feels terrible and disappointed. I think this is lonely and sad. :(,triste,30,masculino,Oeste
+9a2a04b7-c51d-4ed1-a3d8-5d5b436e806e,2025-12-30 20:28:55,This makes me cry. Everything feels depressed and crying. I think this is heartbroken and upset...,triste,62,no binario,Este
+6ac25559-52b7-42c8-9c95-81b38a7a11d6,2025-06-15 08:26:30,I love this. Everything feels smile and awesome. I think this is celebrate and cheerful! :),feliz,61,no binario,Este
+87a562f0-28af-4abf-bc59-b73a6bb983c7,2024-08-26 03:37:45,I hate this. Everything feels hate and ridiculous. I think this is irritated and pissed! So frustrated!,enojado,40,no binario,Este
+5baf4683-b108-4ced-ad5f-03b5ab80ec1a,2025-10-22 22:50:17,I hate this. Everything feels angry and furious. I think this is outraged and ridiculous! So frustrated!,enojado,34,no binario,Oeste
+be4d814d-41f1-4495-9c85-69c82d0db671,2024-02-08 20:14:08,This makes me smile! :),feliz,26,no binario,Oeste
+69c96042-28ca-4e80-85f4-8dba89fea5bc,2025-12-16 23:18:09,"This is standard because it is fine, moderate and average. Pretty normal.",neutral,65,no binario,Este
+ab83eac0-bd78-4a22-80d6-19f08a8d093a,2025-08-19 16:17:24,How fantastic. Everything feels brilliant and wonderful. I think this is excited and pleased! :),feliz,33,no binario,Oeste
+99e54cc8-a803-4324-a1b1-1f5159486d0f,2025-04-22 14:58:55,"I love this because it is excited, happy and cheerful! 😊",feliz,66,femenino,Sur
+bcd2961d-6d37-478d-9bc1-a313c5a32fc2,2024-05-23 01:17:32,"This is incredible because it is stunned, astonished and unbelievable! Wow!",sorprendido,54,masculino,Sur
+e9f5cedb-2212-4b52-af49-bc826b650094,2025-04-16 05:18:08,"This is unacceptable because it is pissed, angry and disgusting! Unacceptable!",enojado,43,no binario,Sur
+a21ad474-744c-4821-8fd3-9b2fe51c19d1,2024-07-17 02:26:23,I am astonished. Everything feels astonished and fascinating. I think this is wow and surprised! I cannot believe it!,sorprendido,37,no binario,Oeste
+2702c972-034b-466f-b242-f5727256d45b,2026-01-06 03:48:04,"I hate this because it is angry, infuriating and ridiculous!",enojado,41,masculino,Oeste
+c1e4ca5f-d322-44a9-8151-e533e74e99d1,2025-01-15 18:31:36,I am astonished! I cannot believe it!,sorprendido,37,masculino,Sur
+89f5f018-8011-4850-9753-0b09f619b771,2024-12-08 03:53:24,"I am outraged because it is disgusting, angry and upset! I hate this!",enojado,33,masculino,Este
+cb63575a-91c0-459f-8292-867df35b4a5a,2024-04-27 15:26:21,I am so happy! :),feliz,29,no binario,Sur
+12e4c8c4-5309-4f89-97d2-00cf48fa1cba,2025-10-11 16:51:27,"This is okay because it is moderate, standard and reasonable. Nothing special.",neutral,48,femenino,Este
+6d3c08ab-f6f1-4cb0-9b7c-9da436db31a1,2025-02-07 14:27:40,I love this! This is great!,feliz,67,femenino,Centro
+5c714cbf-1962-4ff9-98e1-601e3d718abb,2024-04-11 15:48:14,"This is okay because it is fine, average and okay. It is okay.",neutral,45,no binario,Norte
+60a586dd-bfb2-4225-8708-f8135346b644,2025-03-11 07:27:01,Nothing special. Nothing special.,neutral,57,no binario,Oeste
+862ef5c9-d6ea-4839-adac-d6b763b8c83d,2024-11-11 02:47:03,"How fantastic because it is happy, excited and love! This is great!",feliz,50,masculino,Este
+bd34f0bc-9e60-4c58-86ea-b1630ff26b73,2025-04-20 07:12:56,This is terrible. Everything feels awful and miserable. I think this is painful and lonely. :(,triste,68,no binario,Este
+ea57ab73-db36-4215-905a-c53c3f445a50,2024-04-23 22:37:26,This is devastating. :(,triste,60,no binario,Este
+f43d6708-37cb-445b-a3bb-49a92317de86,2025-01-19 15:08:33,I feel awful. Everything feels crying and sad. I think this is devastating and bad...,triste,32,masculino,Sur
+42c49461-1315-40af-8c83-27170cd98fe3,2024-07-10 21:30:55,This makes me cry. Everything feels lonely and unfortunate. I think this is upset and hurt. Very disappointing,triste,31,femenino,Este
+9de3f1b3-f086-4dea-96e4-0fedefcf57f2,2024-08-14 04:29:59,Wow this is! Incredible!,sorprendido,23,no binario,Sur
+28f3ca32-3aeb-4410-8dbe-b0a4c1f07cff,2025-03-10 05:04:52,This is amazing. Everything feels surprised and amazed. I think this is wow and remarkable! What a shock!,sorprendido,25,masculino,Sur
+3d1aec30-07a1-4015-a5cb-f599e491fa00,2024-10-10 02:00:11,"This hurts because it is terrible, lonely and heartbroken. This is awful",triste,50,no binario,Sur
+133fa111-73fd-487b-97c6-5288560eb8e1,2025-06-13 09:26:41,"This hurts because it is crying, sad and lonely. :(",triste,38,masculino,Sur
+f953ebba-11dc-4d5d-8342-ef2e31cfcd47,2025-01-18 20:38:58,It is acceptable. Everything feels common and adequate. I think this is typical and average. Just fine.,neutral,55,no binario,Oeste
+ebcff803-31bd-43f1-b784-cd32ead871d9,2025-05-01 14:59:09,"This is ridiculous because it is infuriating, disgusting and furious!",enojado,31,femenino,Este
+9e944cb4-43c5-482a-8c4c-831e15944dde,2025-09-10 07:37:14,This makes me smile! This is great!,feliz,66,no binario,Oeste
+0dff8943-8887-4b16-9988-e0e9618c9621,2025-05-18 17:20:52,This is wonderful!,feliz,37,masculino,Sur
+92b8d132-063e-42c3-b5a2-de6c1cfc56a8,2025-07-25 02:23:09,I cannot believe this!,sorprendido,60,masculino,Centro
+d296f14c-5a37-43e3-8625-730c40489034,2024-03-22 05:38:54,This is wonderful. Everything feels excited and delighted. I think this is cheerful and perfect! I love it!,feliz,19,masculino,Oeste
+5fd48942-ad02-4299-b44d-d75b1459fe1e,2025-09-10 18:13:10,"I am so happy because it is happy, excited and thrilled!",feliz,27,no binario,Este
+01cfd86e-e425-47dd-88da-8ebcb15f6bc1,2025-01-21 15:39:38,This makes me mad. Everything feels unacceptable and outraged. I think this is upset and annoyed! This is ridiculous!,enojado,45,masculino,Norte
+dbe27ffa-acb2-4205-9e03-d6ff1fce7a02,2025-11-29 18:08:10,This is devastating. Everything feels painful and heartbroken. I think this is hurt and upset...,triste,56,masculino,Sur
+a825e87e-332f-450b-be93-b665f92e57f4,2025-01-13 14:00:37,This makes me smile. Everything feels joy and delighted. I think this is pleased and celebrate! This is great!,feliz,59,femenino,Norte
+707eeec3-2f9e-4ab3-9546-b5fb1d52200d,2025-12-11 14:31:24,This is normal. Everything feels normal and moderate. I think this is adequate and common. Just fine.,neutral,45,femenino,Centro
+7b73866c-8e96-4f85-b671-2a2324bc2bad,2024-02-26 13:49:39,This is incredible!,sorprendido,31,masculino,Centro
+cb68c56d-7f87-4d64-ae7a-8738ca7cadaf,2024-07-22 04:53:02,I cannot believe this. Everything feels astonished and extraordinary. I think this is remarkable and amazed! Wow!,sorprendido,20,femenino,Norte
+a52e824a-24fc-4e99-8187-7dc196c00b14,2025-11-08 23:45:32,"This is wonderful because it is ecstatic, happy and fantastic! 😊",feliz,26,no binario,Este
+6dfde166-dddb-4f72-a79a-e6717378ad43,2024-09-28 06:21:16,"This hurts because it is sad, depressed and gloomy. I feel terrible",triste,55,masculino,Este
+75851cbc-9986-47a1-b30f-0ef2ded9eaf4,2024-06-07 14:48:22,I am outraged. Everything feels stupid and frustrated. I think this is infuriating and mad! So frustrated!,enojado,55,no binario,Norte
+37e295b3-b02b-41b9-a214-f239aaaeab0b,2024-04-21 23:38:52,"This is normal because it is adequate, acceptable and moderate. Nothing special.",neutral,44,masculino,Centro
+3437f2a4-6d01-422a-bff8-efb3127c727c,2024-10-06 22:05:00,"What a shock because it is astonished, wow and fascinating!",sorprendido,38,masculino,Sur
+1418391b-b54c-4b0a-83bd-266f7d92cc32,2025-11-22 05:25:00,"What a shock because it is mind-blowing, remarkable and fascinating! Incredible!",sorprendido,48,no binario,Oeste
+cf93728a-0469-4c93-a799-5d52a6ebcab0,2025-04-29 12:04:56,"This makes me mad because it is irritated, ridiculous and disgusting!",enojado,44,masculino,Oeste
+921b7bda-216a-44b7-be90-265f6575c76d,2024-12-09 21:21:03,"I am so happy because it is awesome, delighted and perfect! This is great!",feliz,43,femenino,Norte
+ffd237a6-4c2a-41ce-86b5-e08fdfedf775,2025-08-30 01:19:57,It is adequate. It is okay.,neutral,64,no binario,Este
+a245f3fc-a939-489e-b0a7-8e3809abed12,2025-01-23 15:58:53,"This is incredible because it is shocked, remarkable and fascinating! What a shock!",sorprendido,29,femenino,Sur
+b2cfd2ec-6438-4d2a-9d2c-593a834f2637,2025-02-09 07:48:36,I am furious. Everything feels stupid and unacceptable. I think this is disgusting and infuriating! This is ridiculous!,enojado,40,no binario,Centro
+13fa937b-c937-42da-a472-2c29b2ca19e3,2024-06-15 01:11:53,This makes me smile. Everything feels happy and ecstatic. I think this is fantastic and excited! 😊,feliz,60,femenino,Este
+8b25088d-46ba-40ca-9de7-84913bf08bdc,2025-02-23 19:37:53,"I am stunned because it is unbelievable, mind-blowing and incredible! I cannot believe it!",sorprendido,32,no binario,Norte
+9daa301c-3e0f-471b-8cf2-089a1ff6e7f0,2024-12-24 10:39:00,This is terrible...,triste,66,femenino,Centro
+4fce13e0-a51a-4290-8b55-55562e4ef0a0,2024-02-24 13:19:19,I feel down. This is awful,triste,56,no binario,Norte
+698a0b1d-2fb5-42fc-b720-e884f146fbc7,2024-03-21 18:56:22,"This is ridiculous because it is irritated, annoyed and frustrated! This is ridiculous!",enojado,37,femenino,Sur
+217f9872-1601-46da-a477-a2c16321f8e1,2024-10-06 11:22:55,This is unacceptable! Unacceptable!,enojado,20,femenino,Oeste
+0b3c5086-6ed6-45c1-b0da-ba0afd37cc69,2024-10-08 06:25:52,I am outraged. Everything feels livid and frustrated. I think this is irritated and annoyed!,enojado,24,masculino,Oeste
+377fc4bb-80ab-43c3-b77a-fcffad265a95,2025-07-25 22:53:09,I am so happy. Everything feels cheerful and ecstatic. I think this is great and love! 😊,feliz,34,no binario,Oeste
+89df3831-6c67-4cf2-980c-f29a5b3bff99,2024-01-26 00:23:30,"I hate this because it is stupid, ridiculous and irritated!",enojado,44,masculino,Norte
+21cc8d65-c55a-489e-885f-731331c0c281,2024-07-13 17:55:24,"This makes me smile because it is fantastic, thrilled and delighted!",feliz,58,femenino,Este
+4eb8d148-b5c3-4404-9bd6-72d6637dc8a5,2024-12-17 05:32:23,This is typical. Nothing special.,neutral,21,no binario,Este
+4fa7cbad-cce3-4b1e-a752-785500e730eb,2024-06-04 07:27:27,I am outraged! I hate this!,enojado,62,no binario,Norte
+2275a4e8-7bc3-4bcf-a84f-9d5f45b05628,2024-08-24 07:34:20,This hurts. Very disappointing,triste,37,no binario,Centro
+8b558807-abfb-4307-892c-5089e9e90202,2024-05-03 05:34:33,This is devastating. This is awful,triste,36,femenino,Oeste
+8bde336c-d6fa-4426-924d-38ebc9db0efd,2024-06-11 22:58:40,"This is terrible because it is crying, sad and gloomy...",triste,35,femenino,Sur
+bc946065-1668-47b2-a727-67273f839146,2025-08-11 04:20:12,"I am disappointed because it is lonely, crying and devastating. I feel terrible",triste,65,femenino,Oeste
+20730623-2fa9-4f58-88a8-e10e5e723309,2025-11-25 10:00:20,I feel incredible. Everything feels cheerful and wonderful. I think this is celebrate and perfect! This is great!,feliz,47,masculino,Centro
+88597727-331a-4003-8be0-0521016c1255,2025-04-27 02:08:02,I am astonished!,sorprendido,59,masculino,Este
+05b4f1d5-1880-436a-a28f-84a9d0dd20db,2024-03-15 22:06:23,"I am disappointed because it is upset, terrible and miserable. Very disappointing",triste,51,femenino,Centro
+3f5ce651-5c44-4d3c-a999-c44fd809be3d,2024-07-21 21:12:25,I am frustrated. Everything feels annoyed and irritated. I think this is upset and angry! I hate this!,enojado,55,femenino,Centro
+93fa8823-7bb6-44e4-a267-c92151d84234,2024-11-17 17:50:51,What a great day! 😊,feliz,54,masculino,Oeste
+54206836-d4b9-44e8-914f-003a23dfc7ae,2025-01-04 05:20:29,What a shock. Everything feels astonished and stunned. I think this is amazed and wow! Incredible!,sorprendido,41,no binario,Centro
+df490fe5-a79c-4178-af54-3ae9c8474f41,2025-01-16 07:41:15,It is fine. Everything feels regular and common. I think this is typical and fine.,neutral,64,no binario,Este
+024d87ee-3ee4-45a6-86c3-72c289b87753,2025-10-10 17:19:26,This is terrible. Everything feels gloomy and disappointed. I think this is terrible and upset. Very disappointing,triste,68,no binario,Centro
+08197b5a-fb6c-4def-b039-7e15ae48d7ca,2025-12-22 23:20:08,How fantastic! This is great!,feliz,57,masculino,Sur
+d1b17cf8-570a-44f1-a5e9-cea2ad318265,2025-10-31 08:21:25,I am stunned! I cannot believe it!,sorprendido,28,no binario,Este
+9f5e7b3c-1c39-48e7-a407-5460a8b69698,2024-10-02 01:15:40,I am outraged. Everything feels disgusting and livid. I think this is stupid and mad! So frustrated!,enojado,53,femenino,Oeste
+361fac94-1154-4ffc-8c0a-54baf62e7c7f,2026-01-15 08:54:35,I hate this. Everything feels infuriating and pissed. I think this is hate and upset! So frustrated!,enojado,46,no binario,Sur
+2abe8c59-3e42-4e02-b46c-77a571eab77a,2025-12-27 19:42:55,Nothing special. It is okay.,neutral,19,masculino,Norte
+0b7a5c95-f8b0-4327-b4df-f589990e124c,2024-11-24 14:43:26,"This is standard because it is standard, sufficient and usual.",neutral,41,femenino,Norte
+5972f936-ae4b-4857-8e87-ac3c4aa5139a,2024-05-25 23:21:23,How fantastic! :),feliz,61,femenino,Sur
+9be8ddc1-57e3-4db3-a144-28fcd469e74e,2025-01-16 06:57:07,This is wonderful. Everything feels pleased and ecstatic. I think this is love and excited! This is great!,feliz,53,femenino,Norte
+6d0f97af-3f57-44c9-877c-0b10db8a7f44,2024-04-28 08:30:24,I cannot believe this!,sorprendido,56,masculino,Centro
+8bd7b050-7402-4fcf-b3c7-d212fe708baf,2024-07-11 14:08:43,"This is typical because it is moderate, usual and normal. It is okay.",neutral,22,femenino,Centro
+a31f8521-189b-4833-8931-0ad63f35dfd8,2025-08-24 18:32:27,I am outraged. Everything feels pissed and annoyed. I think this is upset and outraged! I hate this!,enojado,53,masculino,Centro
+7dbd4a0e-d18c-4ddf-8e2f-093afa81fd67,2025-01-03 04:20:57,I feel incredible. Everything feels awesome and perfect. I think this is celebrate and cheerful! I love it!,feliz,30,femenino,Centro
+99c0c4be-8e13-4c91-9bd4-6e6435cff21f,2024-07-08 07:17:21,I am outraged!,enojado,69,masculino,Este
+a2d06e8a-bf14-4954-a66a-279475a90186,2024-10-16 23:59:47,This is normal. Everything feels adequate and okay. I think this is fine and acceptable. Nothing special.,neutral,30,masculino,Oeste
+3ceee9fa-2662-451c-ac5c-b7ea12e403f9,2025-10-22 12:53:27,"I am so angry because it is hate, irritated and annoyed! I hate this!",enojado,34,femenino,Norte
+9872a836-b44e-484a-b638-9eb7359df0e2,2024-05-01 12:19:58,I cannot believe this! Incredible!,sorprendido,67,no binario,Norte
+e1b19544-8aa4-42ea-b4b0-e6d371cbbbfa,2024-10-09 17:15:02,"This is amazing because it is surprised, fascinating and stunned! What a shock!",sorprendido,53,masculino,Sur
+ccbc494f-1abb-400b-b3ae-2ef450ba78bb,2026-01-12 05:50:10,"I am frustrated because it is hate, outraged and frustrated! This is ridiculous!",enojado,37,femenino,Sur
+a4398dc3-465c-4c61-9f35-a8106161e674,2024-09-24 13:49:29,"This is terrible because it is heartbroken, crying and terrible. I feel terrible",triste,35,no binario,Este
+225a5437-b918-4554-8001-94d0ce1fb2ee,2025-12-28 00:12:25,"I am furious because it is ridiculous, annoyed and frustrated!",enojado,28,femenino,Este
+56fbc6b2-347e-48ef-96dc-cf207ced9871,2025-07-20 14:29:38,This makes me smile. Everything feels great and fantastic. I think this is amazing and love! :),feliz,18,no binario,Oeste
+87359abb-06b0-4455-824f-c3342f2516a5,2025-05-30 17:01:41,"I am so surprised because it is amazed, unexpected and astonished! Wow!",sorprendido,56,masculino,Este
+fb20dc01-bc3d-4a11-ada6-c88bb8e61a07,2024-09-02 14:39:38,"This is normal because it is adequate, okay and common. Just fine.",neutral,30,masculino,Centro
+677a8cb8-eb65-42ff-a9db-2d63baaa2f45,2024-10-26 23:24:49,"I am outraged because it is frustrated, disgusting and irritated! So frustrated!",enojado,27,no binario,Sur
+ac95e345-6937-49e2-be64-b07698e062ca,2026-01-17 23:41:43,I cannot believe this. Everything feels incredible and stunned. I think this is mind-blowing and amazed! Incredible!,sorprendido,51,femenino,Oeste
+99f06382-57ba-4a67-ae2e-4af55a4b6107,2025-01-12 08:28:44,I love this! 😊,feliz,67,femenino,Norte
+84f18e27-6245-4727-9858-ddf1050d6da5,2025-07-11 19:08:32,This is okay.,neutral,30,femenino,Centro
+2737482a-782e-4358-85b3-660c91356086,2025-08-16 12:47:10,I feel incredible. Everything feels fantastic and great. I think this is cheerful and excited!,feliz,36,no binario,Sur
+18fa0015-92e0-4bd7-af9d-642a7db12235,2025-06-10 17:41:02,This is amazing!,sorprendido,34,masculino,Sur
+0ec4591a-4746-4bfd-b86c-4ee66da7677f,2025-03-24 13:51:02,"This is okay because it is standard, usual and typical.",neutral,18,no binario,Sur
+bd329338-6e95-4c59-a75b-719d89dac497,2025-07-10 11:15:03,"This is devastating because it is crying, unfortunate and bad. I feel terrible",triste,56,femenino,Sur
+d456de89-297a-4ff9-ba56-f5298fd5c601,2024-07-31 21:51:26,"I feel down because it is disappointed, hurt and depressed...",triste,47,femenino,Centro
+6f8c558f-e2f0-4f3b-a7f5-0f4ea7490c49,2024-05-21 10:35:09,I am frustrated! Unacceptable!,enojado,35,masculino,Norte
+da8ba3a1-90af-45f2-8536-3df21c68e887,2024-07-30 18:23:49,"This is unacceptable because it is pissed, unacceptable and irritated! This is ridiculous!",enojado,33,no binario,Norte
+8e6ad4c5-0a33-4cd9-a318-976570a4a2bd,2024-10-23 15:29:17,This is okay. Just fine.,neutral,25,femenino,Sur
+130a6e8d-ef0a-4400-a9f3-9963baf91306,2025-03-28 09:38:57,I am frustrated! I hate this!,enojado,30,no binario,Centro
+c5114922-918b-46c1-aadb-c268b7305505,2024-08-13 00:16:41,I love this! I love it!,feliz,28,no binario,Oeste
+987736d8-da36-44ae-aa6c-0c90e9d4aa23,2024-09-17 21:46:20,This is incredible. Everything feels mind-blowing and stunned. I think this is wow and amazed! I cannot believe it!,sorprendido,19,no binario,Centro
+beda3e22-9e55-4cee-8166-c4b2ef6b4132,2024-04-28 13:27:18,I am frustrated. Everything feels upset and annoyed. I think this is pissed and angry! So frustrated!,enojado,41,femenino,Centro
+73c471bc-d2af-486b-addd-2248e81ce168,2025-08-24 16:40:39,It is average. Nothing special.,neutral,37,femenino,Oeste
+6c01e33e-d895-4be4-87ef-28f1ba071aab,2024-06-06 21:38:46,"I am thrilled because it is pleased, amazing and fantastic! 😊",feliz,56,femenino,Norte
+374c27a8-34c8-4414-84e8-e1ec2be4e0b8,2025-10-02 23:19:09,"This is stupid because it is unacceptable, livid and frustrated! I hate this!",enojado,65,no binario,Oeste
+52244576-ece8-4cc6-b1d8-de11b2e3d7a8,2025-03-01 22:38:21,Wow this is! What a shock!,sorprendido,44,femenino,Centro
+1b75c8ee-2cc6-4886-ba86-9a28ed50f1fd,2025-07-29 10:15:07,"I am astonished because it is mind-blowing, astonished and remarkable! I cannot believe it!",sorprendido,18,masculino,Centro
+5aea34fc-7643-40b0-8df8-0f2c699a4215,2024-10-02 03:58:30,I am astonished! Wow!,sorprendido,50,femenino,Sur
+9746cd9f-5cfb-4939-bd13-3eed3e09c14a,2025-04-10 12:39:31,This makes me mad!,enojado,52,no binario,Este
+5b61eb97-199b-4ce7-86e1-bbe3d1b1ba49,2025-02-17 17:45:23,It is fine. Everything feels fine and reasonable. I think this is moderate and sufficient.,neutral,56,masculino,Oeste
+58d84394-f845-45af-b61b-1160128c3ca2,2025-06-09 13:02:42,I am so angry. Everything feels unacceptable and livid. I think this is infuriating and hate! Unacceptable!,enojado,60,femenino,Sur
+911190d6-a382-4cda-b804-d3183b47c59c,2025-08-16 20:23:37,I am heartbroken. :(,triste,39,masculino,Norte
+c53740dc-9a6b-4132-a204-2755ed42f5fd,2024-11-11 05:16:42,"I am furious because it is angry, pissed and outraged! This is ridiculous!",enojado,45,masculino,Centro
+7b752241-dc15-4603-bb15-a07e6af56b38,2024-07-07 14:56:03,"It is acceptable because it is normal, standard and typical. Pretty normal.",neutral,27,femenino,Norte
+f92c3af3-3568-48ba-8eda-55d53b3fbbde,2025-01-21 23:05:00,"What a great day because it is amazing, celebrate and brilliant! This is great!",feliz,56,masculino,Sur
+1f4a9940-e7fd-4ef1-81c9-044e53d0b64b,2025-05-24 17:14:52,I am disappointed. Everything feels hurt and heartbroken. I think this is terrible and upset. I feel terrible,triste,47,femenino,Centro
+b269b571-c7bc-4e82-9d7d-7a3c98c0723c,2024-12-06 23:55:39,"Wow this is because it is unexpected, unbelievable and incredible! I cannot believe it!",sorprendido,37,masculino,Norte
+b5174751-5095-4151-8a44-0b055abab404,2025-11-13 18:20:39,This is standard. Just fine.,neutral,18,no binario,Sur
+62aaf0df-7a06-4163-8d1e-64875a025ca2,2025-08-09 08:10:52,This is incredible! I cannot believe it!,sorprendido,37,no binario,Sur
+82ef1025-bf38-479e-aab7-b0458ad1e0d5,2024-09-17 18:49:48,"It is adequate because it is moderate, normal and common. Nothing special.",neutral,36,no binario,Centro
+fdc6cb34-18fb-4602-a0ab-17c40be3f0b6,2024-02-27 11:12:15,"Nothing special because it is reasonable, moderate and usual. Pretty normal.",neutral,64,femenino,Sur
+5dbbd2a8-121e-43b1-afde-87b5cddef13d,2024-03-04 14:53:39,"I am so angry because it is mad, angry and ridiculous! Unacceptable!",enojado,23,no binario,Este
+2ea3545f-fe8c-4696-93d2-74bd15f62082,2025-12-02 23:27:12,This makes me mad! So frustrated!,enojado,29,masculino,Sur
+d3488ba5-28ec-44f0-80af-82493b46fffd,2026-01-09 20:10:46,This makes me smile! This is great!,feliz,36,femenino,Sur
+1069d375-50bc-4596-8183-e0b4abc46936,2025-08-19 12:42:05,I am stunned! I cannot believe it!,sorprendido,29,femenino,Oeste
+c28e505b-2af7-4ba9-b27e-372dce10b10e,2024-03-12 00:20:31,I am so surprised. Everything feels stunned and amazed. I think this is unbelievable and shocked!,sorprendido,56,masculino,Oeste
+400b99c0-6518-4819-a81a-6619d47724b0,2024-10-15 00:18:34,"I hate this because it is frustrated, ridiculous and stupid! Unacceptable!",enojado,43,masculino,Este
+6ba68621-8e6f-4931-8af1-97b4657b31a6,2025-05-04 07:38:37,"This is stupid because it is infuriating, outraged and irritated! Unacceptable!",enojado,23,no binario,Sur
+407b900f-4e6d-484f-9c0d-e4adb2faca0e,2024-04-10 02:00:58,"I am outraged because it is unacceptable, hate and angry! This is ridiculous!",enojado,21,no binario,Este
+5d69714d-79c7-417f-8344-c9a09a97eded,2024-02-10 20:42:28,"I am stunned because it is surprised, shocked and fascinating! I cannot believe it!",sorprendido,36,masculino,Norte
+2053fc6f-b6ac-4bce-9372-f1b23eec80d9,2025-12-15 15:31:26,I feel awful. :(,triste,40,no binario,Oeste
+d62f08f1-bfd6-4729-97b6-e1d60115be5f,2024-06-15 11:37:47,I am furious! This is ridiculous!,enojado,56,femenino,Este
+5ebce82a-4a98-43e1-a1b5-fef2c003d98a,2025-11-22 00:02:56,"I feel incredible because it is pleased, happy and fantastic! 😊",feliz,46,no binario,Oeste
+67b9ecf5-6145-4a05-b390-fc9c5ecfea1b,2025-02-10 11:12:31,I am astonished!,sorprendido,27,femenino,Oeste
+5d30d0d0-5faa-4f04-99a4-dc085c04724f,2024-08-25 10:01:26,"I am so surprised because it is mind-blowing, astonished and wow! Wow!",sorprendido,51,masculino,Norte
+e831e67a-b031-4ded-9b60-0a241e550e96,2025-10-17 18:57:29,It is average. It is okay.,neutral,60,masculino,Norte
+2be4fda6-b785-46ca-a165-b16d15768078,2025-10-19 16:31:51,"This is devastating because it is lonely, terrible and hurt. :(",triste,66,no binario,Norte
+091699c0-e278-4e87-8bd6-7c262e27801c,2025-06-30 07:27:23,I cannot believe this. Everything feels wow and astonished. I think this is remarkable and shocked!,sorprendido,29,femenino,Oeste
+a69e293f-367b-4312-8e36-d3f9f82b97e3,2025-03-04 20:53:26,I feel awful. Everything feels unfortunate and disappointed. I think this is devastating and terrible. :(,triste,36,no binario,Centro
+ddee55f9-b35e-4aa6-b012-5e538cbe834e,2025-07-30 03:30:58,What a shock. Everything feels astonished and surprised. I think this is stunned and fascinating! I cannot believe it!,sorprendido,51,masculino,Centro
+18e758f8-d6de-4ed0-ad08-e36e2e54f1c7,2025-03-27 20:44:06,"I am frustrated because it is infuriating, pissed and irritated!",enojado,64,masculino,Sur
+d49c0616-b601-4d1b-ad5d-6a3b9df48a6b,2024-10-27 10:24:09,I am thrilled. Everything feels awesome and happy. I think this is excited and celebrate! 😊,feliz,43,no binario,Norte
+09afa47c-8ee7-479e-a5f4-7ff75d4a5508,2025-08-23 13:22:41,"I am thrilled because it is amazing, thrilled and pleased!",feliz,26,no binario,Centro
+a1d0db6c-1cc2-4e95-a237-dfb2e65e0d21,2024-04-10 07:14:28,This is unexpected! Incredible!,sorprendido,45,no binario,Oeste
+b79572c2-b6f8-4fef-b4e3-5f459ee4bcb5,2025-07-18 04:20:19,"I am so surprised because it is surprised, fascinating and amazed! I cannot believe it!",sorprendido,67,masculino,Oeste
+337c68b7-1cf3-4b7f-8079-d2d300948502,2024-11-18 10:16:11,This makes me smile. Everything feels thrilled and delighted. I think this is joy and great!,feliz,62,masculino,Centro
+6104e182-3c06-4adc-92bc-72406e2d7f68,2025-08-01 03:55:44,"I am so happy because it is fantastic, ecstatic and perfect! I love it!",feliz,39,femenino,Sur
+7b583e40-dcba-469a-a037-876383dd415e,2025-09-03 07:58:43,I am thrilled!,feliz,53,femenino,Norte
+e1a8f247-19fc-4c4e-89ef-0fe3a56f44e3,2025-02-11 16:50:13,This is wonderful. Everything feels smile and wonderful. I think this is great and joy! :),feliz,46,femenino,Centro
+8379dd70-ed3e-48cf-8156-b67ada5fa9a2,2025-02-08 23:51:25,I am frustrated!,enojado,37,masculino,Centro
+b9f81a1a-be49-4f8d-b253-c295f42247f7,2025-08-18 13:35:17,This makes me cry. :(,triste,68,femenino,Oeste
+b604b89b-209e-442c-8e26-1a727e2f00ff,2024-04-30 07:11:51,This makes me mad! So frustrated!,enojado,23,masculino,Oeste
+dbb2aef2-75d5-44e7-9cb5-6d0d97d34485,2025-05-07 03:05:23,"I am heartbroken because it is painful, terrible and depressed. Very disappointing",triste,66,masculino,Este
+d1586239-bbef-409e-be54-02391157279f,2024-04-16 00:49:21,This is normal. Everything feels adequate and usual. I think this is common and acceptable. Nothing special.,neutral,60,masculino,Norte
+c1393098-460b-4d49-8606-4e74d8551599,2025-04-01 06:41:40,This is wonderful. Everything feels delighted and thrilled. I think this is excited and great! 😊,feliz,46,femenino,Centro
+bc018c5a-0c80-4a5a-8d87-962bc1c85f23,2025-09-26 09:39:49,This hurts. I feel terrible,triste,37,no binario,Centro
+3fb5bf43-d325-4c70-b4b1-9bc0b51a9282,2024-06-30 03:55:32,"This is normal because it is acceptable, adequate and usual. It is okay.",neutral,29,masculino,Oeste
+4081c440-432d-4516-95fa-45e1e2170c1f,2025-04-20 14:28:28,It is average. Everything feels sufficient and typical. I think this is reasonable and standard.,neutral,64,masculino,Sur
+0b8479ea-8bf1-4d78-9ba5-69cfe30d7f4f,2025-07-15 16:02:37,What a shock! Wow!,sorprendido,34,femenino,Este
+8db653b0-849b-4459-9fc6-11c483d74971,2025-03-06 04:14:51,I am astonished!,sorprendido,36,masculino,Norte
+8f6a49f8-d7be-4588-b5fa-190f25e60dec,2024-05-28 10:29:16,Wow this is!,sorprendido,34,femenino,Norte
+f8e649bd-ba77-4d04-8f04-c8975feb1b26,2024-12-25 14:18:00,"Nothing special because it is sufficient, normal and reasonable. Just fine.",neutral,28,no binario,Norte
+34ea486f-139b-4282-9794-19496e5b2da4,2025-10-31 05:46:11,I am disappointed. Everything feels bad and crying. I think this is down and unfortunate. This is awful,triste,19,masculino,Norte
+6a148927-86fb-4871-a9e5-9a502450835f,2024-06-08 18:11:14,It is fine. Everything feels standard and common. I think this is reasonable and acceptable.,neutral,45,no binario,Sur
+d35ce323-00e2-4cdc-803e-1934f77be684,2025-08-08 08:02:01,This makes me smile. Everything feels brilliant and fantastic. I think this is thrilled and excited! This is great!,feliz,41,femenino,Este
+8c554732-964b-439b-bee3-d9bf6c3aecac,2024-12-22 14:41:05,"This makes me smile because it is great, thrilled and joy! This is great!",feliz,18,no binario,Este
+c46ce8fe-f50f-4bb2-a025-fbf642acf482,2025-01-17 05:48:12,This makes me cry. Everything feels depressed and upset. I think this is disappointed and terrible. I feel terrible,triste,58,femenino,Oeste
+b875ba96-f15f-4ab2-bc2a-c06c1d039e43,2025-08-13 23:34:59,This makes me mad! So frustrated!,enojado,46,no binario,Oeste
+f69bf536-aec8-4169-a0de-4d666ee25425,2024-12-06 22:02:43,What a shock. Everything feels fascinating and wow. I think this is surprised and amazed! I cannot believe it!,sorprendido,66,masculino,Este
+42b10a81-d67b-4ec6-9475-e1ec77bdb07b,2025-09-15 00:45:32,"I am so angry because it is mad, unacceptable and furious!",enojado,56,femenino,Sur
+4c0d83c5-8ef8-40c9-b582-d02add2a67ea,2025-08-23 12:35:54,This is typical. Everything feels sufficient and okay. I think this is standard and average. It is okay.,neutral,68,masculino,Sur
+a4857ae1-6944-4b12-982f-036a9b44e9f2,2025-08-23 01:20:58,This is incredible! What a shock!,sorprendido,32,femenino,Centro
+b1a7eb2d-6714-4b6e-b0ba-72a4b8c70536,2024-10-24 16:05:47,It is fine.,neutral,54,masculino,Norte
+1f106065-6685-4091-91f9-39d52f0381ae,2025-01-13 07:18:30,It is fine. Everything feels adequate and average. I think this is standard and reasonable.,neutral,46,femenino,Este
+6425e4c9-b76e-4330-9e9e-59db124d6e0e,2025-02-26 18:55:45,This is typical. Everything feels acceptable and typical. I think this is usual and reasonable.,neutral,62,no binario,Este
+21ef365d-5cd2-4ffd-9bc1-ccb8e680109a,2025-05-21 01:48:52,"I hate this because it is pissed, stupid and hate! So frustrated!",enojado,22,no binario,Sur
+e80c4d0c-0c87-40cc-af4c-3209de955fc5,2024-03-30 12:51:51,"It is fine because it is reasonable, okay and adequate. It is okay.",neutral,65,femenino,Este
+10d51f4e-0b65-419e-8328-460b4251dd1f,2024-02-18 01:00:05,"I am so angry because it is pissed, angry and frustrated! So frustrated!",enojado,39,femenino,Norte
+c30f97ce-8c09-40b0-bb7e-492d05ee4f72,2026-01-09 10:46:00,Nothing special. Just fine.,neutral,54,no binario,Sur
+3035d8c0-4ff9-49d5-a749-a1d8a495ca5b,2025-12-02 03:58:51,This is amazing! Incredible!,sorprendido,28,femenino,Oeste
+77212b9b-8bd8-4cd5-8c11-09aa0c8890a8,2025-09-08 19:51:12,"This is devastating because it is depressed, devastating and painful...",triste,39,no binario,Este
+8454435f-2391-4cd2-9dad-412156adaca5,2024-12-03 05:29:53,This is devastating. Everything feels lonely and hurt. I think this is terrible and heartbroken. This is awful,triste,51,masculino,Sur
+e2087f83-712c-4d64-9264-6f16f1c6d377,2024-02-04 16:24:57,"Wow this is because it is unbelievable, unexpected and stunned! What a shock!",sorprendido,64,masculino,Este
+8a60c45c-441e-46e4-abe4-794f5a02ed48,2024-12-12 04:54:38,"This is normal because it is adequate, usual and regular. Just fine.",neutral,26,no binario,Oeste
+f742c6ab-1d44-43ca-b736-d9199bcc2ca8,2025-07-10 07:05:01,I am thrilled. Everything feels thrilled and pleased. I think this is joy and excited! :),feliz,39,masculino,Centro
+004e5445-1718-4389-9eba-885b0b0e6629,2024-08-21 00:05:09,"This is typical because it is typical, adequate and okay.",neutral,67,no binario,Norte
+4c059fab-592f-4f98-8d1a-8d23d1cfe899,2025-06-01 03:31:29,This is wonderful! This is great!,feliz,38,no binario,Norte
+bca84423-2b97-4477-8663-7958dbd8c1af,2024-11-16 10:10:24,I feel amazing! 😊,feliz,69,no binario,Este
+6b6a4ec4-1cc1-4a06-b73d-e5204bc924dd,2025-05-01 12:36:31,"Wow this is because it is unexpected, mind-blowing and amazed! I cannot believe it!",sorprendido,31,masculino,Oeste
+da28337b-746e-43e4-a2ad-4c4f3e620f18,2025-08-10 08:52:23,"Wow this is because it is amazed, stunned and wow! What a shock!",sorprendido,54,masculino,Sur
+e3008e09-807e-443d-9097-196637c9e2ab,2024-12-29 14:59:34,This is unacceptable!,enojado,32,masculino,Oeste
+c2689fb6-580f-4cd4-881b-0c696b61187e,2024-06-21 08:50:48,"I am so happy because it is smile, wonderful and pleased! I love it!",feliz,62,no binario,Este
+bd012af4-4127-4854-af52-f0cc602df120,2024-11-15 01:37:16,"I am outraged because it is upset, pissed and unacceptable! This is ridiculous!",enojado,65,masculino,Oeste
+9ee49e31-03c5-496e-93bf-81ebcef40bce,2025-04-12 19:44:59,This is unacceptable! So frustrated!,enojado,38,masculino,Oeste
+f7a85194-bf93-4997-b233-9b189cd280b7,2025-10-12 13:47:56,"This hurts because it is upset, down and disappointed...",triste,66,femenino,Centro
+f316c400-9b11-4b78-aa82-31b21155bb3c,2025-07-23 18:44:34,"I am heartbroken because it is gloomy, disappointed and lonely. Very disappointing",triste,67,masculino,Este
+8935f3f1-d191-494f-9529-13c05a6bffca,2025-10-09 13:10:40,This makes me mad. Everything feels annoyed and pissed. I think this is infuriating and outraged! So frustrated!,enojado,19,no binario,Centro
+37684afb-e3dd-4255-8f17-f5fe1489a3c3,2025-09-30 12:32:06,"I am frustrated because it is irritated, hate and upset! So frustrated!",enojado,55,masculino,Oeste
+cad18635-280c-4ada-bd40-e2e7c5151b50,2024-11-04 04:47:33,"This makes me mad because it is furious, upset and outraged! I hate this!",enojado,69,no binario,Oeste
+d1562c0c-f78b-4fc8-a1d6-9fd5a394a8c6,2024-11-27 00:41:03,This is incredible! What a shock!,sorprendido,19,masculino,Centro
+730724fb-a0b5-4f89-b2e4-290a21a085d5,2024-08-19 12:41:06,This is terrible. Very disappointing,triste,42,no binario,Oeste
+1f73e0f1-110a-4c79-9f67-e5ab8308ec78,2024-06-29 05:16:23,"I feel awful because it is heartbroken, crying and awful. This is awful",triste,40,no binario,Centro
+83682c8b-e06e-4ab2-a211-29921050a20d,2024-03-13 08:01:32,"It is adequate because it is regular, usual and fine. Nothing special.",neutral,34,no binario,Norte
+4d048abc-eacd-4a86-a419-838bd4840ce6,2024-10-29 10:57:46,"This is unexpected because it is surprised, amazed and unexpected! Incredible!",sorprendido,25,no binario,Oeste
+24f3ce8f-ae0d-4225-a1b4-1757bc181c6f,2024-11-04 09:06:12,This is okay. Everything feels average and regular. I think this is adequate and acceptable. Pretty normal.,neutral,40,no binario,Oeste
+99740c91-b19a-4c0b-8be9-7bf9669e947d,2024-09-11 14:20:56,It is acceptable. It is okay.,neutral,43,no binario,Centro
+1e084c7f-590c-4103-81df-2f78c4fe54ca,2024-03-18 09:43:31,This makes me smile!,feliz,65,no binario,Este
+db383cc6-bb3a-41f7-b6ca-76f6768335af,2025-08-07 19:39:04,I feel down. :(,triste,68,masculino,Norte
+92d0dc73-0bf3-4882-88f9-8ea46d9044fe,2025-05-31 16:39:17,I hate this! So frustrated!,enojado,46,femenino,Oeste
+8ead6590-9bf9-4726-8f37-950a5d2c3e75,2024-08-19 11:58:31,This is wonderful. Everything feels excited and happy. I think this is wonderful and perfect! I love it!,feliz,57,femenino,Centro
+1137728e-b04b-4142-b3d1-58e150247e19,2024-10-24 03:02:02,This makes me mad! So frustrated!,enojado,63,femenino,Norte
+2c6c0742-0993-459a-9697-e9316daebfb1,2025-08-07 16:20:10,This is standard. Just fine.,neutral,32,masculino,Sur
+29615abb-fa4a-4fd9-878f-ea7a0628335c,2024-11-18 02:36:45,I am thrilled. Everything feels joy and wonderful. I think this is excited and cheerful! 😊,feliz,22,no binario,Norte
+5156ecbd-d20d-475e-b462-efe1bc81b64b,2024-02-06 22:38:02,"This is okay because it is standard, reasonable and adequate. Nothing special.",neutral,60,no binario,Este
+808f5b56-ceff-43e3-a6d3-287608bda39b,2025-11-17 17:39:39,This is unexpected! I cannot believe it!,sorprendido,58,masculino,Oeste
+0d5ce9e1-3a00-4085-b491-75959e63da2d,2024-06-20 14:13:26,I am so sad. Very disappointing,triste,58,no binario,Centro
+9b6e9baf-c238-4afa-8d7d-0933c3ae6fd1,2025-07-24 15:55:41,"It is adequate because it is okay, acceptable and moderate. Just fine.",neutral,32,no binario,Oeste
+84386ee7-4add-4d92-8b9c-3834d1fb292f,2025-04-27 15:44:05,I feel incredible. Everything feels joy and amazing. I think this is awesome and great!,feliz,56,no binario,Norte
+060f8061-5144-4fa3-9519-0037a2da82c2,2024-02-19 22:41:34,This is standard. It is okay.,neutral,59,no binario,Centro
+95a2735a-3fb0-49c1-a1ce-3b65c54dcd36,2025-02-09 02:18:59,This is wonderful! This is great!,feliz,27,no binario,Norte
+fa4d589c-a859-48ef-b5b6-c11338972ca6,2024-07-07 09:50:12,I cannot believe this. Everything feels surprised and amazed. I think this is mind-blowing and unbelievable! Incredible!,sorprendido,55,masculino,Oeste
+d91fff2b-83fa-4b3c-a708-ea82c75a05ae,2025-05-16 20:04:57,This is unacceptable! I hate this!,enojado,51,no binario,Oeste
+48a22cdb-c9fd-4d61-89e0-05a52858c03c,2024-09-02 20:22:33,This is okay. Nothing special.,neutral,32,masculino,Este
+5990b971-35b5-4306-aa69-b652db197d96,2024-07-30 10:50:32,What a shock. Everything feels unexpected and surprised. I think this is remarkable and amazed!,sorprendido,59,no binario,Este
+f150c214-ebe8-48d7-94c9-5e039071ee0a,2024-10-07 17:16:08,Wow this is. Everything feels amazed and shocked. I think this is incredible and mind-blowing! What a shock!,sorprendido,39,masculino,Centro
+74db3697-769a-413e-a007-124440b5ba79,2025-06-20 01:05:26,It is average. It is okay.,neutral,58,femenino,Este
+e72ef21b-4bef-4895-9269-8ad5f6529b37,2025-02-20 02:28:49,"I feel amazing because it is great, perfect and celebrate! :)",feliz,33,no binario,Sur
+6c651c65-e8a6-4b92-9639-1f645e6bd69c,2025-03-11 11:34:01,"This makes me mad because it is angry, irritated and furious!",enojado,54,no binario,Norte
+dcab484e-7b6c-4006-94e5-a30e70d9f25d,2024-05-25 04:58:33,"I love this because it is happy, cheerful and great! :)",feliz,39,masculino,Oeste
+fc45456b-7a55-4542-b481-ac5f39f6e7f2,2025-08-17 16:24:06,I am so angry. Everything feels livid and furious. I think this is frustrated and pissed! So frustrated!,enojado,38,femenino,Sur
+6e8d7f5f-94ec-4c3b-8055-2be3b5fc7380,2024-02-24 21:07:04,What a great day. Everything feels delighted and cheerful. I think this is happy and awesome!,feliz,53,femenino,Centro
+3e305449-5180-469e-b384-25b5892c7675,2024-02-01 14:09:13,"I cannot believe this because it is unexpected, extraordinary and fascinating! Incredible!",sorprendido,18,no binario,Sur
+bb63ec8e-7e8d-43a2-9a4e-cd80d53962e3,2025-11-09 03:37:02,I feel amazing. Everything feels love and delighted. I think this is brilliant and amazing! 😊,feliz,28,no binario,Norte
+d414d61f-a46e-4bca-af9f-2b0d059cfa8a,2025-01-25 23:56:57,This is okay. Just fine.,neutral,69,femenino,Este
+dc2a6cda-598a-42bb-b3bf-2dc0330403fc,2024-05-08 00:23:42,It is acceptable. Just fine.,neutral,37,no binario,Oeste
+e714e053-a046-463f-954e-27f20835c62e,2025-12-25 11:41:38,What a shock!,sorprendido,37,masculino,Sur
+e42338ef-2a3f-4da3-b581-c95c5a33bf74,2024-02-17 00:52:25,I am outraged! I hate this!,enojado,26,masculino,Norte
+e672f1fe-dec9-44d4-8180-00ef52a40aec,2025-11-22 12:51:42,It is adequate.,neutral,23,masculino,Sur
+b4f8877b-ae36-428e-b97b-4a7a5592febb,2024-02-19 19:25:32,"I am thrilled because it is cheerful, wonderful and perfect! I love it!",feliz,39,femenino,Norte
+30c3bc27-2709-4b78-a62a-3924cfcb54b4,2025-12-12 11:08:44,This hurts. Everything feels heartbroken and miserable. I think this is crying and upset. I feel terrible,triste,24,femenino,Sur
+77def970-0b5d-4ec8-a469-66654a9b2b99,2024-03-11 20:41:14,I am so angry!,enojado,27,femenino,Este
+3b71e789-6985-4371-94d4-83f82c29a888,2024-08-01 04:39:27,I am outraged! So frustrated!,enojado,21,masculino,Sur
+06559110-070c-4e18-8b7d-a09fc11c8791,2024-01-24 13:44:34,This is amazing. Everything feels astonished and remarkable. I think this is unexpected and fascinating!,sorprendido,34,femenino,Oeste
+eb4c3d53-0d81-4944-a39e-a43182a22606,2024-03-04 01:32:28,This is unexpected! What a shock!,sorprendido,44,no binario,Centro
+75290a81-466b-4951-afd5-7586cd795f6f,2024-09-25 10:44:23,This is standard. Just fine.,neutral,36,femenino,Oeste
+8c850b44-a073-4d04-b536-2205f7e4eb87,2025-04-08 10:07:59,This is amazing! Wow!,sorprendido,59,masculino,Este
+e77c78b0-be04-44a3-b937-1e52c6362e13,2025-06-25 11:54:30,Wow this is! I cannot believe it!,sorprendido,58,masculino,Norte
+5925b00f-c66f-49a8-8333-d01224735496,2024-06-18 03:29:44,"This is terrible because it is upset, miserable and sad. :(",triste,19,no binario,Centro
+edcf92d4-fd00-4c7f-b7b9-c4ee2e40e9de,2024-03-16 04:18:58,I am so happy. Everything feels excited and pleased. I think this is celebrate and happy! I love it!,feliz,32,no binario,Norte
+512a1e26-3de3-4d03-b5da-10b1dec2d0ac,2025-06-30 21:08:56,I feel amazing. Everything feels excited and amazing. I think this is awesome and brilliant! :),feliz,19,masculino,Oeste
+8a0dff1d-b359-430b-9fdb-a9ff2383597f,2025-07-24 15:12:55,What a great day. Everything feels celebrate and love. I think this is brilliant and fantastic! This is great!,feliz,60,femenino,Norte
+3c55334d-503f-4fc2-ad8d-486b66510b38,2024-08-26 02:52:30,"It is acceptable because it is normal, usual and common. Nothing special.",neutral,25,femenino,Centro
+b82c3b32-9b08-4280-943b-e881bd8b896a,2024-02-06 05:55:33,"This is unexpected because it is astonished, amazed and stunned! I cannot believe it!",sorprendido,47,no binario,Oeste
+a1abde69-8ba8-40ed-9b34-4caa1b70ce7d,2025-03-12 13:40:02,I am so surprised. Everything feels stunned and unbelievable. I think this is wow and fascinating! I cannot believe it!,sorprendido,56,femenino,Norte
+426ec2e5-20cd-4b43-bb71-8f6f37c780e8,2025-01-19 12:56:35,What a great day. Everything feels smile and pleased. I think this is cheerful and celebrate! 😊,feliz,40,femenino,Sur
+3f4d3a8d-ef82-4083-8e0b-bc5cad8eb559,2025-11-01 06:24:52,I cannot believe this! I cannot believe it!,sorprendido,21,no binario,Oeste
+723773f3-d0f1-45ee-a0b0-8fbc3eb6a214,2025-09-29 16:18:05,I am stunned. Everything feels stunned and fascinating. I think this is amazed and unexpected! Wow!,sorprendido,61,femenino,Sur
+688e7bc8-329c-47f3-b485-153fb3266be8,2025-02-01 16:03:08,"Wow this is because it is surprised, stunned and amazed!",sorprendido,58,masculino,Este
+ac5cf82d-2b55-483c-a592-ed6fc8a95bf1,2025-06-01 11:50:06,"I feel incredible because it is thrilled, amazing and love!",feliz,30,femenino,Oeste
+df841957-2aed-4fc3-9744-0a7cfc0523e0,2024-11-15 18:23:38,This is unacceptable. Everything feels angry and irritated. I think this is stupid and outraged! So frustrated!,enojado,49,femenino,Oeste
+3f5cbc9c-4c1e-47ea-bc0e-9e79b443efe9,2025-09-29 00:25:52,I hate this. Everything feels ridiculous and livid. I think this is upset and infuriating!,enojado,65,no binario,Oeste
+e61e39ca-51c6-46e0-b011-c76d6e9f6f92,2024-09-07 00:47:37,"I am astonished because it is remarkable, astonished and unbelievable! I cannot believe it!",sorprendido,40,femenino,Centro
+4cb855a7-38d5-455e-be83-04b20bd010dd,2024-02-19 18:37:44,I feel awful. I feel terrible,triste,50,femenino,Norte
+499fe0a5-038d-4431-a002-d44b9efa3595,2025-02-04 14:33:10,How fantastic. Everything feels fantastic and delighted. I think this is ecstatic and happy! I love it!,feliz,32,femenino,Sur
+887f73a7-c675-4721-a5aa-8ef1ab6de241,2024-11-24 18:48:45,I feel awful. :(,triste,64,no binario,Oeste
+37d15555-9fec-4680-bd0c-48eef40d0445,2024-01-27 21:57:13,This makes me smile! This is great!,feliz,67,masculino,Sur
+3531c90f-40b1-432b-98d2-90e6163b72e0,2025-06-09 01:18:39,What a great day! 😊,feliz,41,femenino,Sur
+005d7d8c-227c-41d2-9090-2e911ba450bd,2025-04-20 08:26:12,This is wonderful. Everything feels cheerful and perfect. I think this is awesome and ecstatic! I love it!,feliz,29,no binario,Sur
+db033831-d28c-45b5-954d-c233bca34917,2024-02-29 10:44:00,It is average.,neutral,42,femenino,Norte
+31ffef27-03af-4bae-b04f-608c795efef6,2024-09-23 05:26:00,This is devastating. Everything feels bad and depressed. I think this is miserable and devastating. Very disappointing,triste,49,no binario,Norte
+cc202ffb-0743-4883-8678-83482bd2f3de,2025-02-01 22:07:59,What a shock! What a shock!,sorprendido,24,femenino,Sur
+94406b3c-ef18-4dfe-bc3e-1551478c98c5,2024-04-25 15:35:00,"I feel amazing because it is awesome, joy and fantastic! :)",feliz,56,femenino,Norte
+05a4aa8a-e9c6-49d4-b599-8305a43192dd,2024-03-07 06:47:20,This is terrible. Everything feels hurt and down. I think this is devastating and gloomy. This is awful,triste,38,no binario,Este
+1d312193-cf0e-4b65-8a84-215952cde8d1,2025-02-25 05:55:19,"This is terrible because it is heartbroken, devastating and upset. This is awful",triste,62,masculino,Este
+4599b188-0133-4596-b92c-f1f1d59c419c,2025-04-07 12:02:58,Nothing special. Just fine.,neutral,36,femenino,Sur
+35947165-d3fc-43cf-93f7-6f0232c40a5e,2025-11-10 18:55:13,It is adequate. Everything feels sufficient and acceptable. I think this is okay and reasonable.,neutral,29,masculino,Este
+766d9d92-4e57-49fa-87aa-cf4ba07297ce,2025-11-30 17:31:53,It is adequate. Just fine.,neutral,29,femenino,Norte
+78f3129f-4f2e-4334-8c12-eb5ac06f801d,2025-11-29 18:41:27,I feel amazing! This is great!,feliz,65,femenino,Este
+dd0af0be-271e-4459-8bbf-6b27e6e84e6d,2024-10-27 07:25:21,This is terrible. I feel terrible,triste,60,masculino,Centro
+1b89df6e-ca61-4488-9c1a-06d950da223e,2024-04-28 20:17:34,It is fine. Just fine.,neutral,62,femenino,Sur
+7ffd3e7f-7cd1-4d53-9f55-b872aa37a550,2024-10-22 06:28:07,I feel down...,triste,53,masculino,Centro
+265bd531-de97-40c3-b30b-a2b5471ad41a,2024-04-20 22:32:14,I cannot believe this. Everything feels remarkable and shocked. I think this is incredible and mind-blowing! What a shock!,sorprendido,33,no binario,Centro
+ddf6be2d-9dfe-41aa-9573-1b9253706b93,2025-11-28 20:39:19,"What a shock because it is astonished, amazed and shocked! Incredible!",sorprendido,39,femenino,Sur
+ee97be1c-bb1a-4c9a-be5b-360a493a3584,2025-08-19 06:04:19,I am so sad. :(,triste,38,no binario,Norte
+ea01b8ff-e140-4d9c-9216-05e445932a0e,2025-07-27 12:31:26,This is standard.,neutral,40,no binario,Centro
+50219a25-5c98-470f-9be5-6d163b5d1985,2025-02-13 20:00:14,It is adequate.,neutral,51,no binario,Norte
+c61345b3-7e1e-411e-9cec-34158d809fce,2024-08-05 07:54:30,I am heartbroken. Everything feels sad and depressed. I think this is heartbroken and hurt...,triste,68,no binario,Oeste
+307111fc-eeb4-49b0-9057-3aee4222b200,2025-04-08 23:21:49,"It is average because it is adequate, fine and normal. Just fine.",neutral,25,no binario,Este
+931c55a7-320e-4a96-a4e0-d98e49aa6bd0,2025-06-06 02:35:05,"I am so surprised because it is wow, shocked and amazed! Incredible!",sorprendido,52,femenino,Sur
+98c68f7a-1d3e-4741-893a-44525c29c144,2025-05-13 04:46:37,"This is stupid because it is unacceptable, annoyed and disgusting! So frustrated!",enojado,54,no binario,Centro
+e447dd23-5a97-4c9a-809f-bcb9921e8c20,2025-06-23 14:09:08,This is standard. Everything feels regular and sufficient. I think this is fine and adequate. Pretty normal.,neutral,59,femenino,Centro
+4cdc45c0-83f0-4dec-bb6c-c77fac681cb3,2024-07-16 08:33:55,I am furious. Everything feels ridiculous and furious. I think this is frustrated and angry! I hate this!,enojado,64,femenino,Oeste
+ee82e00f-e3ba-46ae-b4e8-9abe99bfa748,2025-02-27 20:16:37,It is adequate. Everything feels fine and adequate. I think this is moderate and standard. Just fine.,neutral,24,no binario,Norte
+ed150929-38e2-496f-ada5-5b8f38660c09,2025-08-29 14:39:29,I am disappointed. Everything feels unfortunate and lonely. I think this is down and awful. This is awful,triste,67,no binario,Este
+8cc2094e-0f9d-4ee3-b38c-0d8ca807af0c,2024-05-31 21:09:58,Wow this is. Everything feels surprised and incredible. I think this is amazed and astonished! What a shock!,sorprendido,59,no binario,Oeste
+6564b095-bda4-4ffc-ab6a-25a596df2372,2024-09-19 13:04:43,"Wow this is because it is incredible, remarkable and shocked! Incredible!",sorprendido,51,masculino,Este
+6113a559-45ac-4a39-9843-eecd6b6f75e7,2024-06-17 23:32:59,I am so sad. Everything feels upset and sad. I think this is down and painful...,triste,38,no binario,Centro
+1a742465-ad92-4d62-9dd6-f14a59ed51b3,2024-10-16 05:13:28,This is unexpected. Everything feels fascinating and astonished. I think this is unbelievable and incredible! Incredible!,sorprendido,19,femenino,Centro
+9ee698fa-3ae9-4b4f-8732-d1ab6c3c80d6,2025-02-08 16:20:25,I feel incredible! :),feliz,49,femenino,Este
+db36325a-7408-4962-9177-da932f976b75,2024-10-18 14:31:51,"I feel awful because it is bad, depressed and down. I feel terrible",triste,68,masculino,Sur
+4da78f97-f8fc-4600-85ff-3cd8b4be705f,2025-11-20 16:07:47,"This is typical because it is regular, usual and reasonable. Nothing special.",neutral,63,masculino,Oeste
+e0ebe8d3-8154-4fe1-b3ee-723bb6e63cd3,2024-03-01 21:54:51,I am stunned. Everything feels shocked and wow. I think this is unexpected and remarkable! Incredible!,sorprendido,33,no binario,Oeste
+df4bf349-5511-4e5a-9210-119183962814,2024-07-11 14:20:08,How fantastic. Everything feels brilliant and great. I think this is delighted and joy! 😊,feliz,21,femenino,Este
+d7e96526-412a-459d-b69a-3e607e8d856e,2025-03-28 20:33:20,What a shock. Everything feels unbelievable and amazed. I think this is incredible and extraordinary! What a shock!,sorprendido,64,no binario,Sur
+29ca9e7a-04a7-4586-b50c-6b6b6907b3db,2024-11-27 17:51:12,"This makes me mad because it is upset, ridiculous and furious! Unacceptable!",enojado,60,no binario,Este
+78564ee6-a64f-44ee-a053-fcee1a3fe41b,2025-09-01 01:05:27,"This is unexpected because it is extraordinary, remarkable and wow! Wow!",sorprendido,51,femenino,Sur
+5c39a6ae-f086-4b13-a114-6194f5701afa,2025-01-14 14:19:45,I cannot believe this. Everything feels remarkable and unexpected. I think this is surprised and extraordinary! What a shock!,sorprendido,51,no binario,Norte
+0aa46a06-f00a-4533-a1f7-fef06407b721,2026-01-02 05:29:07,This is typical.,neutral,42,no binario,Este
+27dfa28b-2a47-4929-a102-f5d788f7a928,2025-01-19 22:30:50,"I am stunned because it is extraordinary, incredible and astonished!",sorprendido,59,no binario,Oeste
+e8bbd9f2-0c94-42cc-a2df-c3916390194f,2024-07-10 11:43:02,"What a shock because it is incredible, amazed and wow!",sorprendido,47,masculino,Norte
+14f1478e-5b08-4846-bec5-091beb4d9150,2024-03-18 07:45:44,I am so sad. Everything feels depressed and devastating. I think this is painful and heartbroken. I feel terrible,triste,56,femenino,Sur
+29a67a75-5288-428e-a88e-ef9aea572bb1,2024-03-26 08:12:53,"This is incredible because it is mind-blowing, remarkable and unexpected! Incredible!",sorprendido,65,no binario,Oeste
+536d37f8-93a4-471b-b678-79104425671d,2025-01-24 21:57:25,I am stunned! I cannot believe it!,sorprendido,37,masculino,Sur
+fd837ab5-75e4-43b7-bfdc-26f63df63fe7,2024-02-20 05:01:33,"I am so surprised because it is shocked, fascinating and unbelievable! Incredible!",sorprendido,68,masculino,Este
+2365f242-a8e8-47f4-95c8-5bd5f491ff4c,2024-11-13 07:02:17,"I am so sad because it is hurt, heartbroken and terrible. Very disappointing",triste,56,masculino,Sur
+4ff0ab39-5802-4060-be7f-9f82d76fb681,2024-08-25 04:27:40,"It is acceptable because it is okay, moderate and acceptable.",neutral,42,masculino,Norte
+80cb1d94-8ebf-440e-89b5-355a70489dce,2025-01-17 06:02:56,"This makes me mad because it is unacceptable, annoyed and hate! I hate this!",enojado,35,masculino,Norte
+3006d977-16b8-40bb-9e54-2680c88adfc2,2024-08-01 19:53:52,"This is ridiculous because it is frustrated, outraged and ridiculous! So frustrated!",enojado,28,femenino,Este
+c16e3865-e6ae-4caa-891e-d6a149834325,2025-01-09 22:47:39,"I hate this because it is annoyed, furious and disgusting! Unacceptable!",enojado,55,femenino,Norte
+af1410d6-ca82-4aaa-8503-77fb0e48d0c4,2025-10-04 04:32:16,This is typical. Everything feels common and typical. I think this is acceptable and moderate. Pretty normal.,neutral,34,no binario,Norte
+85b49ab5-e594-47f1-a887-36b9f80cbba7,2024-05-29 02:25:22,"This is ridiculous because it is frustrated, annoyed and livid!",enojado,68,femenino,Oeste
+6e68c7f6-7145-4ad9-a077-f43829a00b1c,2024-07-05 16:00:17,This is stupid!,enojado,18,masculino,Centro
+e942a0a2-8a7f-464a-8580-2e13270304a7,2025-07-27 09:25:15,"This is standard because it is fine, sufficient and moderate.",neutral,42,femenino,Este
+dc0844de-ccd9-4c33-9783-494cfd5e5c1e,2024-10-28 16:08:14,"This is devastating because it is upset, down and devastating. This is awful",triste,29,no binario,Este
+ce2f2680-bd7d-40cc-af51-caa8cda37fa5,2025-01-07 17:18:40,"What a great day because it is wonderful, amazing and pleased! 😊",feliz,57,femenino,Oeste
+110a2dc3-6429-47a7-a8e1-6cf4284cab36,2025-10-14 17:56:06,"I am astonished because it is remarkable, mind-blowing and fascinating! Incredible!",sorprendido,24,femenino,Oeste
+7103ce55-0633-4461-84ed-45f65b9ae865,2024-07-02 01:48:16,Wow this is! What a shock!,sorprendido,45,femenino,Sur
+60678a80-a51f-4a5f-9a75-3b7085b13505,2025-12-17 23:21:15,I hate this. Everything feels disgusting and angry. I think this is upset and stupid! I hate this!,enojado,45,masculino,Este
+f860814d-c6b6-4771-a40e-bed79adafe4f,2024-11-08 07:07:14,I am disappointed. This is awful,triste,35,femenino,Norte
+befb234c-dcba-46f5-8154-08d948e7b716,2025-02-23 06:14:54,I feel awful. Everything feels unfortunate and crying. I think this is upset and heartbroken. I feel terrible,triste,40,masculino,Sur
+7b7eded3-76b4-4b07-91b7-74cddca12152,2025-01-10 12:24:24,It is adequate. It is okay.,neutral,39,femenino,Oeste
+7c978a29-9312-42c4-854b-b9e02b1fb413,2024-08-10 01:03:56,"I am astonished because it is extraordinary, fascinating and surprised! I cannot believe it!",sorprendido,39,femenino,Oeste
+1df8b467-edb0-4145-a51d-c7c7b08f839d,2025-03-25 07:03:29,It is fine. Nothing special.,neutral,60,femenino,Sur
+c5c46875-6eb4-43bf-843a-4d5fdd8b0be3,2025-08-01 06:21:32,"This is okay because it is adequate, typical and standard. Nothing special.",neutral,42,masculino,Oeste
+dbd25d19-46da-4f6b-b72f-73d012556f3a,2024-09-26 23:05:51,This is unacceptable! This is ridiculous!,enojado,57,femenino,Norte
+34a64e45-4414-42c4-9c0e-b3726f2886d0,2024-05-23 21:54:24,"I hate this because it is outraged, livid and angry! Unacceptable!",enojado,48,no binario,Sur
+c68510f3-492c-44b1-ad50-be1035a71581,2025-12-03 23:05:19,I am frustrated!,enojado,59,femenino,Centro
+69f7f00c-8010-4108-8444-62bda00c577e,2024-07-03 16:04:38,I am so angry! Unacceptable!,enojado,63,no binario,Norte
+07eee1a7-f6a7-4977-bdf5-606a4822e5a5,2024-12-17 09:26:09,"I feel down because it is painful, lonely and disappointed. Very disappointing",triste,20,femenino,Norte
+7fce9dff-4d62-49ab-82bf-54e15a272f3e,2025-08-25 15:49:34,I feel amazing! :),feliz,38,masculino,Este
+3fa1dcae-2c58-40ca-bd67-1eb0229b594a,2024-09-21 02:12:41,"I am outraged because it is ridiculous, stupid and upset! This is ridiculous!",enojado,53,no binario,Sur
+b3ad16e4-6de2-4f01-b30e-d2e511da2afd,2024-06-06 00:11:47,How fantastic! This is great!,feliz,55,masculino,Sur
+e5643621-b981-4cfb-8777-b8116b5cfe26,2024-11-14 00:40:13,What a great day. Everything feels ecstatic and delighted. I think this is love and fantastic! This is great!,feliz,45,masculino,Sur
+b2c0f20b-382c-486d-bad0-61168eaf812c,2025-09-15 01:56:47,This makes me smile!,feliz,49,femenino,Este
+1f67a256-5d0a-4b92-9299-c415f762158b,2024-09-27 22:30:42,Nothing special. Nothing special.,neutral,33,masculino,Sur
+2477fdd2-27a4-4b64-8d3f-8ddac80414f1,2024-02-13 15:15:59,"I am thrilled because it is amazing, thrilled and smile! This is great!",feliz,65,no binario,Centro
+9380be00-2027-4bd5-a023-552b053559a4,2024-03-16 07:55:35,I am astonished. Everything feels astonished and mind-blowing. I think this is extraordinary and remarkable! I cannot believe it!,sorprendido,18,femenino,Oeste
+8a4f7903-e378-4682-b6ca-86f19bf8da86,2025-09-13 22:29:22,What a great day. Everything feels brilliant and wonderful. I think this is fantastic and great! :),feliz,52,no binario,Norte
+9360ade7-42e7-44dd-b79f-081f97beb0fd,2024-02-08 09:19:31,What a shock. Everything feels wow and fascinating. I think this is shocked and stunned! Incredible!,sorprendido,23,masculino,Oeste
+0b052678-4874-44e0-bf4a-fac0f4332b2f,2024-12-28 20:09:55,How fantastic! I love it!,feliz,55,no binario,Norte
+1aa0adb4-80d8-4bd2-91bc-464977c77e4a,2024-05-07 16:33:29,I cannot believe this. Everything feels fascinating and stunned. I think this is mind-blowing and astonished! Incredible!,sorprendido,25,no binario,Oeste
+2b8c574b-0f2c-48a9-86ae-d4dd92b6d0a3,2025-07-02 07:30:14,"I feel down because it is gloomy, devastating and crying...",triste,61,masculino,Este
+caacd245-8905-428b-987e-5a35d19a3758,2024-07-17 08:32:19,"This is typical because it is reasonable, typical and adequate. It is okay.",neutral,25,femenino,Norte
+5147805f-4760-4a06-9ea3-880e715a30cf,2024-12-05 08:40:44,How fantastic. Everything feels great and cheerful. I think this is ecstatic and happy! This is great!,feliz,43,masculino,Sur
+0def51a9-d5bc-4200-b7c7-aaed441f3667,2024-10-18 13:21:43,I am frustrated! Unacceptable!,enojado,45,no binario,Sur
+f011e123-3f53-481a-89ca-618b5f09dae6,2025-06-07 05:05:33,"I am frustrated because it is outraged, irritated and annoyed! Unacceptable!",enojado,31,femenino,Centro
+c5ca8128-a206-4902-b539-9b3be793f13c,2026-01-03 20:06:38,I am astonished! I cannot believe it!,sorprendido,38,no binario,Oeste
+a7d97f22-fe67-4f70-98a7-409f350ccf0d,2025-10-24 10:02:39,It is average. Everything feels regular and adequate. I think this is common and sufficient. It is okay.,neutral,44,no binario,Oeste
+9ea73a49-e354-43f6-9747-1b34efe72be5,2025-07-22 08:59:15,This is amazing! Wow!,sorprendido,60,masculino,Sur
+f1bcc5f5-9b9f-4c8e-9318-eb2f64981ca3,2025-08-21 09:07:45,I am stunned! What a shock!,sorprendido,21,masculino,Este
+7ddab825-4c83-4e4d-b1b5-3d81f0519d56,2025-01-17 19:23:33,"This makes me cry because it is depressed, lonely and terrible. I feel terrible",triste,60,no binario,Centro
+8845ea1a-bb52-421f-89ce-13ab887079e1,2025-06-27 02:29:58,This is terrible. Very disappointing,triste,59,no binario,Centro
+f690064c-491f-4ec9-bec3-8488427d2177,2024-12-21 11:30:08,"I love this because it is awesome, perfect and wonderful! 😊",feliz,25,masculino,Este
+8c880bdd-eb06-4319-808a-53f1078206e8,2024-09-29 06:37:15,"This is typical because it is moderate, usual and normal. Nothing special.",neutral,35,masculino,Centro
+1f62a050-49b3-4600-8f6f-7d09147e827a,2025-08-28 23:22:09,"I am furious because it is hate, mad and frustrated! So frustrated!",enojado,37,masculino,Centro
+e5e7e461-958b-47c2-8fe3-6644c99d589a,2025-09-29 18:52:52,This is unexpected! Incredible!,sorprendido,53,no binario,Centro
+4de41db9-2506-449f-9714-c8f2565de8f4,2025-04-11 13:17:30,This is normal. Everything feels standard and reasonable. I think this is normal and fine. Just fine.,neutral,51,femenino,Sur
+3aa2b6c4-c4c1-4e13-8a71-dede9952ad90,2025-03-11 13:15:53,"I am so angry because it is disgusting, stupid and furious! This is ridiculous!",enojado,63,no binario,Oeste
+4dfaf2c1-cc8a-4cae-b386-f5d087c98d01,2024-08-04 06:47:14,This is devastating. Everything feels unfortunate and lonely. I think this is crying and miserable. This is awful,triste,21,masculino,Norte
+33bbf4bc-2904-4cb0-acf6-76b0af913e38,2024-05-30 17:40:01,This is incredible. Everything feels surprised and unbelievable. I think this is shocked and remarkable! Wow!,sorprendido,18,femenino,Oeste
+aaf5dabe-4c5e-45b8-b269-20ba18402ad6,2024-08-16 18:52:28,"I feel incredible because it is smile, celebrate and happy! This is great!",feliz,67,femenino,Norte
+5f54970a-247c-4c68-9b95-bf9f5b0325ef,2025-01-21 11:38:43,"I am so sad because it is depressed, upset and devastating. This is awful",triste,34,no binario,Norte
+d3a0a9b0-3682-4673-b343-67cf405b0190,2025-02-24 05:20:17,I hate this. Everything feels angry and infuriating. I think this is irritated and hate! Unacceptable!,enojado,63,no binario,Oeste
+b42dd87d-aeab-4a27-8aa7-1a90eea615c9,2024-06-16 15:07:28,"This is devastating because it is hurt, miserable and sad. This is awful",triste,66,no binario,Centro
+292fb809-63d9-4d58-a6ad-f057178d99b5,2024-11-30 00:56:35,This is ridiculous. Everything feels irritated and angry. I think this is mad and disgusting! I hate this!,enojado,39,masculino,Centro
+2f4e822c-0db0-497c-998f-98eb69821721,2025-12-11 22:17:17,I am so angry. Everything feels mad and annoyed. I think this is ridiculous and irritated! I hate this!,enojado,50,no binario,Este
+529beeef-bb72-4370-97b2-08c6022da1bd,2024-08-30 04:28:45,I am so sad. Everything feels hurt and depressed. I think this is bad and heartbroken...,triste,61,femenino,Norte
+b01edf6c-8302-4e06-8482-bac78ad6bfc2,2025-06-13 19:43:13,I cannot believe this! Wow!,sorprendido,20,femenino,Centro
+c709a8ae-1e90-46ac-a93a-695205217081,2024-11-02 05:15:30,I feel incredible! I love it!,feliz,54,masculino,Este
+11341be7-1490-487c-b22d-aa01dd7b9532,2025-05-21 15:51:00,This is typical. Everything feels typical and average. I think this is standard and acceptable. It is okay.,neutral,44,femenino,Norte
+c8de1d60-1133-4a92-b799-7e78e0aae54f,2024-05-21 17:34:14,"I am astonished because it is astonished, remarkable and surprised! Wow!",sorprendido,59,femenino,Oeste
+bf253cbd-ef7e-4738-9ca7-e55cf10f96e8,2025-08-22 06:56:12,I am furious! So frustrated!,enojado,21,femenino,Oeste
+5119685d-9f05-4ba0-8b8d-2e4848bbf1d6,2025-08-30 05:27:03,This is typical.,neutral,50,femenino,Sur
+7a2e2cc6-4140-4f57-96ea-23e7b6d0a09e,2025-09-16 00:13:17,Nothing special. Everything feels common and acceptable. I think this is adequate and usual.,neutral,35,femenino,Sur
+fc3ebc75-8840-458c-a997-0ad89118d492,2026-01-17 14:25:00,"I feel awful because it is heartbroken, sad and miserable. :(",triste,26,no binario,Sur
+0f90624b-0901-40dc-aba3-e51b918fe5ea,2024-07-01 14:35:22,I love this. Everything feels cheerful and pleased. I think this is celebrate and love! This is great!,feliz,26,masculino,Este
+0a43f3b6-d690-4032-bd10-b30cbcf931ca,2025-04-19 12:11:58,This is amazing!,sorprendido,22,femenino,Centro
+094af894-4e9b-4f56-9a02-7148c59cc756,2024-02-17 10:35:49,"This is unexpected because it is amazed, mind-blowing and surprised! What a shock!",sorprendido,55,no binario,Centro
+73c9e477-77b7-46d4-aa55-28119b20b83b,2024-05-29 02:44:08,"Nothing special because it is common, normal and reasonable. Just fine.",neutral,21,masculino,Oeste
+a2dd54d7-045c-4ec9-99f8-86c1a867c46d,2025-07-15 12:18:08,"I love this because it is ecstatic, celebrate and pleased! :)",feliz,30,femenino,Sur
+d5a3b283-5b26-43ec-9920-10fde9d04459,2024-04-01 22:03:52,This is unacceptable. Everything feels annoyed and stupid. I think this is outraged and pissed! Unacceptable!,enojado,64,masculino,Sur
+230bafb0-26a8-4479-ad62-2d42c8f2afbf,2025-08-12 16:11:02,How fantastic! This is great!,feliz,42,masculino,Oeste
+96176cc1-70f6-4d2e-aaa5-9bae74628e6a,2025-04-13 13:22:57,"This is stupid because it is frustrated, disgusting and stupid! This is ridiculous!",enojado,35,masculino,Oeste
+869b7099-cbfe-4eed-8324-24a8ca313147,2024-06-23 03:53:05,It is acceptable. Nothing special.,neutral,58,masculino,Sur
+c802e460-e617-4e43-928c-5cfb1e3035f8,2024-11-04 10:37:44,This is normal. Everything feels acceptable and average. I think this is fine and reasonable. Just fine.,neutral,57,no binario,Oeste
+75dae4ab-2bc1-4eb1-b1b4-51c045f32135,2024-04-10 23:34:46,This is stupid!,enojado,22,femenino,Centro
+5a406e8a-1f12-4e12-8136-4b58db6d70d3,2025-04-04 09:31:01,"I feel down because it is sad, hurt and terrible. This is awful",triste,53,masculino,Norte
+d317ca8d-c37f-427f-a730-16dcbe640314,2024-04-27 18:40:53,"I am furious because it is angry, stupid and irritated! Unacceptable!",enojado,47,femenino,Oeste
+487844c0-7f3c-4564-9a3f-4ca18c71e360,2024-04-09 06:06:01,I am so happy. Everything feels excited and joy. I think this is celebrate and awesome! I love it!,feliz,55,no binario,Norte
+e85bb28d-b04b-4707-8aa6-7cb1e4f877b8,2024-06-09 11:55:25,This hurts. :(,triste,38,masculino,Centro
+0aae5f69-8fc3-4067-80f1-2ba28b8744a4,2024-09-13 17:30:32,I feel incredible. Everything feels joy and pleased. I think this is great and ecstatic! 😊,feliz,44,femenino,Este
+e5bce2e8-3560-4628-bcaf-af24d01838d4,2024-06-24 07:17:13,"I love this because it is ecstatic, joy and amazing! 😊",feliz,68,no binario,Este
+1a0264b9-0789-4fc7-91ee-d494518fd03d,2024-05-26 02:03:05,"What a shock because it is extraordinary, stunned and shocked! I cannot believe it!",sorprendido,29,femenino,Sur
+1524d9f1-17e6-4d83-b422-a2be891d958e,2025-02-12 19:27:08,I feel awful...,triste,48,no binario,Este
+08b8dce5-65e8-483e-8b9c-58c6c19643c9,2025-03-31 06:27:35,I feel incredible. Everything feels ecstatic and great. I think this is delighted and pleased! I love it!,feliz,44,no binario,Centro
+631b2fae-8a01-4dc4-8c68-7cc9333b728e,2024-12-27 02:43:28,"I feel down because it is upset, painful and heartbroken. This is awful",triste,68,femenino,Este
+2eed3a33-e913-43a9-bc29-9d8409dc2879,2025-01-04 03:29:56,This hurts. I feel terrible,triste,25,femenino,Centro
+d6136aac-71bb-4009-aaa1-a72dca51f881,2025-01-15 08:54:34,"It is average because it is common, moderate and usual.",neutral,55,no binario,Oeste
+d97c35da-427a-4b14-8c3c-1f4f18506734,2025-05-30 15:28:22,This is typical. Everything feels reasonable and adequate. I think this is average and usual. Pretty normal.,neutral,68,no binario,Oeste
+6ddc9632-c609-4ddd-847e-571a167dfe65,2024-12-19 02:51:05,This is incredible. Everything feels mind-blowing and extraordinary. I think this is astonished and incredible! Incredible!,sorprendido,36,no binario,Oeste
+7a81eac7-faeb-498d-ad8a-96e5e8400470,2024-09-14 04:51:59,I am so sad. I feel terrible,triste,58,no binario,Sur
+55f925c8-98f3-46aa-8d77-2e33c53cdb0c,2024-06-13 04:34:59,"I love this because it is excited, celebrate and pleased! 😊",feliz,38,masculino,Oeste
+0a7165fe-660a-4eb6-b6c6-ff503145307d,2025-07-19 13:14:49,This hurts...,triste,65,masculino,Sur
+a00aac4a-b45a-4360-a97a-a42187774e89,2025-06-09 05:04:43,I am so angry!,enojado,39,no binario,Este
+4741fdb1-a5f5-44b4-86c4-d1c8e29d6f6f,2024-12-16 01:20:39,I feel down. Everything feels miserable and hurt. I think this is sad and terrible. This is awful,triste,38,no binario,Este
+d1b0cb99-d42a-4c87-b7f9-161446598ffe,2026-01-14 14:19:56,I cannot believe this! Incredible!,sorprendido,38,masculino,Este
+fa0a686f-3418-46ba-a3c7-e5f44a0e9897,2025-12-18 23:39:36,"I cannot believe this because it is incredible, fascinating and surprised!",sorprendido,18,masculino,Sur
+f48ee9dd-1cc3-47bd-ba96-5352e16d6e82,2025-07-24 11:45:56,"I am so angry because it is outraged, pissed and mad! I hate this!",enojado,46,femenino,Sur
+815b6fe4-c902-46f0-ac1b-55be1ca4fac4,2025-12-06 14:53:20,"This makes me smile because it is pleased, amazing and love! I love it!",feliz,59,masculino,Norte
+9e05e625-ecd6-495d-a029-a734f3d9e3db,2024-06-25 21:22:38,"I am disappointed because it is down, heartbroken and bad. Very disappointing",triste,23,masculino,Sur
+a4d5c902-a6a7-40ff-a858-69c1106614fa,2025-08-06 10:07:30,I am astonished. Everything feels fascinating and stunned. I think this is wow and surprised!,sorprendido,54,femenino,Este
+52882e24-6194-41e4-ace5-e6fb53460b4d,2024-05-08 23:43:21,I am disappointed. :(,triste,64,femenino,Sur
+dc05c3b4-18a5-4b25-891a-12d298bc2c7f,2025-11-13 08:33:04,I feel amazing!,feliz,63,no binario,Sur
+7e8170bd-38f9-419e-9273-888d9a8a9039,2025-09-15 17:48:09,This is wonderful! 😊,feliz,32,femenino,Centro
+79c267c2-8fab-422c-91d2-281a7ef8f7a0,2025-11-15 01:41:16,It is fine.,neutral,44,femenino,Sur
+e39c0783-5240-47bf-a5ea-3aca29c146c5,2024-04-17 18:55:57,This is standard. Everything feels regular and adequate. I think this is typical and average. Just fine.,neutral,48,no binario,Sur
+0655354e-6972-4dd0-90a4-37831a056763,2024-07-02 23:43:59,"What a great day because it is fantastic, happy and love! I love it!",feliz,29,no binario,Norte
+40aa6bb8-0859-4ffd-9d12-a592cc68f94c,2025-12-17 02:58:05,This is amazing. Everything feels mind-blowing and stunned. I think this is wow and amazed! Incredible!,sorprendido,22,masculino,Centro
+967cef01-94bd-42fb-96ef-0da53cc1a48c,2024-09-27 06:29:15,This is stupid! This is ridiculous!,enojado,63,masculino,Oeste
+7a571d69-0c88-4886-91fb-833a5d6238aa,2024-04-18 14:01:51,I am disappointed. Everything feels upset and miserable. I think this is depressed and gloomy. This is awful,triste,42,masculino,Centro
+dfb95468-abd0-43e5-b496-d265826a192b,2025-01-24 02:25:39,What a shock! I cannot believe it!,sorprendido,61,masculino,Este
+2d5b0b10-a50c-49c2-bcca-0a104c84337a,2024-10-31 14:40:20,This is amazing. Everything feels unexpected and unbelievable. I think this is mind-blowing and amazed! Incredible!,sorprendido,49,masculino,Este
+6ce1267d-135e-43c8-b824-b4bbad10df59,2025-06-02 22:54:07,This makes me smile! I love it!,feliz,44,no binario,Norte
+df747eb7-7b8f-4b68-9bd2-77db58860a39,2025-02-28 01:32:04,"I am so angry because it is irritated, unacceptable and stupid! This is ridiculous!",enojado,37,no binario,Oeste
+27caa3ea-fcf4-4b6d-a809-761b62f73608,2024-07-19 17:27:59,This is unacceptable! Unacceptable!,enojado,68,masculino,Este
+8c2a4305-42ad-4cee-a64d-e53fcf2709b1,2025-01-27 08:39:30,"This is stupid because it is unacceptable, frustrated and upset! This is ridiculous!",enojado,20,no binario,Sur
+66c4498d-509c-4dc6-87d8-c511086c69f1,2025-07-31 20:12:05,This is ridiculous. Everything feels disgusting and unacceptable. I think this is annoyed and angry! Unacceptable!,enojado,58,no binario,Centro
+fa007b7f-399d-426d-993a-073955a42e58,2026-01-12 09:28:55,"I feel awful because it is devastating, lonely and miserable...",triste,54,no binario,Norte
+8da673fd-5b83-44cd-9acf-1f4fe9dc85dd,2024-03-05 04:02:24,I am so surprised! Wow!,sorprendido,42,femenino,Norte
+1c7d37c2-f43d-4ea5-a7d8-50c03ba25975,2025-06-05 19:02:21,This is stupid!,enojado,51,no binario,Oeste
+3123b818-260b-4ee5-8b16-2a2f137ca4ed,2026-01-04 08:54:44,This is normal.,neutral,47,femenino,Este
+d001c309-8986-4319-ab80-ed7649510eab,2024-04-29 12:55:50,This is typical. Pretty normal.,neutral,47,masculino,Centro
+4f19c565-609f-48f4-b66b-3e9d5cec4162,2025-07-25 22:44:48,"This is stupid because it is mad, outraged and pissed! So frustrated!",enojado,21,femenino,Este
+1ec67af2-f0ad-474f-9fca-57a5adf368be,2024-10-31 01:39:23,I am frustrated! Unacceptable!,enojado,27,no binario,Norte
+73c7a2e0-d001-43e8-8d6f-df8873a135c6,2025-03-21 02:16:34,It is acceptable. Everything feels common and sufficient. I think this is okay and fine. Nothing special.,neutral,52,no binario,Sur
+47ccc367-57ec-4788-8820-f49cce67f16c,2024-09-22 11:19:57,"I am furious because it is mad, furious and unacceptable! I hate this!",enojado,49,no binario,Este
+fd6a8cdd-ac5a-4976-aed2-01023906e9f1,2024-01-23 11:39:49,I hate this. Everything feels frustrated and infuriating. I think this is pissed and stupid! This is ridiculous!,enojado,60,masculino,Centro
+2cd05f77-f8f1-4701-98c5-ac320e822d9f,2025-05-08 00:45:15,It is average. Just fine.,neutral,52,masculino,Oeste
+f53e535a-2aaa-4fd4-a7c6-025a2388566c,2025-02-02 19:22:11,"I am so angry because it is furious, livid and angry!",enojado,47,masculino,Sur
+c9f1f48e-fecb-42ae-a41b-4ebf56636e2f,2025-12-18 18:00:45,This is unacceptable. Everything feels infuriating and hate. I think this is disgusting and unacceptable! I hate this!,enojado,67,femenino,Norte
+d10450a6-5d93-488b-bd22-a1eede003eba,2025-11-29 11:57:39,This is unexpected. Everything feels fascinating and incredible. I think this is wow and unexpected!,sorprendido,39,masculino,Este
+a92f70ca-d75e-448e-96e6-83d803492706,2024-05-21 01:58:25,"I am so surprised because it is unexpected, astonished and extraordinary!",sorprendido,18,masculino,Sur
+d145fccd-6b45-4779-8e3e-a9a304f95f06,2025-12-04 18:17:15,It is acceptable. Everything feels regular and moderate. I think this is common and adequate. It is okay.,neutral,55,femenino,Este
+dfd02624-1f40-4c9a-806f-230fd78ade85,2025-05-10 14:30:57,I am disappointed. :(,triste,43,no binario,Centro
+faf2a7f9-f5ed-4cde-889d-b802019e8864,2024-04-13 04:19:44,"Nothing special because it is okay, sufficient and common. Nothing special.",neutral,64,femenino,Este
+ef70a12b-d019-43e9-a5b0-7c4593b0ad68,2025-06-12 01:35:01,"This is normal because it is adequate, standard and average.",neutral,43,masculino,Este
+8eab7faa-e901-40f8-a726-876af36d2a8f,2025-03-28 06:02:30,"I hate this because it is annoyed, mad and stupid! So frustrated!",enojado,52,masculino,Oeste
+6eb30478-7b28-405e-adea-72aade28d4e2,2024-11-14 18:46:49,What a shock! Incredible!,sorprendido,22,no binario,Norte
+60045860-ac3f-4fcd-bb64-4e4d441eca27,2025-02-11 23:57:21,I am so angry. Everything feels hate and annoyed. I think this is irritated and ridiculous! Unacceptable!,enojado,68,no binario,Oeste
+4983e230-04dc-4d78-bec7-b71e879434d3,2026-01-13 16:52:09,I cannot believe this! What a shock!,sorprendido,20,masculino,Oeste
+a865658b-071b-4aed-b5d3-319ccbd99e08,2024-03-03 13:24:39,I am disappointed. Everything feels bad and hurt. I think this is lonely and miserable. Very disappointing,triste,47,femenino,Centro
+137d038b-2d96-4b7e-8aa4-ebfe34227ad7,2025-03-06 06:12:26,It is acceptable. Everything feels standard and usual. I think this is moderate and regular. It is okay.,neutral,38,masculino,Norte
+d3b85dda-bc2a-4e53-be47-42e1baed47f3,2025-10-06 06:32:31,"This is amazing because it is amazed, surprised and wow! Wow!",sorprendido,23,no binario,Sur
+b6263e6d-f42e-44c5-92e9-9bd02e1c52ba,2025-03-30 14:20:37,It is adequate. Everything feels typical and regular. I think this is acceptable and adequate. Pretty normal.,neutral,58,femenino,Centro
+bfdc7e79-97a9-49c3-ba69-b45d38042a4e,2025-05-11 01:41:01,"This makes me smile because it is delighted, ecstatic and thrilled! :)",feliz,50,masculino,Norte
+b56b7843-a7b2-4b68-9432-ce42b0ce8f67,2025-10-22 01:23:32,This is typical. Nothing special.,neutral,29,masculino,Sur
+bd7b25e4-39ab-4684-8c8c-be3bbe1527e7,2026-01-06 05:54:46,"I am furious because it is mad, irritated and annoyed! So frustrated!",enojado,69,masculino,Norte
+a48d8ef8-d9de-4ac4-b822-c44742bbea0b,2024-12-19 13:46:12,"This is wonderful because it is happy, joy and smile! This is great!",feliz,34,masculino,Oeste
+577d44a6-e2b8-4614-bf2a-9e3b2744d4bd,2025-01-09 17:05:45,This is devastating. I feel terrible,triste,58,masculino,Sur
+529f7069-9651-4608-9dab-068418104856,2026-01-02 01:14:56,"Wow this is because it is shocked, amazed and unbelievable! What a shock!",sorprendido,62,masculino,Este
+cdecd4bf-9a70-4a4d-ba7b-73b866f10ea0,2025-04-28 05:02:40,This is okay. Pretty normal.,neutral,53,masculino,Este
+b6e8b9d9-6206-45a0-8f9f-96b6bea66f61,2025-06-04 13:41:23,This makes me smile. Everything feels great and fantastic. I think this is perfect and love!,feliz,62,no binario,Este
+1b99d9cb-b901-4409-91f7-178ad98a77c3,2025-03-16 13:19:37,I am disappointed. Everything feels hurt and upset. I think this is painful and unfortunate. :(,triste,21,no binario,Este
+0084812b-957f-4cbb-895d-9044430ff966,2024-02-05 12:32:08,This is okay. Everything feels acceptable and sufficient. I think this is usual and adequate. Pretty normal.,neutral,34,femenino,Centro
+52d4eca0-37e8-4b83-ba64-23e90c904c18,2025-12-21 10:54:53,"I cannot believe this because it is wow, surprised and amazed! What a shock!",sorprendido,31,no binario,Centro
+0e5a477b-0ce7-4030-b050-79bbc0cbf2de,2024-06-24 19:54:54,What a shock! Incredible!,sorprendido,61,masculino,Este
+59ffbeff-ef64-4e2f-a5d1-873b0fb2d3e8,2024-10-26 12:09:09,This is unacceptable! I hate this!,enojado,59,femenino,Sur
+8535d1be-18bd-451a-8e4d-d965401c658b,2025-01-27 00:47:06,This is unacceptable. Everything feels disgusting and angry. I think this is upset and annoyed! Unacceptable!,enojado,58,masculino,Centro
+fc988a8c-4bdf-45e9-b6e4-5f61a1aacb22,2025-09-25 05:58:22,"I am stunned because it is extraordinary, astonished and surprised!",sorprendido,18,femenino,Norte
+fccc07d8-6e05-4827-b762-406cd2f200a4,2025-08-11 13:21:01,"It is adequate because it is common, standard and usual. It is okay.",neutral,33,no binario,Sur
+668d0f05-1705-4ce1-8b64-f0f6b559bc87,2024-01-29 08:58:30,"It is fine because it is typical, reasonable and okay. It is okay.",neutral,68,no binario,Oeste
+bce30645-a13c-4b23-a37d-57ce2a8f065c,2025-08-31 15:39:51,"This is stupid because it is furious, infuriating and livid! Unacceptable!",enojado,52,no binario,Sur
+58150d84-b467-4467-ae05-afc68f7f87dc,2025-09-29 11:21:26,I am astonished. Everything feels astonished and fascinating. I think this is incredible and unexpected! I cannot believe it!,sorprendido,34,no binario,Centro
+d1f91f0f-f536-4d9d-b848-562515924020,2024-11-19 00:56:28,I am disappointed. Everything feels sad and hurt. I think this is unfortunate and down. I feel terrible,triste,38,masculino,Sur
+1abb2700-6503-4ec6-a1ae-41000be2a0de,2024-06-13 12:06:38,I am so sad. Everything feels awful and crying. I think this is bad and down. Very disappointing,triste,52,femenino,Centro
+89e85bac-4a54-4e86-94e0-bec7a97938cd,2025-05-28 03:10:15,"Wow this is because it is amazed, unbelievable and unexpected! What a shock!",sorprendido,63,no binario,Oeste
+070be1f3-332a-4433-92fe-e30c8912159d,2025-08-31 20:14:08,I love this! :),feliz,59,no binario,Centro
+29300e02-93a7-48f5-abf2-9dbd5a384770,2025-12-22 12:19:46,This makes me smile!,feliz,65,no binario,Centro
+2033c7b0-8844-4064-a991-cc9ee311d5d3,2025-09-05 18:44:37,It is adequate. It is okay.,neutral,45,no binario,Sur
+b195f8e9-c02d-4c5f-9768-077c94da4d93,2025-01-06 13:26:22,"I am so angry because it is infuriating, mad and unacceptable! So frustrated!",enojado,45,femenino,Este
+b22c50fb-5a63-41f0-9130-cc7bf35dee40,2024-09-17 09:17:29,I am so sad. :(,triste,25,no binario,Oeste
+0153f56f-8142-49e9-9116-0e6cb7e7a859,2024-08-25 08:32:29,I am so happy. Everything feels celebrate and awesome. I think this is ecstatic and thrilled! 😊,feliz,33,masculino,Sur
+d40adc03-4e39-4c53-a02f-26b4e94c5af8,2024-02-26 03:35:31,"I am thrilled because it is great, cheerful and celebrate! 😊",feliz,37,femenino,Este
+9edc6510-aad6-44a5-a79e-c628e947cb9a,2025-02-13 04:35:15,Wow this is. Everything feels incredible and wow. I think this is unbelievable and shocked! Wow!,sorprendido,57,femenino,Este
+2f311b7b-15fc-4218-b9d3-b5d5b6aafc23,2024-04-04 16:26:45,This is normal. Everything feels okay and normal. I think this is typical and average. Nothing special.,neutral,37,no binario,Oeste
+b488e77a-fc28-473b-a26a-38b5befd465e,2025-05-06 14:03:30,"This is stupid because it is hate, disgusting and angry!",enojado,46,femenino,Sur
+08c5736f-6f9a-42e5-9276-78dba3e2c225,2024-09-19 04:01:35,I am so surprised! Incredible!,sorprendido,64,femenino,Norte
+21bc9a92-46fd-4379-a0a3-7984e31471a7,2024-08-18 16:43:30,"I am stunned because it is unbelievable, stunned and mind-blowing! Wow!",sorprendido,69,masculino,Oeste
+034d6a91-bdf6-4e41-ac2a-77c18285de35,2025-11-27 11:06:23,This hurts...,triste,21,no binario,Oeste
+24382e1f-61fb-4593-a946-99c5877e3bc6,2025-12-12 21:05:46,"I feel incredible because it is fantastic, excited and delighted! I love it!",feliz,39,no binario,Centro
+315b8e5a-ee08-465b-ab32-e6d877046354,2025-10-31 17:04:47,It is acceptable.,neutral,46,masculino,Centro
+e71407f9-3d9b-4399-8949-e06e8626eba4,2024-10-23 02:51:17,This is ridiculous! This is ridiculous!,enojado,57,masculino,Centro
+fa504463-d35b-4c57-a1d9-3107be3368d0,2025-04-17 02:15:43,This is standard. Nothing special.,neutral,27,masculino,Este
+aea40b44-fa42-4c1e-aa01-7744f4926a42,2025-04-28 04:55:05,This is ridiculous!,enojado,36,masculino,Oeste
+9baf0444-3cff-48dc-a9bd-2f13a115b836,2024-03-27 02:10:38,"It is fine because it is regular, acceptable and moderate. Just fine.",neutral,39,no binario,Este
+b87bf205-b1cd-4d91-a928-babd48957678,2024-03-25 11:02:57,This is incredible! Incredible!,sorprendido,27,no binario,Oeste
+f27680d4-fa11-42da-997e-e82aa3a6efab,2025-02-13 15:42:26,I am disappointed. :(,triste,52,masculino,Norte
+034374d9-951f-4ad0-ba21-cee6caf3c3d7,2024-03-06 00:21:05,"This is typical because it is okay, regular and reasonable. Nothing special.",neutral,56,femenino,Oeste
+9e974d56-930c-440a-9071-f5068043d9a9,2025-06-18 04:45:05,"This is terrible because it is sad, heartbroken and terrible. I feel terrible",triste,60,masculino,Centro
+ac9b1ef2-f003-422b-b254-253fd1d07708,2024-04-22 18:15:50,This makes me cry. This is awful,triste,66,femenino,Centro
+5e92db17-1369-4c26-ae04-4662f5b31c29,2024-03-13 18:58:43,I am so happy. Everything feels ecstatic and fantastic. I think this is great and happy! I love it!,feliz,47,no binario,Oeste
+d98cc1db-23ee-49c9-b29f-09fd565c9b05,2025-02-17 03:59:02,I am so sad. Very disappointing,triste,57,masculino,Norte
+f3f93d15-1c00-4c95-ab04-5058963f3510,2024-07-05 15:14:19,"What a great day because it is smile, amazing and pleased! I love it!",feliz,50,masculino,Norte
+426cdad7-463d-41ae-8397-9f0ea538373d,2024-11-07 06:39:43,I hate this. Everything feels disgusting and hate. I think this is mad and angry! I hate this!,enojado,41,masculino,Sur
+a5f6c28a-4afc-4643-a649-eab85ba356bb,2025-12-13 21:30:48,"It is adequate because it is typical, usual and sufficient. Just fine.",neutral,33,no binario,Sur
+84ebe615-4bc7-4269-9ccf-3e1f1cb3d040,2024-05-13 02:37:19,"This is terrible because it is down, hurt and unfortunate. I feel terrible",triste,31,no binario,Sur
+faffbaca-9f37-4865-b782-478866d68858,2025-11-26 01:46:19,This is incredible! I cannot believe it!,sorprendido,64,no binario,Norte
+6328b4d7-5574-483e-b130-f2ded09f71bc,2025-11-13 02:35:15,It is adequate. Pretty normal.,neutral,31,masculino,Norte
+0cfeab9b-d88f-4da7-ac2b-03c6f26e7d5a,2025-09-26 19:44:13,"I am so sad because it is sad, upset and miserable. :(",triste,40,no binario,Centro
+b3a2ec70-d9ae-4979-a678-7c249da11e19,2025-01-17 07:22:59,"It is average because it is okay, sufficient and typical. Pretty normal.",neutral,63,no binario,Este
+4afc6c3f-38d8-446f-9259-c7f812dad15c,2025-03-20 13:55:29,This makes me cry. :(,triste,37,masculino,Este
+66a6afc6-f50f-4869-8b82-f5717a28e6f9,2025-09-29 09:21:30,It is acceptable. Everything feels acceptable and adequate. I think this is okay and common. Nothing special.,neutral,25,no binario,Este
+31de3c09-dd88-49d4-a41f-2db49b9c80e1,2024-12-06 16:58:45,I feel amazing! This is great!,feliz,29,masculino,Centro
+fd33e3a4-5747-47c9-9831-33ff61381778,2024-11-15 17:34:38,It is adequate. Everything feels moderate and usual. I think this is okay and normal. Pretty normal.,neutral,58,masculino,Oeste
+38f50a58-db77-4792-8d7d-64201756480f,2025-03-17 08:01:48,I am stunned. Everything feels unexpected and remarkable. I think this is fascinating and wow! Incredible!,sorprendido,37,no binario,Sur
+8a3490d5-e737-4742-a65d-9fe1d9435ecb,2025-04-04 11:23:13,"This is unexpected because it is unbelievable, amazed and incredible!",sorprendido,21,femenino,Norte
+3d25146f-55ba-4da6-8f02-62b2c495f5cf,2025-04-01 14:32:23,Wow this is. Everything feels surprised and incredible. I think this is stunned and shocked! I cannot believe it!,sorprendido,53,no binario,Sur
+a1d12ea5-0692-4d45-b240-848d06e3e7e7,2025-08-28 22:52:48,"What a shock because it is wow, surprised and incredible! Wow!",sorprendido,68,femenino,Norte
+66741a64-ced8-41e8-8848-e760babc1a49,2025-02-26 08:00:09,I hate this! Unacceptable!,enojado,43,femenino,Sur
+baa6dda8-31e6-4371-8676-a709b28eb884,2024-11-27 17:39:37,"It is adequate because it is adequate, reasonable and usual.",neutral,38,masculino,Norte
+d2cc2da3-d991-48a6-9637-efda82df9f65,2025-04-21 13:16:45,This is standard. Everything feels average and okay. I think this is usual and reasonable. Nothing special.,neutral,38,no binario,Sur
+0a5168fe-10a9-4d45-823e-5fdc4e8b632b,2024-09-16 14:09:07,I am outraged. Everything feels unacceptable and irritated. I think this is livid and infuriating!,enojado,68,femenino,Sur
+af1dd8b2-dcf0-4101-b3b6-8a31be7b3fa3,2024-07-01 00:41:53,This is terrible. Everything feels miserable and painful. I think this is lonely and bad...,triste,41,no binario,Centro
+48bbe3e4-9839-4c29-91a2-572b8a6b853b,2025-01-09 12:29:08,"It is average because it is common, okay and average. Just fine.",neutral,38,masculino,Centro
+7555ee36-679c-4ea0-960e-b11597e8a681,2026-01-07 13:03:06,I feel incredible. Everything feels happy and celebrate. I think this is amazing and ecstatic!,feliz,48,no binario,Norte
+e2076b90-5091-4b05-bc55-d5a69600b257,2026-01-08 14:59:20,I cannot believe this!,sorprendido,29,no binario,Oeste
+f197ca6a-343a-458d-862f-de81961a01c8,2025-09-18 14:46:16,I feel incredible! 😊,feliz,37,no binario,Sur
+a577dafc-83de-40e5-8196-fdc753e89203,2024-05-24 23:08:41,I am so happy!,feliz,20,femenino,Sur
+8bc794dd-9a90-4e5f-9d5b-82d7d281acf7,2025-01-07 13:26:23,"I feel awful because it is depressed, gloomy and terrible. I feel terrible",triste,52,no binario,Norte
+da2be366-26ec-4759-9e89-7f8635a8baf1,2025-11-19 19:47:42,This is amazing. Everything feels wow and mind-blowing. I think this is incredible and extraordinary! Wow!,sorprendido,67,masculino,Norte
+1f035183-767f-47d5-a791-c7182bf3ce66,2024-10-05 08:07:11,"This makes me cry because it is disappointed, crying and bad. I feel terrible",triste,43,no binario,Sur
+5f316593-07a8-4f53-b41c-afd8940dec95,2025-03-26 03:26:33,"I feel down because it is gloomy, devastating and upset. I feel terrible",triste,40,masculino,Centro
+a8115f94-05f3-434f-b9b7-e85e99a76b33,2024-12-05 09:44:21,"I am astonished because it is unbelievable, unexpected and extraordinary!",sorprendido,37,masculino,Este
+81380810-576e-4ce8-8df3-c471908f8512,2024-03-26 20:20:32,"This is stupid because it is mad, furious and annoyed!",enojado,38,no binario,Este
+5f5c3112-9fc5-4be2-9761-a58304910041,2025-02-17 13:03:23,"This is amazing because it is mind-blowing, unbelievable and fascinating! Incredible!",sorprendido,19,no binario,Este
+20afb5f1-11fd-4c0a-a9e8-5f9590848bf9,2025-07-17 15:58:14,It is adequate. Pretty normal.,neutral,24,masculino,Oeste
+b4d50990-738b-4f1c-9bc8-9b4324f23782,2025-05-03 00:36:59,"I hate this because it is mad, angry and disgusting!",enojado,21,no binario,Oeste
+a1db06ab-0d79-4468-92d2-4c4aefe71ba8,2025-06-24 13:04:34,"It is average because it is moderate, adequate and sufficient.",neutral,55,masculino,Norte
+e6cd5909-040b-4654-afde-cd29891df8c6,2026-01-16 06:00:35,"This is devastating because it is gloomy, sad and hurt. This is awful",triste,55,masculino,Este
+529724cc-9442-4eef-bd40-2714a301e4e5,2025-07-04 23:29:16,I am so surprised. Everything feels mind-blowing and stunned. I think this is surprised and unexpected! What a shock!,sorprendido,26,masculino,Norte
+561d5fa9-1706-4581-8263-e0c4131a0d26,2025-11-11 11:31:03,This is devastating. :(,triste,47,femenino,Oeste
+2992bd8e-60a1-45f9-9596-96871f199231,2024-11-11 03:39:04,"What a shock because it is incredible, amazed and fascinating! Incredible!",sorprendido,62,femenino,Este
+ec2413d2-fbd4-4e89-8bf1-4ca2d2646cbd,2025-11-22 21:49:03,This makes me mad! So frustrated!,enojado,50,femenino,Centro
+dec698c3-6f62-49f8-b8e2-bfbaec5a4d63,2024-03-22 19:32:54,"What a great day because it is ecstatic, wonderful and love! :)",feliz,20,masculino,Este
+a5154c91-0e39-4afd-a8dd-e2390a572790,2025-06-29 05:28:23,"This is incredible because it is wow, stunned and surprised! I cannot believe it!",sorprendido,32,masculino,Norte
+7df08d80-5d25-4e6c-9f36-e0298e0caa17,2025-06-17 13:01:38,I am so sad. I feel terrible,triste,35,femenino,Sur
+02935519-edce-4316-a5c5-e36eff67a916,2024-08-21 00:22:10,This is unacceptable! This is ridiculous!,enojado,36,femenino,Centro
+b6209702-f802-47d9-92d8-c4356135cbb1,2025-01-31 19:55:52,This is amazing! Wow!,sorprendido,21,no binario,Sur
+bb397be0-328f-469d-9d1d-fcd95f2169d4,2025-03-06 08:14:18,"This is wonderful because it is happy, joy and fantastic! 😊",feliz,61,no binario,Sur
+4d2d3945-4dde-4171-ad8a-40743c2b7069,2024-05-28 01:57:30,I am outraged. Everything feels upset and unacceptable. I think this is hate and outraged!,enojado,42,masculino,Este
+add8ef95-bd10-4fee-9803-4ef4bf90057e,2025-07-22 17:17:39,"What a shock because it is remarkable, fascinating and astonished! I cannot believe it!",sorprendido,42,femenino,Sur
+b620e4e2-c170-4b43-92a1-acdccb0d9c1a,2024-11-13 14:22:46,"This makes me smile because it is cheerful, pleased and love!",feliz,56,femenino,Oeste
+99f9ee7f-4dcf-470b-895c-824b9c4af33e,2025-06-25 04:03:04,I am astonished! Incredible!,sorprendido,29,no binario,Centro
+d3ad8b75-82f6-47cc-846e-80078a24bc71,2025-04-22 14:15:13,"I am heartbroken because it is gloomy, crying and unfortunate...",triste,56,masculino,Este
+1dcdd357-d4b4-493d-88bf-f42a71471262,2024-03-24 17:25:28,I feel awful. Everything feels depressed and unfortunate. I think this is sad and crying. :(,triste,43,femenino,Sur
+e75fd3fe-b13c-4655-b62b-e1881ddb0935,2025-12-26 20:27:18,"This is stupid because it is frustrated, upset and pissed! This is ridiculous!",enojado,39,femenino,Sur
+086cbd8f-302f-44ca-a59b-0f96c9827fc1,2025-05-03 10:53:25,It is fine. Everything feels standard and typical. I think this is acceptable and average. Just fine.,neutral,47,masculino,Sur
+06692759-cde9-4765-8d13-1fa9566191ff,2024-06-17 12:01:38,I am frustrated!,enojado,39,no binario,Oeste
+07b1b8fd-cfc5-42ea-9808-1a828f73bc2c,2024-10-10 19:55:23,This makes me mad. Everything feels hate and mad. I think this is outraged and unacceptable!,enojado,23,femenino,Sur
+16f7b5a1-f77e-4102-86ed-9c5594f19d68,2024-05-05 08:29:45,I am astonished. Everything feels shocked and amazed. I think this is astonished and surprised! Incredible!,sorprendido,56,femenino,Este
+e4f4c7f2-05b0-4f6b-a9cb-a6db178c5cbf,2024-08-29 09:38:54,"I am thrilled because it is awesome, great and amazing!",feliz,67,masculino,Este
+41bd5c76-03bb-4d33-9ea5-581cf00581d8,2024-07-02 10:36:12,This is amazing! I cannot believe it!,sorprendido,55,femenino,Centro
+ee33fed3-7b23-4db5-a286-50a75068a042,2024-07-11 07:56:43,"This makes me mad because it is irritated, furious and unacceptable! I hate this!",enojado,20,no binario,Centro
+4ec11337-0b9a-4e6b-bd99-77406c3ecb8a,2025-12-31 05:04:08,I am so angry!,enojado,47,femenino,Este
+ebbdf502-a925-4e31-a3e7-68875b5af916,2024-03-01 00:35:42,This hurts. Everything feels sad and upset. I think this is down and terrible. :(,triste,44,masculino,Oeste
+28d300b9-a9ba-4df3-9455-6c5e18994e5d,2025-04-06 05:13:20,"It is adequate because it is standard, fine and acceptable. It is okay.",neutral,21,no binario,Este
+f99b4129-fd8c-4fcf-9c10-64247d5c0a63,2025-09-18 06:49:27,This is terrible...,triste,58,femenino,Este
+da45f93f-128d-46cc-b18b-ce7f7b16fe3d,2024-08-31 07:30:27,This is standard. Everything feels reasonable and common. I think this is okay and usual. Just fine.,neutral,69,femenino,Sur
+59fc6028-a4fa-46db-81a8-1b2d80de67d3,2025-11-30 07:46:50,"I am furious because it is stupid, outraged and infuriating! Unacceptable!",enojado,39,no binario,Este
+7fb013c8-b265-49f5-87d7-b73c4d7c5a03,2024-08-07 23:26:30,This is wonderful. Everything feels thrilled and celebrate. I think this is wonderful and pleased! This is great!,feliz,41,masculino,Norte
+8eb55538-d45d-40c7-ba58-c20887b7c9f6,2025-08-04 16:49:09,"I feel amazing because it is brilliant, love and cheerful! I love it!",feliz,36,no binario,Oeste
+5e100fde-9ae6-4ee4-9cfc-f99b5d172fe5,2024-11-23 06:57:43,I feel incredible! 😊,feliz,40,femenino,Sur
+3bdf38c1-6751-4edd-bc1a-5883c6757a5d,2025-09-18 05:29:34,This is stupid!,enojado,41,femenino,Este
+2f0bced3-87b4-47a0-8871-0c9e66fc6dc0,2024-08-17 12:53:47,I am disappointed. Everything feels disappointed and bad. I think this is terrible and crying...,triste,42,masculino,Oeste
+a116ecc2-dd00-478d-ad23-20ce2963abc3,2025-06-10 14:27:46,I feel down. Everything feels unfortunate and hurt. I think this is gloomy and lonely. This is awful,triste,33,femenino,Sur
+a5679bbe-b149-4b72-8868-c09c25dfce0e,2025-02-23 22:18:32,I am astonished. Everything feels mind-blowing and stunned. I think this is extraordinary and unbelievable! Wow!,sorprendido,50,no binario,Oeste
+3d383ccf-48e4-4334-9840-381cd5134d77,2025-05-16 17:44:44,I am heartbroken. Everything feels sad and awful. I think this is crying and gloomy. Very disappointing,triste,33,femenino,Este
+0add8189-fae6-4793-a58a-4aea8c5b3b2b,2025-01-21 19:25:07,I am so happy. Everything feels love and happy. I think this is pleased and wonderful! 😊,feliz,49,no binario,Centro
+5665ec24-b720-4735-a27c-96d5cb511db1,2025-11-23 01:28:37,I feel awful. Everything feels heartbroken and devastating. I think this is miserable and unfortunate. :(,triste,33,no binario,Este
+348b621f-63db-4d46-aa58-64013b4eb2bd,2025-05-14 06:52:40,I feel incredible! :),feliz,59,no binario,Norte
+f65f99b3-30fe-40be-a70c-f4aecb3c2bb4,2025-10-23 03:36:32,I am furious. Everything feels annoyed and stupid. I think this is hate and irritated! I hate this!,enojado,53,no binario,Oeste
+b5c4156c-8912-460c-bfae-c2cf86f8982d,2025-07-05 11:31:33,"I am outraged because it is livid, furious and pissed! So frustrated!",enojado,58,no binario,Este
+4a60187b-60b8-49f8-b5b6-ea8d285dfeba,2025-09-29 11:39:01,I am furious! This is ridiculous!,enojado,53,femenino,Sur
+d82bb1a3-3ce9-43ab-8186-ae9518248a26,2026-01-16 08:52:59,"This is unexpected because it is stunned, unbelievable and astonished! Wow!",sorprendido,52,femenino,Este
+487359d4-7d26-419b-a16a-66adf2f6f27a,2024-07-01 03:16:26,This is unacceptable. Everything feels ridiculous and furious. I think this is frustrated and pissed! I hate this!,enojado,47,masculino,Centro
+ad946839-9b7b-4e0e-80e0-4426561e6e96,2025-09-19 10:59:32,What a great day! I love it!,feliz,21,no binario,Oeste
+7a4044b3-1722-40c2-9f59-752ae4f62a1c,2025-07-09 19:13:42,It is adequate. Everything feels adequate and common. I think this is standard and sufficient.,neutral,30,femenino,Centro
+c5185325-7314-436e-baaa-bd99b64e75b2,2025-08-26 06:10:24,"I am so surprised because it is shocked, fascinating and unexpected! Incredible!",sorprendido,59,masculino,Sur
+4500186c-168e-4ff5-a8a8-713a3780f796,2025-08-04 18:38:41,"This is standard because it is sufficient, normal and common. Just fine.",neutral,46,masculino,Centro
+7b1140be-9f59-47a7-8deb-4939aa54e1ef,2025-02-07 19:10:20,"This is typical because it is adequate, usual and regular. Just fine.",neutral,40,femenino,Centro
+b606a2cf-af9d-4c4d-ab93-8b24d6fe9d22,2025-06-11 19:26:17,I feel incredible. Everything feels pleased and perfect. I think this is love and great! I love it!,feliz,64,femenino,Sur
+a7cd6922-4ea3-4a69-9a62-9bb1faa14cde,2025-06-03 11:47:44,"I am so angry because it is outraged, furious and frustrated! This is ridiculous!",enojado,38,no binario,Este
+6ea92fb3-f268-4e06-aa58-e81f5eb6234d,2025-10-23 05:12:28,This is terrible. Everything feels lonely and terrible. I think this is unfortunate and depressed. I feel terrible,triste,36,no binario,Sur
+dce22ac1-b8b8-4df1-9d6d-61f9262d7322,2025-05-08 20:04:54,Nothing special. Everything feels adequate and standard. I think this is reasonable and acceptable. Just fine.,neutral,53,no binario,Oeste
+ae02070f-b9e9-428a-a3a5-b45a22830059,2025-03-26 00:40:48,"I am so angry because it is stupid, disgusting and angry! I hate this!",enojado,59,femenino,Norte
+a734d384-255f-4b3c-a9cb-26292be91cd7,2025-08-30 08:24:04,"This is incredible because it is remarkable, incredible and astonished! Wow!",sorprendido,69,masculino,Sur
+4478abd6-dc9b-46f5-8a46-822f6bb2acfc,2024-12-09 05:58:41,I am so sad. Everything feels awful and lonely. I think this is depressed and gloomy. This is awful,triste,24,masculino,Oeste
+b87e6bc4-1976-4d2c-ac21-87a5dfe232f5,2024-02-28 21:02:32,"Wow this is because it is mind-blowing, extraordinary and remarkable! Wow!",sorprendido,61,no binario,Oeste
+3feae8a4-8aef-4655-8a5d-bf95eefbe24c,2024-07-04 16:06:41,This makes me cry. I feel terrible,triste,66,no binario,Sur
+2cb7984e-2e9b-49c2-85bb-7b49fca4c69a,2024-04-26 18:06:07,This is incredible. Everything feels amazed and unbelievable. I think this is surprised and remarkable! Wow!,sorprendido,26,masculino,Oeste
+d74276fb-168a-46a9-8b87-039659efe268,2024-03-18 14:53:20,"This makes me mad because it is stupid, mad and outraged! Unacceptable!",enojado,66,no binario,Este
+9c84b041-69fe-4119-9770-3d6b08cb6c73,2024-09-23 16:11:18,"This makes me smile because it is smile, love and awesome! I love it!",feliz,50,no binario,Norte
+f351d5fe-7d7f-419e-9824-169e5b72800f,2024-05-01 22:08:09,"What a shock because it is stunned, unexpected and unbelievable! Incredible!",sorprendido,38,masculino,Centro
+f2f415aa-2f91-44f0-8486-73c2c0b6870e,2025-02-22 07:47:40,This is stupid! I hate this!,enojado,40,masculino,Oeste
+234a3855-44e1-4a94-b4fb-e62d4d06e2ce,2025-11-25 13:54:42,This is unacceptable!,enojado,45,masculino,Oeste
+2058dcbe-2af5-42e7-9fdc-fbc29c9d532f,2025-05-18 04:23:43,Nothing special.,neutral,55,masculino,Norte
+e9966e4b-d61c-4c9a-b329-0498c16ac255,2024-03-02 15:38:01,What a great day. Everything feels amazing and celebrate. I think this is perfect and pleased! I love it!,feliz,61,no binario,Centro
+5fcc3fd1-dfab-494d-a54b-225cb8e3610e,2024-08-23 15:04:07,"I am heartbroken because it is depressed, gloomy and down. This is awful",triste,62,femenino,Este
+deebe56b-0a67-4b8f-8e1e-41d2bf5d62c2,2024-08-18 05:00:13,This is okay. Nothing special.,neutral,20,femenino,Norte
+2e347cb9-11c8-446f-86d5-3993f7b6ebfa,2025-03-14 22:12:45,"I am so surprised because it is fascinating, unexpected and unbelievable! I cannot believe it!",sorprendido,21,femenino,Centro
+13a12209-b312-433f-9e7a-62945b716104,2025-06-09 15:21:36,I am heartbroken. :(,triste,22,masculino,Este
+7054f50f-3157-48c7-bc17-ccc6fa3b2f25,2024-01-22 14:08:23,"I am astonished because it is unexpected, mind-blowing and shocked!",sorprendido,36,femenino,Norte
+b445a160-d579-4290-a34a-3a18b5663e4d,2025-06-02 12:56:49,What a shock!,sorprendido,24,femenino,Este
+30ce0260-e465-447d-87ee-cd0a97e846d4,2025-06-16 20:33:34,What a shock. Everything feels astonished and surprised. I think this is shocked and wow! I cannot believe it!,sorprendido,28,femenino,Norte
+be4f3586-47fe-41dc-a27a-29b2d3cdc3ec,2025-04-06 11:11:03,Wow this is. Everything feels unexpected and extraordinary. I think this is mind-blowing and astonished! Wow!,sorprendido,38,femenino,Oeste
+fc87937f-964f-4714-86e5-8bd1b2b9ede2,2025-05-10 04:09:35,I am furious! Unacceptable!,enojado,54,no binario,Oeste
+c934d090-b4b9-45c8-aceb-599ea07a2d0f,2025-01-21 21:54:06,"I am so sad because it is awful, painful and unfortunate. Very disappointing",triste,40,no binario,Este
+9481bd3c-fd61-41eb-b28d-27a4b1da0bbc,2025-05-14 14:50:42,How fantastic! This is great!,feliz,20,femenino,Oeste
+1904504a-5d47-4144-a5d4-1b72d4ab3f9f,2025-12-10 05:23:13,This is ridiculous. Everything feels outraged and furious. I think this is mad and annoyed! This is ridiculous!,enojado,64,no binario,Norte
+a2023d93-4d6f-4759-9cd5-1edfeb63605e,2024-02-15 22:14:49,I am astonished. Everything feels unexpected and stunned. I think this is astonished and remarkable!,sorprendido,67,no binario,Oeste
+ef098101-5876-4fb6-a227-d116f1257a97,2025-06-05 12:28:33,"I am so angry because it is angry, mad and unacceptable! So frustrated!",enojado,26,no binario,Este
+e8e02bef-5661-41d0-93ec-538aa013951c,2025-09-15 11:09:01,I cannot believe this. Everything feels wow and extraordinary. I think this is unbelievable and unexpected! What a shock!,sorprendido,26,masculino,Sur
+9d511e82-d0a8-4b52-93fd-0ce662a27c96,2024-06-30 01:15:12,I am thrilled. Everything feels joy and delighted. I think this is smile and perfect!,feliz,55,femenino,Este
+1f18d010-b81b-4aef-abb2-c25c1f484ced,2024-10-29 11:22:23,Wow this is! Wow!,sorprendido,44,no binario,Centro
+a164f1e4-4c43-48c7-be50-ded39c4acf4b,2024-11-17 19:25:14,This is okay. Everything feels okay and acceptable. I think this is sufficient and moderate. Just fine.,neutral,57,no binario,Norte
+e9042b4f-f705-4427-b169-f7b4103eff70,2025-05-07 18:31:27,This is terrible. This is awful,triste,45,no binario,Sur
+12d03305-18d2-41da-a8fb-9ed19a43f020,2025-10-15 01:51:22,This is typical. Everything feels usual and okay. I think this is average and sufficient. Just fine.,neutral,29,femenino,Norte
+a93afa38-b712-4a17-8650-911fa3771ac0,2024-01-26 23:40:10,This is ridiculous! So frustrated!,enojado,23,femenino,Este
+cf014de7-6751-4ac7-be00-bb942d4debfd,2025-06-29 08:01:43,What a great day. Everything feels amazing and excited. I think this is love and great! 😊,feliz,66,femenino,Este
+58530c39-bbec-4b81-9562-51c8c75653e1,2025-07-29 11:40:43,"I am heartbroken because it is lonely, hurt and gloomy. :(",triste,59,masculino,Oeste
+d7c88b2f-1e63-404c-b0dc-985c861b31ea,2025-01-17 22:43:40,"I am so happy because it is thrilled, cheerful and delighted! I love it!",feliz,32,masculino,Oeste
+eb32ca2f-baaa-4b72-9955-663aa6b75417,2024-07-27 22:12:21,I hate this!,enojado,36,femenino,Oeste
+1ed208e7-3f13-48a8-8635-f1b7e9be63d7,2025-07-03 16:53:21,This is amazing! What a shock!,sorprendido,59,femenino,Centro
+a42b2129-217e-4ab1-974a-5ea1287827fa,2025-07-11 09:49:54,I am disappointed. :(,triste,67,femenino,Norte
+732b4c42-71dc-4686-a997-0b164d3f8add,2025-11-23 08:30:19,This is okay. Everything feels moderate and normal. I think this is common and acceptable.,neutral,32,masculino,Este
+6d32de65-d5e2-46ae-9bcb-19d139768d1d,2025-10-28 22:55:48,"I am so surprised because it is fascinating, astonished and stunned!",sorprendido,58,femenino,Sur
+a3e70e6a-4c44-4a1d-8c1c-a187c7838cde,2024-03-12 18:13:32,This makes me cry. Everything feels devastating and painful. I think this is bad and hurt...,triste,29,femenino,Este
+f8bacb96-9c0c-40f0-acad-e9bf20dace84,2024-06-01 13:23:51,What a shock. Everything feels shocked and unexpected. I think this is extraordinary and incredible!,sorprendido,44,no binario,Centro
+4ee720eb-fd68-4418-a14e-c9881d5bbdb3,2025-09-11 08:52:48,"I am so angry because it is stupid, unacceptable and outraged! I hate this!",enojado,54,masculino,Oeste
+ef7c6893-e803-42bf-a7b5-6c3812290175,2025-08-21 14:52:15,It is adequate.,neutral,18,masculino,Norte
+21cbccf6-9aad-4a08-afaf-0c9c26316dc7,2024-10-20 06:41:41,I am heartbroken. Very disappointing,triste,42,no binario,Oeste
+ec235c61-7ccb-48ba-8be1-f689b424fe6a,2024-04-02 23:17:52,I feel down. :(,triste,47,femenino,Centro
+b95783be-b4ef-455b-be6b-b262ad827b83,2025-02-04 21:17:33,"I am so happy because it is great, fantastic and smile! I love it!",feliz,29,no binario,Sur
+e61e1e32-97c9-4f3c-a8e3-392a769708de,2025-09-19 08:01:21,I feel down. Everything feels down and awful. I think this is devastating and painful. Very disappointing,triste,67,femenino,Oeste
+9b6efed1-4066-4a79-a13e-12a663cca9c8,2025-03-14 07:35:16,It is adequate. Just fine.,neutral,64,no binario,Sur
+269bf9aa-982a-405f-b6cc-54459a9d7f01,2025-01-25 15:54:24,It is average. It is okay.,neutral,62,no binario,Centro
+f60a2eca-3adc-4b08-ba88-29f3d4ff0acd,2025-10-06 21:33:30,I am disappointed. Everything feels disappointed and upset. I think this is gloomy and lonely. Very disappointing,triste,43,masculino,Norte
+43d9c4a1-c4ca-4f89-aba7-d7a16070d3e3,2025-06-17 20:42:47,I feel awful. Everything feels bad and lonely. I think this is painful and unfortunate. :(,triste,31,masculino,Este
+45b92652-b45e-4f60-9b44-f543b2a61ca0,2025-02-21 01:20:30,It is average. Nothing special.,neutral,41,no binario,Centro
+6b8e29c3-7141-4a09-8aeb-d128d444034e,2025-04-10 08:17:11,I love this. Everything feels great and thrilled. I think this is smile and cheerful! :),feliz,35,no binario,Este
+bc3771d0-f3ab-4b70-8761-e263b3cdf933,2025-07-17 21:01:46,Nothing special. It is okay.,neutral,24,femenino,Norte
+8da98eaf-d6c7-4b77-a29d-742c23d63b3a,2025-11-14 12:24:50,I am outraged. Everything feels infuriating and disgusting. I think this is stupid and unacceptable! So frustrated!,enojado,32,masculino,Oeste
+c773a104-fe54-48ba-8772-5306069e1df6,2024-03-22 00:25:16,I feel incredible! 😊,feliz,42,femenino,Sur
+f03559ea-58d6-4229-83f5-34d6f615396f,2025-09-14 20:15:07,It is adequate. Everything feels sufficient and moderate. I think this is common and typical. Nothing special.,neutral,19,masculino,Centro
+66f64155-8475-4762-9b4f-194ce90b6ccc,2025-07-30 23:18:56,It is fine. Pretty normal.,neutral,36,masculino,Sur
+3af19a4e-de3b-460b-9749-03875e381b22,2024-05-07 13:41:43,"I am furious because it is disgusting, livid and pissed! I hate this!",enojado,24,femenino,Centro
+8868cdee-6d30-4bc7-8d97-64b77ea4c7eb,2024-11-01 09:00:24,"Wow this is because it is unexpected, amazed and remarkable! Incredible!",sorprendido,28,femenino,Oeste
+7c367110-a68b-4968-a159-c1c1d906f06d,2024-07-15 08:42:50,What a great day!,feliz,36,no binario,Oeste
+52a0279d-8b92-4f5b-a9d6-307dd5fe1ee5,2025-08-04 09:57:11,This is normal.,neutral,67,femenino,Este
+b03afe75-71cf-4f5a-bff4-977f45fb8a3f,2025-10-30 08:40:59,This is incredible. Everything feels unexpected and shocked. I think this is stunned and unbelievable! Wow!,sorprendido,62,femenino,Sur
+bd20b33e-b0df-4245-bd9b-73bab042b74e,2025-12-27 02:31:13,"I feel amazing because it is celebrate, smile and excited! 😊",feliz,24,no binario,Centro
+879b98d9-a0fc-46ed-a4fb-13f6789d5fd1,2025-08-20 07:17:16,This is incredible. Everything feels mind-blowing and stunned. I think this is wow and astonished! Incredible!,sorprendido,62,no binario,Centro
+1c15dfd1-06a3-46d5-906b-f6748a7da7b3,2024-10-08 22:41:47,It is fine. Everything feels reasonable and regular. I think this is sufficient and average. Nothing special.,neutral,34,masculino,Este
+d7ecde3d-9ee4-404f-8e03-e0a8851a537e,2024-09-20 05:50:17,I am so surprised. Everything feels astonished and fascinating. I think this is shocked and amazed! Incredible!,sorprendido,40,masculino,Centro
+f8a99ccc-fef4-4f20-805b-ac3fc9ad5fb7,2024-10-29 14:25:10,This is incredible! What a shock!,sorprendido,36,femenino,Centro
+63bc0758-88d7-45b5-a2eb-14d9c7f0ae6b,2024-10-31 18:07:00,I am furious. Everything feels outraged and pissed. I think this is hate and ridiculous! I hate this!,enojado,28,no binario,Oeste
+d003687f-752f-482c-a5e4-8b8bcd8a62ce,2025-11-17 18:02:55,I feel down. Everything feels lonely and sad. I think this is down and hurt. This is awful,triste,22,femenino,Sur
+84559fad-4d05-4a4a-86b3-fa830b252688,2024-04-18 17:18:56,This is amazing! I cannot believe it!,sorprendido,57,no binario,Este
+8741e25d-85a3-4db4-b7b5-3de573238a82,2024-03-28 03:16:50,This makes me cry. This is awful,triste,60,no binario,Oeste
+43398a78-2a81-4cf3-b547-bd74cfbd96d6,2025-09-13 17:32:29,I am astonished. Everything feels incredible and unbelievable. I think this is wow and unexpected!,sorprendido,23,no binario,Sur
+f9d7d3dc-c90c-42fa-b4e4-0647d39d0897,2025-12-23 23:12:07,"Nothing special because it is fine, reasonable and regular. Pretty normal.",neutral,44,femenino,Sur
+3893f40a-1bc8-4e04-8105-e1aa29b1c346,2025-11-02 08:27:22,"I feel incredible because it is joy, awesome and smile! I love it!",feliz,21,femenino,Oeste
+bd2ee4b6-c4ed-463c-93de-30d0ac9d48bb,2025-12-13 15:24:03,"This is wonderful because it is happy, smile and perfect! 😊",feliz,24,femenino,Oeste
+ac69e05f-0ab7-4d47-a41f-fa186d4afe88,2024-12-17 20:20:02,I cannot believe this. Everything feels unbelievable and remarkable. I think this is mind-blowing and surprised! Incredible!,sorprendido,43,masculino,Sur
+0557be93-9644-49d9-bc80-56c12149e33a,2025-12-29 18:12:17,"It is average because it is usual, adequate and average. Just fine.",neutral,44,femenino,Centro
+745e9dc5-e0cb-40b0-a1e1-65ee2f2166df,2024-07-26 11:01:27,This is ridiculous. Everything feels unacceptable and mad. I think this is disgusting and angry! This is ridiculous!,enojado,23,masculino,Este
+feeb0038-b53e-4ed0-ba5c-7998e81c4b61,2024-04-17 00:37:26,"This is incredible because it is incredible, wow and unexpected! What a shock!",sorprendido,48,no binario,Norte
+ae2118bd-8c30-42cf-b91d-972994bc6f5a,2024-12-31 14:46:50,"This is stupid because it is stupid, pissed and angry! I hate this!",enojado,61,no binario,Norte
+8fb27c76-4b8b-4869-a75b-0189200a552a,2025-08-12 05:46:19,This is wonderful! I love it!,feliz,47,no binario,Oeste
+28a211eb-cecf-48e2-ba8a-9420e905332f,2024-04-22 22:47:21,"I feel amazing because it is great, cheerful and happy!",feliz,54,masculino,Norte
+f15877fe-9873-48c6-9b3d-77d2cb75c27d,2025-08-05 19:38:27,"This hurts because it is crying, devastating and down. I feel terrible",triste,51,femenino,Centro
+c4879989-f55f-4d75-908e-7b03b3d7d89d,2025-07-22 10:17:36,"This is incredible because it is astonished, surprised and fascinating! What a shock!",sorprendido,25,no binario,Sur
+76e09de0-63ed-4469-baff-4a9382437acc,2024-12-03 10:56:48,"I am astonished because it is surprised, incredible and extraordinary! I cannot believe it!",sorprendido,30,femenino,Este
+b451ed0b-c4a9-4e9f-a3ea-d87d0807cb9d,2024-02-29 12:49:07,I am so angry. Everything feels irritated and frustrated. I think this is unacceptable and mad! So frustrated!,enojado,50,femenino,Centro
+a0a5474c-9cef-4b92-a808-56c8c6941ad7,2025-06-17 15:10:29,I feel awful. Everything feels down and heartbroken. I think this is depressed and bad...,triste,66,masculino,Sur
+27bbaf6a-204c-47f2-b387-191fde77b2a6,2025-04-13 19:40:17,"This makes me smile because it is thrilled, cheerful and love! 😊",feliz,52,masculino,Oeste
+23bf298d-9fa5-4982-a599-7f2dfd828937,2024-04-14 02:47:52,I am furious!,enojado,36,femenino,Este
+93697fbd-99e7-493b-b03a-59ba23f5d1cf,2025-12-12 07:54:19,I am stunned. Everything feels mind-blowing and astonished. I think this is incredible and wow! I cannot believe it!,sorprendido,54,masculino,Oeste
+3fe92963-85c3-4343-a986-bb0710cd7ab7,2024-11-16 10:04:16,This makes me cry. Everything feels hurt and bad. I think this is disappointed and sad. This is awful,triste,30,femenino,Este
+8d768ac7-f152-44e7-bb64-8a74730e29fe,2025-04-20 18:14:56,"This makes me cry because it is unfortunate, lonely and gloomy. I feel terrible",triste,25,no binario,Centro
+9564c452-1bb2-498c-a1d4-ea3f12939365,2025-03-11 03:08:29,This is devastating. Everything feels devastating and crying. I think this is upset and down...,triste,48,femenino,Norte
+5b8579ca-8712-4e89-b600-c9a2b40149ec,2024-06-10 21:23:33,I am thrilled!,feliz,29,no binario,Centro
+702dc631-4b63-4dcd-86ff-fdf34bcbd7e6,2025-12-09 20:16:57,This is amazing! Incredible!,sorprendido,45,no binario,Oeste
+3e4dbe29-ec6b-49a0-aa64-fc5fb0e2c66a,2024-10-13 22:30:54,"This is stupid because it is livid, upset and angry! This is ridiculous!",enojado,23,femenino,Sur
+cd649362-c370-42d5-bb17-e3461a238edd,2025-07-15 13:49:43,This is amazing! Incredible!,sorprendido,62,masculino,Sur
+9db07918-70fc-46f8-b45f-0307ae1c33a3,2024-11-15 09:25:56,I am frustrated! This is ridiculous!,enojado,65,no binario,Sur
+7a9ab49c-ec0e-4ec9-9c28-08537d7eff54,2025-05-27 16:10:25,Wow this is. Everything feels remarkable and amazed. I think this is extraordinary and surprised!,sorprendido,61,masculino,Oeste
+fbb64886-78a5-4764-9b20-4918e80e47ee,2025-12-11 01:11:20,It is fine. Everything feels usual and standard. I think this is fine and reasonable. Nothing special.,neutral,30,femenino,Este
+249d82c7-fdb5-4af0-a347-6fb8b57fabd4,2024-08-13 01:25:06,I am heartbroken. :(,triste,18,femenino,Centro
+353a6be8-8989-426a-80e6-534ddd605a33,2025-01-31 19:53:13,It is acceptable. Everything feels reasonable and adequate. I think this is moderate and regular.,neutral,46,femenino,Este
+361e7815-1f2a-4aeb-bc84-5a0d7667fdd2,2024-09-26 22:34:28,"I am so happy because it is love, thrilled and fantastic! 😊",feliz,21,no binario,Norte
+451caa77-2bb2-48ef-b730-bcd8608fa044,2025-09-29 13:19:11,This is okay. Everything feels standard and fine. I think this is usual and regular. It is okay.,neutral,25,no binario,Oeste
+ecc7dc4c-a9ad-41db-8d2b-54f8adb0401f,2025-07-19 09:52:08,"I hate this because it is disgusting, angry and infuriating! Unacceptable!",enojado,63,masculino,Oeste
+461810ee-9d9c-45e8-b53c-ec0bebba9098,2025-11-11 15:31:37,It is adequate. Nothing special.,neutral,58,no binario,Oeste
+cf6b84c3-63ed-4e22-9d06-d200111e809d,2024-10-12 02:01:23,"I am heartbroken because it is depressed, down and devastating. I feel terrible",triste,26,no binario,Este
+dfbfcf1f-40f1-40e7-bd4b-b62861a83965,2024-09-10 05:22:47,Wow this is. Everything feels wow and stunned. I think this is shocked and astonished! What a shock!,sorprendido,47,masculino,Oeste
+01e8fc09-8ea9-44d3-880b-abd622af07b5,2025-10-01 21:43:53,This is devastating. This is awful,triste,67,no binario,Este
+ef9f73a6-0df6-4a87-851f-666340a41376,2025-01-22 06:10:10,"I am furious because it is pissed, frustrated and unacceptable! I hate this!",enojado,24,femenino,Norte
+7f7f33f5-ac0f-4886-b747-0400d04a013e,2025-09-12 00:36:32,This makes me cry. Very disappointing,triste,49,no binario,Norte
+267bee76-6572-402e-b85a-62fd26ca8195,2025-02-01 12:20:10,"I hate this because it is infuriating, disgusting and hate!",enojado,37,femenino,Oeste
+f331e3db-850d-4e4c-a58f-9518c4201f90,2024-06-12 09:36:55,Nothing special. Everything feels regular and common. I think this is adequate and standard.,neutral,36,femenino,Este
+a60eb3a3-01d1-4d60-b6c3-40ea8e82d407,2025-02-19 14:57:07,I am so sad. Everything feels terrible and bad. I think this is disappointed and depressed. This is awful,triste,60,femenino,Oeste
+58304771-3539-41d0-a37c-517d41dee0c9,2025-04-30 02:33:39,"I am frustrated because it is stupid, infuriating and mad! Unacceptable!",enojado,23,masculino,Centro
+6753a406-7b2e-4729-ae6a-db248e50af25,2025-01-24 20:09:40,This is unacceptable. Everything feels furious and hate. I think this is livid and annoyed! Unacceptable!,enojado,52,no binario,Centro
+05847389-3cc7-4cef-83ca-66a589c259e7,2024-06-06 23:49:00,"What a shock because it is surprised, incredible and stunned! I cannot believe it!",sorprendido,50,masculino,Este
+cd7894de-bb96-4720-a3d0-65e56cb11981,2026-01-02 08:50:54,It is acceptable. Everything feels normal and acceptable. I think this is standard and usual. Nothing special.,neutral,20,femenino,Norte
+7d7b27f5-107f-48b5-ab6e-98f48a42358b,2025-12-08 12:52:54,How fantastic! I love it!,feliz,44,masculino,Norte
+33955697-29a4-485f-a842-0b3076490676,2024-05-01 14:06:44,I am so angry! So frustrated!,enojado,47,masculino,Centro
+8c5aceaa-7df5-45b5-9c37-10199bb15cb9,2024-04-21 10:34:23,I am so sad. Everything feels hurt and gloomy. I think this is heartbroken and disappointed. :(,triste,18,no binario,Sur
+6b31498c-05ee-4017-a5f1-8f70a0767640,2025-08-25 12:52:26,This is incredible! Wow!,sorprendido,41,femenino,Centro
+feab54ee-7240-4cc4-b390-f9de3ac277f3,2025-09-13 07:40:30,"I am so sad because it is awful, gloomy and lonely. This is awful",triste,67,masculino,Este
+4112d6eb-b22f-4229-b648-cf9032c9e6cc,2026-01-09 03:16:29,I am disappointed. Very disappointing,triste,65,femenino,Sur
+66a38d3b-d146-43ab-9423-ac1b4ce7ee8e,2025-07-15 17:43:10,This makes me mad! Unacceptable!,enojado,51,masculino,Norte
+6c90af66-5ccf-4b0b-a13e-315ffd676dce,2025-10-14 19:19:45,This is standard. Everything feels okay and common. I think this is typical and reasonable. Nothing special.,neutral,27,masculino,Norte
+73bfa597-67dd-4bd4-a564-79623c72f646,2024-11-18 20:52:31,I feel amazing! :),feliz,55,no binario,Este
+c79185de-8a61-482b-a817-f9154b6084c2,2024-04-25 15:10:50,This makes me smile!,feliz,42,femenino,Sur
+466bb7a0-bb6d-4dde-a00d-507ec41ffcd6,2024-05-10 20:44:19,I am so surprised. Everything feels surprised and unbelievable. I think this is stunned and extraordinary! Wow!,sorprendido,57,masculino,Sur
+6bbf1f7a-6cdf-45ec-bff1-e1a2bd341271,2024-07-06 13:36:40,I am outraged! This is ridiculous!,enojado,63,no binario,Sur
+56f7300c-fe50-40f7-afdc-0ea14faffbbf,2025-09-19 22:01:55,It is average. Everything feels adequate and regular. I think this is common and fine. It is okay.,neutral,64,no binario,Sur
+b1bb7800-8dbf-4d77-85b0-684addbeccfe,2025-09-13 11:27:42,"I love this because it is amazing, perfect and fantastic! 😊",feliz,30,femenino,Sur
+dde28282-a5c8-4267-be6d-b937edcd3011,2024-04-30 15:13:17,"I am heartbroken because it is bad, painful and crying...",triste,42,femenino,Oeste
+da932e4c-b309-4b41-8a26-b84f0026d907,2024-08-23 10:13:28,"It is adequate because it is reasonable, fine and average. It is okay.",neutral,35,masculino,Este
+0d4ee793-43d0-4785-ac8b-ca71b3af2f4c,2025-02-23 05:58:25,What a great day!,feliz,60,no binario,Sur
+9957eb8a-df16-4809-b8ca-262c337442f0,2024-02-23 04:47:42,"This is normal because it is common, typical and standard. Pretty normal.",neutral,54,no binario,Sur
+bfa7074f-ce33-41d9-a8fe-b4323856df35,2024-04-02 20:23:56,This is unexpected! Incredible!,sorprendido,46,no binario,Centro
+8e135527-db18-4295-85cf-b6bf97a6b907,2025-09-20 12:23:08,"This is unacceptable because it is upset, furious and frustrated! So frustrated!",enojado,44,no binario,Este
+1b20d4db-d174-4c4e-888a-79ffccb8e9f8,2025-12-25 14:10:38,It is adequate. Everything feels reasonable and standard. I think this is regular and usual.,neutral,26,femenino,Oeste
+c8e86360-bedc-459e-b1e5-1fcd316fc4d4,2024-08-12 08:56:33,This is standard. Nothing special.,neutral,32,masculino,Este
+8a0ea19f-d0d0-4144-87cd-b6a2c78ca405,2025-06-18 00:37:46,I hate this! Unacceptable!,enojado,68,no binario,Este
+a7d11d35-e873-4e10-9d10-89f726fc1d6b,2025-05-29 14:55:00,"What a shock because it is unbelievable, unexpected and fascinating!",sorprendido,40,masculino,Oeste
+4be91b58-26f6-4a96-8c93-6f2e34260159,2025-09-18 18:11:14,What a shock. Everything feels extraordinary and surprised. I think this is incredible and fascinating! I cannot believe it!,sorprendido,69,femenino,Centro
+6b63a241-9819-4655-8d86-ef2dc4913ad9,2025-04-15 10:59:12,This is wonderful. Everything feels awesome and brilliant. I think this is excited and amazing! :),feliz,42,masculino,Este
+6060b8df-a2bb-442c-8c53-9075521d71db,2024-11-11 21:42:25,"It is fine because it is regular, sufficient and adequate. Pretty normal.",neutral,60,femenino,Este
+75dd4b4c-b403-4d73-be35-12062df9202d,2024-12-08 01:04:54,I am disappointed. Everything feels sad and awful. I think this is disappointed and gloomy...,triste,27,no binario,Norte
+0bb17d21-dbe1-4845-8131-55cf978174d1,2025-01-28 10:48:00,I feel down. Everything feels terrible and sad. I think this is down and disappointed. This is awful,triste,34,masculino,Centro
+33a61e57-0161-44f3-90ed-7c12b05a7d95,2024-06-19 20:01:22,I am so surprised. Everything feels mind-blowing and shocked. I think this is fascinating and astonished! Incredible!,sorprendido,25,femenino,Centro
+f8ce3126-c0d2-414d-b1cf-983623c69e7b,2024-07-29 00:38:44,I am furious. Everything feels unacceptable and pissed. I think this is stupid and angry!,enojado,30,no binario,Sur
+d70045eb-3916-4fb5-b6ee-8deacdb9490b,2025-05-08 21:29:59,This is normal. Everything feels fine and normal. I think this is regular and average. It is okay.,neutral,48,masculino,Norte
+76bcf9f1-d691-457e-a074-4a40852c64be,2024-07-18 17:47:45,I am thrilled! :),feliz,32,femenino,Oeste
+dd4640b1-8fcd-4fb5-92c7-3518820822f4,2024-09-20 01:23:31,"What a shock because it is shocked, unexpected and fascinating! I cannot believe it!",sorprendido,47,masculino,Este
+a8d8ab9d-6498-428d-8e10-38fc752bc1c6,2024-03-27 13:07:18,What a great day. Everything feels excited and perfect. I think this is thrilled and fantastic!,feliz,18,femenino,Sur
+c00591e7-0063-4c77-9bfa-0ec911772bb8,2025-10-08 05:06:35,This is standard. Everything feels moderate and average. I think this is reasonable and acceptable. Pretty normal.,neutral,23,no binario,Oeste
+1bdcfbd2-bfd4-4e02-9b40-e8c639d78f97,2025-08-08 23:58:57,This is standard. Nothing special.,neutral,18,no binario,Norte
+485d5d08-316a-4494-8f4f-f58b05a8a955,2025-07-17 23:12:09,Nothing special. Pretty normal.,neutral,62,no binario,Centro
+5af006c4-51b1-42a9-917e-02926273d067,2025-11-24 21:24:26,"I am disappointed because it is sad, upset and awful...",triste,49,masculino,Centro
+044695b5-d0c6-48fb-9076-e120f7f4b547,2024-05-01 23:59:27,"Nothing special because it is moderate, reasonable and regular. Just fine.",neutral,38,masculino,Este
+73a3532a-b8e3-4542-a692-34b5b28b1ea6,2024-05-24 06:03:25,"This hurts because it is disappointed, lonely and devastating. This is awful",triste,48,no binario,Norte
+6e028db7-30b3-495f-97b8-85a735fba1db,2025-09-30 09:00:26,I am astonished! Wow!,sorprendido,27,masculino,Centro
+7624a94e-0cfa-4282-a31d-97efb2d1e5b2,2024-11-07 04:11:02,I am stunned. Everything feels fascinating and astonished. I think this is incredible and shocked!,sorprendido,67,masculino,Norte
+c35f87ab-3264-4893-ae93-f1eb27fb8634,2025-03-17 02:47:59,This is terrible. Everything feels hurt and heartbroken. I think this is unfortunate and gloomy. :(,triste,35,femenino,Este
+8a8b598e-0839-4263-a914-2ee8a605ff60,2025-12-25 02:54:44,"I cannot believe this because it is extraordinary, remarkable and mind-blowing! Wow!",sorprendido,66,masculino,Centro
+1959dece-0125-479c-a504-cdcf0c0e35de,2024-12-22 13:28:42,This makes me smile. Everything feels ecstatic and amazing. I think this is pleased and celebrate! I love it!,feliz,38,no binario,Sur
+9bdd3bfe-f51e-4aeb-9e61-241cea934e7a,2025-09-27 08:25:34,It is fine. Everything feels acceptable and regular. I think this is typical and fine. Just fine.,neutral,43,femenino,Este
+81329d28-efe0-407e-ba89-c918b47cf5e4,2024-09-01 23:10:10,I am stunned! Incredible!,sorprendido,18,femenino,Sur
+dc0b8256-ef6b-4638-a212-859bff66c0e0,2024-05-22 03:50:22,I am heartbroken. :(,triste,18,masculino,Norte
+ec794bfb-a5f8-45d1-81c4-578f917c0582,2025-04-04 19:22:44,"This is okay because it is reasonable, common and usual.",neutral,28,masculino,Este
+14545991-9a9f-4c64-8da0-67234a271c34,2024-06-06 18:32:26,"I am so happy because it is excited, celebrate and wonderful!",feliz,27,masculino,Centro
+5fd97461-1c89-40ab-b5cf-e96ad58d9ca0,2026-01-13 17:05:50,I am so surprised. Everything feels remarkable and surprised. I think this is wow and unbelievable! Wow!,sorprendido,64,femenino,Este
+b9227c25-2973-4fc9-9dc6-70d6a09d47bc,2024-08-23 15:28:05,"This makes me cry because it is disappointed, devastating and painful. I feel terrible",triste,25,no binario,Oeste
+eceee25f-2b98-43db-9c7d-356644ade2b1,2025-09-03 15:17:20,"Nothing special because it is reasonable, sufficient and acceptable. Nothing special.",neutral,43,no binario,Oeste
+25cd6b8e-3a92-4410-82fc-1cf38dba9397,2024-09-05 13:17:49,I am outraged. Everything feels irritated and pissed. I think this is angry and ridiculous!,enojado,52,no binario,Sur
+99fc989e-cb84-4577-aebc-a5e31ad1237a,2025-06-21 11:07:53,It is adequate. Everything feels standard and normal. I think this is regular and adequate.,neutral,39,masculino,Norte
+fc4e92fa-3020-44c8-a0f6-59fab3dab8a6,2024-10-05 06:00:26,I am so happy. Everything feels thrilled and celebrate. I think this is pleased and amazing! 😊,feliz,64,femenino,Este
+8340fc71-7593-49a2-b423-123000555904,2024-06-18 23:44:17,I am stunned. Everything feels mind-blowing and astonished. I think this is extraordinary and remarkable! I cannot believe it!,sorprendido,29,masculino,Centro
+0c8325cb-6c8b-4d63-bb18-c753ab7c0c87,2024-08-31 07:12:49,I hate this. Everything feels pissed and infuriating. I think this is disgusting and angry! Unacceptable!,enojado,69,femenino,Oeste
+bc97e33e-ddf7-406e-b12d-d80c7eca6f7a,2025-06-23 21:28:17,This is stupid! So frustrated!,enojado,49,no binario,Oeste
+79731022-9d2c-4ca4-8955-fac4787bd2fd,2025-04-25 02:30:01,"I hate this because it is livid, stupid and irritated!",enojado,62,no binario,Norte
+100f3d9a-18bb-4a6c-aef2-00a8cc0d8a71,2025-09-28 02:56:16,"I am furious because it is stupid, pissed and mad! This is ridiculous!",enojado,32,no binario,Este
+96cd00a3-0b50-4c25-b895-e0c4593c926d,2025-07-20 08:23:12,"I feel awful because it is bad, lonely and miserable...",triste,62,no binario,Centro
+15d1b222-9917-42e9-b14a-53dda3ef5fb1,2024-02-09 10:35:16,I love this. Everything feels delighted and pleased. I think this is happy and ecstatic!,feliz,21,femenino,Este
+82ebfd52-56b4-4e4d-a217-efcc00169ecb,2025-01-14 01:54:06,"Wow this is because it is amazed, incredible and unbelievable! Incredible!",sorprendido,69,femenino,Oeste
+fc219785-34e0-4765-b288-62d34343730d,2025-10-15 13:19:51,"I am frustrated because it is livid, pissed and annoyed! So frustrated!",enojado,41,femenino,Centro
+b190fda8-4706-4a7b-b25c-b1759806fb8a,2024-11-10 22:03:38,This is ridiculous! I hate this!,enojado,56,masculino,Sur
+1ba6191f-afb6-4e29-8192-36e1acbb1740,2025-10-07 14:23:26,I love this. Everything feels perfect and ecstatic. I think this is excited and brilliant! I love it!,feliz,66,masculino,Centro
+5b265e52-031b-4238-9391-51eed89ea19d,2025-09-22 21:52:13,This is ridiculous. Everything feels irritated and upset. I think this is infuriating and disgusting! So frustrated!,enojado,26,masculino,Oeste
+3c905754-cdcc-4107-ac04-89ab367661e0,2025-09-02 01:45:22,"I am so sad because it is disappointed, depressed and crying. Very disappointing",triste,51,no binario,Centro
+0b1b251d-5e14-4ebc-95fd-b28431c23273,2024-09-12 07:27:47,"Nothing special because it is common, typical and usual. Nothing special.",neutral,60,femenino,Este
+b47f71a1-0199-4dce-a85c-cf0d00acc4e3,2025-05-20 10:44:46,I am stunned. Everything feels extraordinary and remarkable. I think this is unbelievable and shocked! Wow!,sorprendido,58,femenino,Este
+63477350-2bdb-4ac2-9035-029b2c08e3bf,2024-06-25 15:29:11,I am frustrated. Everything feels hate and infuriating. I think this is outraged and furious!,enojado,58,masculino,Sur
+7497f5ba-bc3a-4a73-9301-3afb153e5e75,2025-07-11 19:08:14,It is fine.,neutral,43,femenino,Oeste
+c560b019-6c98-41b7-a14b-15824fa9d6f6,2025-07-19 06:57:17,I cannot believe this! Wow!,sorprendido,69,masculino,Norte
+cf651ad9-9532-4870-8e7d-338dddd3d6d7,2024-12-28 14:36:30,What a shock! Wow!,sorprendido,25,femenino,Centro
+1b26032d-fd40-4dce-853c-211a7bc0bf30,2024-06-16 15:42:26,"This makes me cry because it is devastating, down and awful. :(",triste,69,femenino,Norte
+02770418-212a-4230-8d66-a856365123f4,2024-12-25 09:12:40,This is amazing. Everything feels amazed and extraordinary. I think this is unexpected and astonished! What a shock!,sorprendido,63,no binario,Norte
+9e37eef9-af7f-4385-93fa-556815575052,2025-12-22 13:08:02,I am so surprised! What a shock!,sorprendido,29,masculino,Oeste
+16fda5ca-8a8c-4dba-a8ca-897fad1e8e97,2024-03-17 18:07:27,I am furious. Everything feels mad and irritated. I think this is livid and pissed! I hate this!,enojado,26,femenino,Centro
+0b9a4ef7-5344-42fd-a7c4-2a15558b3b00,2025-03-23 04:28:55,I am so surprised. Everything feels fascinating and surprised. I think this is remarkable and extraordinary! What a shock!,sorprendido,68,masculino,Norte
+5c54ab9b-156d-4bd9-8135-975d3ebe8820,2024-04-24 02:21:23,I am thrilled. Everything feels celebrate and excited. I think this is pleased and fantastic! I love it!,feliz,27,no binario,Este
+16ba319b-634a-4638-a8a2-6589753e18c4,2025-11-27 19:56:08,"This is terrible because it is terrible, disappointed and lonely...",triste,60,femenino,Norte
+a90b4ed3-1cb1-4061-8476-31d2ceac281b,2025-11-19 13:36:19,This is unexpected. Everything feels unbelievable and incredible. I think this is mind-blowing and unexpected!,sorprendido,68,no binario,Norte
+6856a4b9-fe94-4760-a511-963e74a3f4a1,2024-02-07 13:22:10,"What a shock because it is remarkable, surprised and wow! Wow!",sorprendido,41,femenino,Centro
+b031425d-dc83-447b-abe8-679566d233ca,2024-06-18 01:23:36,This makes me smile. Everything feels ecstatic and thrilled. I think this is pleased and celebrate! 😊,feliz,42,no binario,Sur
+c93def35-a11b-4df9-a65d-fd78e9f32504,2024-04-14 12:57:23,This makes me cry. :(,triste,54,no binario,Centro
+2700356f-b5a4-4874-af8a-f90b9787e499,2024-04-21 04:53:00,This makes me smile!,feliz,68,no binario,Norte
+354e22b2-c43c-4ba1-8597-cbaddb41694a,2025-09-19 03:43:40,"This is ridiculous because it is angry, disgusting and mad! Unacceptable!",enojado,51,femenino,Este
+735a9bae-4dd9-4ec3-8f5e-ada3c1c9d1ee,2025-11-26 22:50:10,"I am so surprised because it is mind-blowing, amazed and unexpected!",sorprendido,41,no binario,Este
+5fe68149-a413-420a-ab77-725f250217ed,2024-06-26 18:50:45,I am so happy. Everything feels fantastic and excited. I think this is cheerful and thrilled! 😊,feliz,39,no binario,Sur
+285b0875-37a5-49be-9920-ee5c48134a05,2025-07-14 19:24:38,I cannot believe this! Incredible!,sorprendido,55,masculino,Oeste
+19f18b4e-cdb1-4618-b554-54fb0a1acc98,2025-04-15 03:44:56,It is average. Everything feels standard and average. I think this is okay and normal. It is okay.,neutral,39,masculino,Sur
+3b4a8aa5-18b8-4cc7-880e-d8ac22cfd5bc,2024-05-20 04:12:04,It is fine.,neutral,32,masculino,Norte
+ebd9ba45-d5e7-41e7-854c-e958ce6f44ea,2024-11-23 16:33:59,It is average. Everything feels sufficient and common. I think this is fine and average.,neutral,62,masculino,Oeste
+edc973ce-42ff-4b46-a389-838804088d2c,2025-08-25 21:37:00,What a great day. Everything feels amazing and awesome. I think this is celebrate and great! 😊,feliz,47,masculino,Este
+ee06f7f5-f4c6-48fd-a7f2-703c8aa79259,2024-01-21 02:44:27,This makes me mad! This is ridiculous!,enojado,28,no binario,Oeste
+a00bd2bc-3a81-4e31-bcb9-201081b1d1a8,2025-07-07 10:57:32,I am furious. Everything feels mad and frustrated. I think this is stupid and hate!,enojado,68,masculino,Este
+a27669e1-4d4a-4a2a-9c81-dfa0cca07c5e,2024-04-25 08:29:27,This is standard. Pretty normal.,neutral,25,no binario,Oeste
+a56acc30-281a-4fe7-b3fe-4e55c8c2f858,2026-01-16 20:14:05,"This is incredible because it is wow, remarkable and mind-blowing! Incredible!",sorprendido,65,no binario,Norte
+344fc1e0-1c7b-445c-9235-dd42501dceef,2024-12-25 23:31:40,"It is adequate because it is average, usual and fine.",neutral,46,masculino,Norte
+644159f6-c752-4d49-9f37-c3d75fa9d159,2025-04-22 08:19:13,This is incredible! Wow!,sorprendido,44,femenino,Centro
+70847091-0b55-4ace-9293-32d847933bbd,2025-04-28 20:16:39,This hurts. I feel terrible,triste,60,femenino,Norte
+16163715-83d3-41c6-911d-c971e9dd8f27,2024-08-25 20:59:29,"I hate this because it is livid, outraged and unacceptable! I hate this!",enojado,25,femenino,Centro
+2e9730bd-7c19-4795-909a-93c2e84900b7,2025-10-28 09:00:32,I love this. Everything feels pleased and excited. I think this is perfect and cheerful! 😊,feliz,59,femenino,Este
+645c1c75-ded1-4999-b702-6cc5ceba30ad,2025-11-15 04:29:47,This is wonderful. Everything feels delighted and awesome. I think this is excited and joy! 😊,feliz,47,femenino,Oeste
+019803b6-c0ae-46cf-82f2-56402b6c4ed2,2024-05-02 09:40:58,This is standard. Everything feels adequate and standard. I think this is moderate and regular. It is okay.,neutral,59,femenino,Norte
+6f57a7d3-947e-4464-94f0-091a3cc227b9,2025-06-15 02:30:24,This is ridiculous. Everything feels upset and mad. I think this is livid and furious! I hate this!,enojado,21,no binario,Centro
+3a4dc3c0-fb36-4a42-85e8-18e09ae7f3ac,2024-11-27 16:34:55,This is typical. Pretty normal.,neutral,49,masculino,Centro
+890dc882-9628-4612-a9a8-082c5eafab72,2025-12-03 03:17:09,It is fine. Everything feels sufficient and regular. I think this is reasonable and adequate. It is okay.,neutral,29,femenino,Sur
+c2263456-a44e-499c-bfb3-ade9a3ed9813,2026-01-17 17:21:43,This is ridiculous! Unacceptable!,enojado,39,femenino,Este
+3fb5e0ba-fc50-4a42-8e81-86ac1ed58700,2024-11-03 07:30:32,How fantastic. Everything feels great and brilliant. I think this is happy and ecstatic! :),feliz,58,femenino,Norte
+225321a0-dd9b-4e2f-a5de-2f7caa6ad37f,2024-07-15 02:22:15,"This is unexpected because it is astonished, unbelievable and wow!",sorprendido,69,femenino,Sur
+2be5ad53-3cc8-4a40-893d-84110e98ff3a,2025-10-26 15:13:48,"What a great day because it is celebrate, joy and delighted! This is great!",feliz,34,no binario,Centro
+b431fc0c-5709-40d8-a2a1-7660bb96bf54,2024-02-24 11:54:19,It is adequate. Everything feels reasonable and normal. I think this is sufficient and acceptable. Nothing special.,neutral,36,masculino,Norte

@@ -1,0 +1,1201 @@
+user_id,timestamp,text,emotion,age,gender,region
+eebedd06-dcc4-4002-9aa7-f532121a5400,2025-06-09 14:00:54,It seems happy!,feliz,52,masculino,Centro
+fae8d31d-08f3-4e15-bef9-384773ad739f,2026-01-15 12:23:43,It went well!,feliz,64,femenino,Centro
+3b6aa695-a84a-4e5f-818a-dcee3ca29f80,2024-01-21 00:28:07,It is what it is. Okay.,neutral,33,no binario,Norte
+29133a34-6301-4126-b82b-bd1f3165ef4a,2025-08-03 06:57:40,Seems quite hurt. Bad.,triste,25,masculino,Oeste
+714af052-4fa8-4eed-b59d-73a6e0f94108,2025-10-10 06:37:02,It looks excited. Nice.,feliz,49,no binario,Norte
+b1afcb6f-1140-42fd-8e07-dd8318768f00,2025-12-01 06:50:34,How unexpected!,sorprendido,20,masculino,Oeste
+0de604a7-6abe-49fa-bea8-797cd2ffb81e,2024-02-23 15:15:32,I think it is well and bright.,feliz,27,masculino,Este
+d95efac6-0af1-41c0-8efe-9a2e31c5b9f6,2025-08-01 06:01:50,Seems quite outraged. Bad.,enojado,54,femenino,Oeste
+8e52c859-fba9-41ed-9454-4fedb8433590,2024-06-23 00:16:41,Everything is amazing!,sorprendido,64,femenino,Norte
+542758e6-366e-4dcb-b6c5-f2c69d36ec89,2024-05-20 01:01:47,I feel good and fine.,feliz,25,masculino,Oeste
+e784508c-b404-4188-8536-70ecb1da9d03,2025-01-16 03:42:15,It seems outraged! Wrong!,enojado,52,femenino,Centro
+63317c15-4584-4166-8a1e-fe270206d9b5,2024-06-23 20:05:40,This is fine and different. Fine.,neutral,59,femenino,Centro
+0d7565dc-e4f1-47ed-90d9-26dd5dc3f303,2024-07-01 05:38:13,It looks well. Good.,feliz,40,no binario,Centro
+82658b37-58d5-45e3-b20d-2ac1d2e4a4c0,2024-05-18 00:01:29,Everything is joy. Good.,feliz,56,no binario,Sur
+2b0fe946-7a29-47fc-9bd7-79cd9b0d0707,2024-07-30 04:13:36,I think it is smile. Nice.,feliz,43,no binario,Centro
+ccc4d7d8-250a-4271-ada7-ddfc5291a7f6,2024-04-04 10:39:30,This makes me feel disappointing. Bad.,triste,69,femenino,Sur
+24f2def8-a1ef-402d-8032-39dabfd2a346,2024-02-21 07:04:10,Everything is interesting. Interesting.,sorprendido,19,femenino,Oeste
+88bb7f29-48f8-439e-876a-1d2a1a88f6af,2025-10-08 04:43:56,Seems quite typical. Normal.,neutral,30,masculino,Oeste
+86ee382f-3429-4c88-8854-1901ccb712b4,2025-11-06 11:01:56,Seems quite wrong. Bad.,enojado,55,masculino,Norte
+3895897b-0423-4f7e-bfd6-a2b4db69a89c,2025-07-30 11:22:44,It looks shocked!,sorprendido,27,femenino,Sur
+e52147a2-601a-47f2-8683-ebb2671c49a1,2025-08-20 14:59:55,This is unexpected! Wow!,sorprendido,25,femenino,Este
+3e494227-7393-482b-be09-1682c04eb829,2025-06-25 23:05:40,This makes me feel furious! Wrong!,enojado,63,femenino,Oeste
+4e70b809-8ef8-4540-9a87-f9f89c7a05cd,2024-10-24 05:19:57,This is different and wow!,sorprendido,47,no binario,Norte
+8c2fa7ea-1338-4d03-86c2-da854bd51d90,2025-11-16 13:16:05,This is typical.,neutral,37,femenino,Centro
+d53be943-62a4-4a98-8ce6-a0dc2f45c042,2024-11-17 12:23:05,I do not like this!,enojado,50,no binario,Centro
+b92682b1-1be2-467d-9fba-b6eaa5de6426,2024-06-25 19:24:59,Seems quite disappointing.,triste,28,no binario,Oeste
+64973cce-21be-49fe-84bc-62988887c1a2,2025-10-23 16:13:23,It looks nice. Nice.,feliz,51,masculino,Sur
+1c6576c4-ff95-4612-95ac-710f53d9903b,2025-05-26 01:51:21,Seems quite incredible!,sorprendido,41,masculino,Norte
+98064688-ac02-4411-ba70-6a1b16ed979c,2024-10-23 20:32:00,This makes me feel annoying and terrible! Wrong!,enojado,45,femenino,Centro
+ca0ad43f-0ca1-4db8-8cef-12bfd9bcee60,2025-07-07 04:08:58,This is terrible! Wrong!,enojado,30,no binario,Sur
+434f3115-86ab-43f7-a7b5-d895955b9362,2024-04-07 00:16:37,I feel smile and joy!,feliz,58,no binario,Oeste
+e33cacea-1dbd-4a70-acd0-1b8d21be5367,2025-10-29 05:14:33,How unexpected.,sorprendido,27,no binario,Este
+cfa183fe-ee1d-4587-82fb-9587684017ee,2024-01-30 16:40:59,I think it is amazing and wow! Wow!,sorprendido,44,femenino,Este
+88a6c4d2-3c82-46e9-ab1a-1a9ffec8e2ee,2024-11-29 00:44:53,This is wrong! Wrong!,enojado,38,femenino,Este
+f0efd9a6-07c3-4d43-bddb-10fffacf7b32,2025-01-17 16:43:48,I feel typical. Okay.,neutral,52,masculino,Norte
+c4aae1e5-c1cb-4255-828e-659c2ee2ac81,2024-10-29 14:21:42,It is difficult...,triste,31,no binario,Oeste
+5894d7f7-21f5-469b-bb5f-af2b753824e0,2024-09-28 15:50:50,This is positive. Nice.,feliz,26,no binario,Centro
+9425fc9f-f81a-4180-b071-eeee8107be28,2025-07-13 12:12:32,Pretty standard and okay. Fine.,neutral,32,femenino,Norte
+b0e4ed42-8fd5-4010-bd04-2f2c06bde1b7,2025-02-17 17:21:59,Everything is normal.,neutral,54,femenino,Oeste
+85b5c515-6cb9-429e-babb-a399b4e92d69,2025-01-05 18:01:26,It looks furious.,enojado,58,masculino,Este
+e8bebbb7-56a2-4c67-891c-5c8ccc5812fb,2024-07-18 14:58:10,Pretty good. Good.,feliz,37,femenino,Oeste
+3a4c28f4-860d-43fd-9a32-57e0a983688f,2025-01-01 14:38:10,This makes me feel furious. Bad.,enojado,26,no binario,Sur
+32a3539c-0db2-40c9-86e6-54deae44b4b5,2025-07-10 12:08:39,It looks unusual!,sorprendido,18,no binario,Oeste
+2ca9ab42-3431-4721-a84d-e31688955003,2024-01-31 08:49:17,Seems quite outraged! Wrong!,enojado,54,masculino,Centro
+ad2f3694-676c-4ef3-a288-dc1126bfba21,2024-08-07 10:35:13,Everything is terrible.,enojado,50,femenino,Norte
+98288ade-919f-456c-8330-358ee46e317a,2026-01-11 15:08:18,It looks fine and okay!,feliz,41,femenino,Oeste
+6dc47dac-997f-4bd6-bed4-458359b8e461,2026-01-18 02:38:45,I feel bad.,triste,18,masculino,Este
+fb6f15ef-fda8-4d23-9195-8048b4d29ec5,2024-08-10 11:02:03,This is bad!,enojado,47,no binario,Centro
+a5e3bb7f-0026-48f0-867d-f1ce9367ff0e,2025-06-24 01:17:53,Not good and mad. Bad.,enojado,23,masculino,Este
+15b95c3f-0889-4b74-90a7-11a4340ab986,2025-06-09 05:35:05,I feel angry and ridiculous. Bad.,enojado,41,no binario,Este
+66f6ee71-48df-4879-9512-8647f3315cb4,2025-07-16 19:46:20,This is joy and joy!,feliz,52,no binario,Este
+fb7494f5-4390-423c-917c-4dee554aa65e,2024-12-10 23:38:34,This makes me feel positive!,feliz,48,masculino,Este
+afc1c481-9ab0-44bb-a6bf-cf90a9eda60b,2025-11-27 12:32:46,This is not good and awful. Bad.,triste,65,femenino,Oeste
+a46746bd-2106-4c30-a0cd-bbb2d65b9a8c,2024-10-19 11:59:13,I think it is bright. Nice.,feliz,69,no binario,Norte
+93caee73-7921-42c1-897b-1c2e10a27a61,2025-07-15 17:15:21,Everything is nice and bright.,feliz,46,masculino,Sur
+600f3584-57fb-4a5f-b25a-6f90984539ef,2024-09-18 13:56:32,I think it is annoying! Wrong!,enojado,27,no binario,Este
+7d541164-f0df-4f22-ba07-794856e8a366,2025-02-05 00:48:01,I feel wonderful!,feliz,43,no binario,Sur
+051444fc-967d-40fe-8ea1-615d17d9e8dc,2025-08-11 23:38:29,Seems quite mad! Wrong!,enojado,26,no binario,Este
+c47ffb56-9f82-4bdf-87ec-f852dd135222,2024-07-30 17:23:29,I think it is hate! Wrong!,enojado,56,masculino,Centro
+db7ebc1a-ef74-438e-9a12-dee9e648a436,2024-04-25 22:42:30,Not good. Bad.,enojado,22,no binario,Centro
+5d2f6276-6f31-48b7-a05d-d4d0fcabfd47,2024-06-06 05:30:06,Seems normal.,neutral,61,no binario,Centro
+577ce70b-95d0-4329-92ae-13792b5ff4e9,2025-03-15 22:21:01,Everything is furious.,neutral,30,no binario,Sur
+731b9c53-b094-41f1-8cf9-75e6837c5087,2024-02-20 07:44:05,Not good and ridiculous! Wrong!,enojado,54,masculino,Sur
+59d032c6-6ce8-4d48-bfe8-ad6789f34ce4,2025-01-07 09:51:41,This makes me feel sad.,triste,32,no binario,Este
+05e411d9-ce36-4955-9d3e-e560c4107941,2025-06-28 16:04:23,It looks hurt and awful...,triste,31,no binario,Este
+af0d0156-d91d-43ab-902d-299ecafcdc41,2025-12-24 13:39:40,It seems typical. Normal.,neutral,52,masculino,Este
+34bbbb2c-cdcb-48d4-b69d-c33162ad4e49,2024-04-14 08:10:52,Everything is crying. Not good.,triste,43,femenino,Norte
+131bb6d7-6e42-4dff-8624-3f15f604da13,2024-12-05 16:52:29,It looks okay.,neutral,51,femenino,Centro
+a28c3356-a05f-4087-bff2-9906455a364f,2026-01-15 11:06:41,I think it is bright.,feliz,42,masculino,Centro
+4901caea-32fc-4d11-b82a-9e70139f3370,2025-02-21 08:26:28,It is difficult and disappointing.,triste,65,masculino,Norte
+f4302531-da65-4765-914a-d05a130a6e7b,2025-08-08 19:04:00,I think it is hate.,enojado,42,femenino,Oeste
+d44b0f95-0f3e-44ba-acf9-1d8cc2eddea9,2024-12-16 01:59:23,It looks typical. Normal.,neutral,38,masculino,Centro
+724c4d05-8152-4c92-a60e-8c76e59c36cd,2025-02-13 13:39:05,Everything is surprised! Wow!,sorprendido,22,femenino,Centro
+c28091f1-25a4-44a2-b4c1-a471798a3cd6,2025-08-20 10:14:11,Quite strange! Wow!,sorprendido,50,no binario,Sur
+25922aba-6ea1-4ca5-aed2-01927d26497a,2025-10-06 11:55:58,It looks wow and shocked! Wow!,sorprendido,36,femenino,Sur
+ac4438ec-e518-4c84-8c50-ea667cc3e75a,2025-07-27 13:33:57,This makes me feel bad! Wrong!,enojado,34,femenino,Centro
+f60e98b8-4286-47d9-84c4-487a5882d958,2024-05-08 07:19:43,It went well and fine. Good.,feliz,30,femenino,Oeste
+fe418dea-dd62-4ac4-b2a4-068d28b186e3,2024-12-19 22:01:13,I feel unusual. Interesting.,sorprendido,59,femenino,Este
+4797024e-8ef5-4f27-8c50-dee70466fd3f,2025-01-06 01:06:34,This is fine and different. Normal.,neutral,55,masculino,Sur
+00eaf3ff-34f3-41e2-b05d-396931f5489a,2025-03-30 01:21:52,Pretty unusual! Wow!,sorprendido,47,masculino,Este
+1b3822f7-28c9-48a8-bd47-6bdd580280fd,2025-07-07 13:58:14,It looks amazing! Wow!,sorprendido,55,no binario,Oeste
+d90b0a81-f16e-4b77-bf00-594b0afb8ea9,2025-03-03 06:41:46,It looks interesting. Interesting.,sorprendido,58,no binario,Oeste
+1851908a-8cf4-4793-bad6-fdde28ec611d,2025-11-06 06:05:45,This is interesting and amazing! Wow!,sorprendido,44,masculino,Norte
+edd21089-e2b0-4d75-ba5e-b8866005f32b,2024-08-11 12:25:36,It seems okay. Okay.,neutral,21,masculino,Centro
+3fda1c14-bb82-4404-ba21-72b3843295cf,2025-11-03 19:35:05,I feel furious and angry!,enojado,60,masculino,Centro
+3c98eff2-4a1a-4dbb-827e-894975e331dd,2024-12-02 14:48:09,This is bad and terrible.,enojado,27,femenino,Sur
+a6a816dd-3f89-4b6b-81eb-66e72530b90f,2025-01-11 16:43:44,This is not good and difficult.,triste,61,femenino,Norte
+acb50cec-6807-4969-bbe0-58f8cc62e051,2024-12-06 06:19:03,I think it is angry and mad. Bad.,neutral,51,femenino,Oeste
+fad59119-17b8-4478-a937-27a4d6490402,2025-05-16 22:40:09,It is difficult and sad.,triste,18,no binario,Oeste
+9cee374e-5b7f-443e-91ec-6e34a3d0f573,2025-04-15 15:42:43,I think it is amazing and amazing!,triste,26,femenino,Sur
+78d5c877-b025-4986-a9bb-ea324cb9d9b6,2024-03-06 22:11:32,I feel stupid and bad.,enojado,51,no binario,Centro
+5c3185cc-e99d-488c-890e-e8e3611c073f,2025-12-28 04:54:50,Quite strange. Interesting.,sorprendido,56,femenino,Oeste
+d265d939-c82c-40d8-b0f2-0197f7429110,2024-09-07 04:22:29,Pretty standard and fine. Okay.,neutral,20,femenino,Oeste
+ce51038a-3fe6-4363-b7d4-f670b6385c08,2024-09-06 09:55:58,I think it is great and smile. Nice.,feliz,23,femenino,Oeste
+ee430b87-5133-471a-a563-aa7f1c8f92c8,2024-08-07 21:24:15,This is unusual.,sorprendido,36,masculino,Este
+1e3eb201-1c54-4466-9272-e68aed29b4bd,2025-01-06 17:04:05,It seems sad. Not good.,triste,22,masculino,Este
+27773644-6bb8-4411-9d0c-d4a2cc2c4abe,2025-04-12 01:03:23,It seems tough and disappointing...,triste,36,masculino,Centro
+87e02caf-c8ef-4716-8278-6916f13efbb8,2024-12-20 21:34:53,It seems excited and happy!,feliz,19,masculino,Este
+b1aedfc5-e915-46d6-a25e-9f7162dd7c24,2025-06-14 16:34:20,Everything is hurt. Bad.,triste,65,masculino,Centro
+39ade746-dfca-40d5-9fd9-6f3b15305a5a,2024-05-12 08:49:39,Everything is unexpected!,sorprendido,68,femenino,Centro
+984fc234-af8f-4a2d-bccb-a50b362db84e,2025-06-28 15:55:26,This makes me feel well and nice.,sorprendido,65,femenino,Sur
+e9f24a38-fc6e-4a3b-b633-6937fe2c227f,2025-03-21 07:57:31,Seems quite good!,feliz,52,femenino,Este
+cdb015fd-34f1-42af-99ac-3cb32a828e0f,2024-10-02 04:23:01,It went well and good. Nice.,feliz,61,masculino,Oeste
+9bc251e2-76d1-4967-9aba-e624b91d9377,2024-03-03 08:47:48,Seems quite terrible.,triste,38,femenino,Norte
+ddf0609c-2b24-4487-a3c5-a0ec0bc8e997,2025-03-20 09:38:50,This makes me feel unbelievable and incredible. Interesting.,sorprendido,21,femenino,Oeste
+04c62781-8110-4410-a7f8-a42117424e9f,2025-02-06 17:54:33,This makes me feel wonderful!,feliz,21,femenino,Oeste
+af9c2fc8-d838-46a6-8a83-6c026aaa8d43,2025-08-05 07:05:52,It looks shocked! Wow!,sorprendido,19,masculino,Sur
+25c76113-c79b-42f1-acc3-5814dbe62050,2025-09-16 06:20:22,This is happy. Nice.,feliz,49,femenino,Centro
+317e9d63-c68d-48b2-924f-b37e7613c4fb,2024-10-07 01:36:25,Everything is terrible...,triste,53,masculino,Centro
+4b828cec-9eb1-46e1-94c7-04c01e0f21c8,2025-01-23 17:32:23,I think it is unusual and strange.,sorprendido,19,femenino,Centro
+bee6dfc0-7b18-4730-8d97-a59848b60a01,2024-03-24 20:09:58,This makes me feel strange! Wow!,sorprendido,21,no binario,Oeste
+6be8c2f9-51fd-4c03-9bd1-32abe2be4e37,2025-09-30 20:33:03,Pretty good!,feliz,56,no binario,Norte
+58e39cce-f2c3-478a-8c7d-6d99f7ddc639,2025-11-03 00:58:18,I think it is mad!,enojado,44,no binario,Centro
+1f5c54cb-b249-4932-aea8-bcad89de8cf6,2025-02-07 20:10:40,It seems nice. Good.,sorprendido,64,masculino,Norte
+04e466c0-496c-438d-aa0e-669821f138bb,2024-01-23 11:42:33,It seems awful. Not good.,triste,51,masculino,Norte
+d40d163e-7b89-431a-9ef1-0798ecab10cb,2024-08-13 01:34:09,Seems quite sad and hurt. Bad.,triste,57,no binario,Norte
+b06a2ea4-36f2-49cc-ae6b-64d2b49e3a8f,2024-07-29 15:31:26,It seems ridiculous!,enojado,46,femenino,Sur
+2f88e8cf-d7d1-4eb0-b8b7-3100a9e2fa7e,2024-11-15 18:03:56,This is crying. Not good.,triste,54,femenino,Oeste
+aa36f8b6-b82a-4cfb-a4f6-3a72b25d1783,2024-11-04 21:14:39,I think it is bad.,triste,47,masculino,Sur
+515e97f9-9df8-4e81-901e-1a82e9ccb333,2024-04-20 04:29:23,Everything is different and good.,neutral,45,no binario,Norte
+38ce5c39-abd5-4fde-ad04-c26a3d1b8263,2024-07-14 14:59:03,Seems quite interesting. Interesting.,sorprendido,34,masculino,Norte
+84a132f7-e17e-4503-9b4e-22ff7fe6fe07,2025-11-29 09:49:59,It is difficult...,triste,47,no binario,Norte
+3dc8f707-44e7-4a61-b8ea-6d202dec3b8e,2025-02-06 10:16:28,I feel good. Good.,feliz,59,masculino,Este
+2a10b422-f98e-4e73-9e8d-8c634903046c,2025-12-20 15:47:08,How unexpected. Interesting.,sorprendido,68,masculino,Este
+882dd33b-05ad-4246-95f9-44a08e3a1c7d,2024-12-17 00:55:34,It went well and joy. Nice.,feliz,19,no binario,Este
+db7e5da0-1d9f-40e0-a1c2-5fabd82d9fe5,2025-01-14 17:43:24,This is wrong and ridiculous. Bad.,enojado,52,femenino,Este
+153c500f-c2b0-42c9-a2f4-c7003b223271,2025-10-29 17:39:51,It looks interesting!,sorprendido,22,femenino,Norte
+7c32f3fb-55df-40c2-a388-1322bae9c1a4,2024-05-14 14:00:42,It seems hate and hate!,enojado,42,masculino,Oeste
+e3deefe6-bb45-4c47-9e02-53deebbf1388,2024-03-16 07:35:16,Pretty good. Good.,feliz,50,femenino,Centro
+be2416cf-97dc-47dc-bfa9-126de4dbb073,2024-09-22 08:40:12,This is devastating. Not good.,triste,50,masculino,Oeste
+6b878bbf-fcd7-4dda-a832-c6901f3ba5de,2025-09-01 11:01:33,I think it is happy and wonderful.,feliz,27,no binario,Oeste
+4e789136-603c-40c5-b98c-3de640a192f4,2025-08-02 22:33:42,Everything is ridiculous!,enojado,35,no binario,Norte
+9a7a1fac-aa7a-4d35-b362-0b5355120e95,2025-10-23 15:19:12,I feel good and love. Nice.,feliz,33,masculino,Norte
+86147cfc-fa19-4aec-987f-3153d7c2384f,2025-01-29 14:19:23,It looks interesting. Interesting.,sorprendido,65,masculino,Sur
+12610887-eaf3-43e8-9137-e4a8be1ccddd,2024-02-01 14:07:13,This is not good and devastating...,triste,31,no binario,Norte
+3c208ba8-22bc-4cce-82ab-9cc2ee4a8dcb,2024-09-15 16:12:57,It seems wow and incredible. Interesting.,sorprendido,51,masculino,Oeste
+97486cd3-965a-4e92-b384-c73c19c0b67b,2024-05-03 01:47:56,This is interesting and unbelievable! Wow!,sorprendido,23,masculino,Oeste
+5287ca96-3362-44b3-9fad-ecc588c7d9ef,2024-11-25 20:22:40,Everything is unexpected and interesting! Wow!,sorprendido,44,masculino,Norte
+289a3fa9-3b14-426a-a052-e21e2873573e,2025-03-02 17:09:57,Seems quite excited!,feliz,68,masculino,Centro
+3e8dcdef-7c2f-4570-82d4-ee9ac0bcbf4c,2024-09-03 03:55:32,It looks surprised! Wow!,sorprendido,40,femenino,Oeste
+3888403b-f3fb-4cc6-9e92-085b06bb2b5b,2024-02-20 17:10:39,This is wrong!,neutral,59,masculino,Oeste
+81fb2713-50f5-46f7-810a-0e4a1e72dac2,2025-08-04 04:01:24,This is bad. Bad.,enojado,33,masculino,Sur
+b2a78b82-4257-4f64-8b57-0aaaaf941974,2025-10-14 12:17:35,It seems love!,feliz,69,masculino,Centro
+ca89b4f7-9b6a-4e44-9d2d-f0fff0a9768f,2024-11-21 01:30:32,This is well.,feliz,31,no binario,Este
+2c101b54-65fd-43bb-9a08-75703234d5d9,2025-11-14 10:48:20,This makes me feel hard...,triste,23,femenino,Centro
+8c8d79fa-2bca-49ba-8da1-b26707b50367,2024-06-16 19:53:49,It looks disappointing and disappointing. Bad.,triste,31,masculino,Sur
+97555ad5-db0b-49d9-a5aa-d4004056eacd,2025-06-30 13:52:00,This makes me feel hurt. Not good.,enojado,29,no binario,Centro
+3850a5c5-3b99-40eb-9347-783134cadd99,2025-02-27 09:02:56,This is fine and different. Normal.,neutral,59,no binario,Oeste
+74d53258-2497-4b32-aefa-85b08961e4d8,2025-07-24 15:58:07,Seems quite terrible...,triste,58,femenino,Centro
+cd5b6328-42c5-41a8-ad77-f4a37cb671bd,2025-02-18 14:28:35,This is bad!,enojado,42,femenino,Norte
+32f12a40-53e1-4582-adf1-295a52d3374f,2025-04-28 08:58:13,This makes me feel amazing and amazing! Wow!,sorprendido,63,masculino,Norte
+d9437e16-6a32-4582-8bdd-e0627f011242,2024-08-05 14:29:56,Seems quite hurt.,triste,47,masculino,Oeste
+2c70583c-f261-49f9-ac2b-f4a4f793d918,2024-01-31 21:28:26,This is nice.,neutral,33,masculino,Norte
+78d7c7c6-f74d-47e4-a014-c4acd87a13bb,2024-05-16 17:47:45,I think it is interesting. Interesting.,sorprendido,45,masculino,Norte
+d291c436-2e70-4cf0-998e-0e1119e99415,2024-07-23 20:46:04,Everything is unexpected and different. Interesting.,sorprendido,35,masculino,Norte
+05af118d-673f-42ac-bfe2-ecd9545833d7,2024-12-20 17:47:17,I feel furious.,enojado,46,masculino,Oeste
+f064e5cd-6d2d-4f9a-a572-6a6b5c2e4944,2025-09-11 18:42:46,This is annoying!,enojado,35,no binario,Oeste
+8cf21207-b9b1-4c4f-8e2f-8b59bab3cd01,2024-02-13 19:30:07,This makes me feel okay.,feliz,52,no binario,Este
+d4ddc0f7-15c1-4968-a1d6-97ac6caba615,2024-10-07 19:50:50,This makes me feel unusual and different.,sorprendido,25,femenino,Centro
+058214dc-01fd-486b-b236-4266f19950a6,2025-10-03 14:20:24,Everything is hurt...,triste,24,femenino,Oeste
+a768f8de-02b5-48f6-9449-c5fac40b23ac,2024-09-02 14:12:04,I feel regular. Fine.,neutral,18,no binario,Sur
+0036d60e-6570-40b7-a243-633dd93ce206,2025-05-23 17:48:36,Seems quite normal. Normal.,neutral,56,masculino,Norte
+0ca13078-3b96-4318-9d7b-da202b08fc70,2024-09-23 06:44:16,Seems quite nice and good. Okay.,neutral,50,masculino,Centro
+3210f1f7-a307-4b0d-95de-58dc6da84cae,2025-08-19 02:54:10,Seems quite normal and fine.,neutral,65,femenino,Este
+2a42f590-86e9-4094-8e8b-fc4dd7a47b2d,2024-02-19 15:21:30,I think it is interesting and different! Wow!,triste,38,masculino,Sur
+215be926-a57b-4a86-ba50-170eaeeabe7d,2025-11-15 21:54:37,I feel great!,neutral,33,femenino,Norte
+36fdddb9-cb1f-4138-9dae-d6077231e199,2024-10-29 06:42:44,I feel bad. Bad.,triste,40,no binario,Centro
+563c18a7-ab96-41cb-a7ff-8d5ce0d86c61,2024-12-14 03:45:17,Seems quite unexpected. Interesting.,sorprendido,51,femenino,Oeste
+7bcc0792-4962-47fe-a43a-91ff45a4ca58,2025-01-23 13:20:56,This makes me feel devastating. Not good.,triste,46,no binario,Centro
+a5c37a15-88f2-4088-9eba-3d51c09ab9f5,2025-02-19 15:19:33,I feel smile.,feliz,27,femenino,Centro
+282e3f39-7f82-4b5c-a308-37a81cf19047,2025-11-07 12:51:23,I feel crying. Not good.,triste,45,femenino,Sur
+8aac8f00-65c4-4e56-ac41-93848b565b1e,2025-12-11 19:32:53,Everything is strange.,sorprendido,38,femenino,Este
+a72891c7-2780-4ae3-97cb-0f993c3cfa2c,2024-08-12 21:28:03,It looks love. Nice.,feliz,28,no binario,Sur
+5ba886ee-efd8-4740-a41b-7403d897a9b3,2024-02-22 08:16:59,It seems good. Okay.,neutral,58,femenino,Sur
+dbf1897a-7a53-49f5-836f-0d390a0a4a28,2024-09-29 02:16:53,This is annoying and terrible. Bad.,enojado,55,femenino,Sur
+91da3ae5-ceaa-4222-8d68-296f6b07d018,2025-12-02 16:42:08,It seems good. Okay.,neutral,27,no binario,Este
+0d9f439f-31dd-4143-a723-72961fd5daa9,2025-05-11 13:28:15,Pretty standard and regular. Fine.,neutral,40,femenino,Este
+31782349-2565-4549-b0ba-84ce32cf32b0,2025-09-06 16:11:29,This is annoying! Wrong!,enojado,38,masculino,Norte
+3b4beefa-4208-42ce-89c7-2c83a31801f7,2024-11-04 20:47:06,I feel crying.,triste,51,femenino,Sur
+477ad803-a144-4afe-b46b-60d01774424c,2025-10-16 11:52:26,I think it is not good and disappointing.,triste,52,masculino,Norte
+1fbe3d5a-444e-42c9-9288-66dbbba04c7b,2024-02-12 21:45:58,It seems shocked and surprised.,sorprendido,38,femenino,Oeste
+4b10b0f6-b21f-41b8-9132-810d23ce1208,2025-11-23 11:38:18,I feel bad! Wrong!,enojado,69,femenino,Oeste
+7c2f33a7-54b5-4505-88a7-e92acdf1bb7d,2024-11-14 22:40:21,This is unbelievable. Interesting.,sorprendido,67,femenino,Centro
+8ac008d0-b1f1-44cc-ba6e-82ad03669ef1,2025-06-18 18:09:48,I think it is shocked and unbelievable. Interesting.,sorprendido,27,no binario,Norte
+417e64c4-6d0f-439e-a6dd-396443f76e32,2024-05-01 15:22:40,I feel not good and tough. Bad.,triste,63,masculino,Oeste
+623fce3b-d398-47c8-85bd-a61391839a8a,2024-11-29 13:42:48,I think it is crying. Bad.,triste,52,no binario,Centro
+f533d52d-1df3-484e-a13b-5926986cb334,2024-12-10 22:48:37,This is angry! Wrong!,enojado,44,masculino,Norte
+d0343fc4-1fc0-44ea-89ac-b0227cf785fa,2024-10-20 21:37:29,Pretty bad. Bad.,triste,62,femenino,Oeste
+8604ee6a-af93-4d74-862f-2868989fc132,2025-07-03 16:36:25,I feel okay. Good.,feliz,25,masculino,Oeste
+fe3c041f-2652-4db1-acb1-7dc4a66ac68a,2025-05-03 14:41:09,This is interesting. Interesting.,sorprendido,30,masculino,Centro
+da7bf608-9bb3-46ce-b49d-eb7e8a653352,2025-10-15 00:01:39,It looks typical. Normal.,neutral,32,masculino,Sur
+cae78def-b10e-4b3c-95e6-a55422a54fb3,2025-06-13 01:01:15,Everything is furious and mad!,enojado,35,masculino,Oeste
+8bcd85aa-5890-4419-b7be-998ca91869d0,2024-01-20 02:31:11,Seems quite wonderful!,feliz,31,masculino,Norte
+2c70091c-e13c-4192-8b83-6dc7c25b3a1f,2025-08-07 15:16:31,This makes me feel excited.,feliz,35,masculino,Norte
+af54c240-c8d3-4616-afb7-172bf5e727fb,2024-06-25 05:27:51,I do not like this. Bad.,enojado,46,masculino,Este
+ac207b37-358b-475a-9ede-dad9c63e33bc,2024-11-18 20:18:09,This is standard and regular. Fine.,enojado,22,no binario,Sur
+ef340f0f-6a56-4fc0-9d25-ea1180dd75b4,2025-10-09 16:30:40,I feel positive. Nice.,feliz,64,masculino,Norte
+d4d2ce12-36d0-4c82-9380-6ec9296b80d5,2024-12-14 09:45:56,It looks unusual!,sorprendido,67,femenino,Oeste
+f5fd8a25-18bf-4479-9db8-b14030f3235b,2024-12-14 10:18:50,This makes me feel mad. Bad.,enojado,55,femenino,Centro
+2e35b710-8def-4496-97ff-9a76ac2eb20b,2024-02-25 09:16:17,I feel hate and outraged!,enojado,29,femenino,Sur
+c7d3a444-bde8-486e-9879-1b1581997271,2025-02-10 07:58:59,This is annoying! Wrong!,enojado,46,no binario,Sur
+bcbcc079-03cd-4167-889f-9090d5e80e55,2026-01-11 22:27:02,I think it is ridiculous!,enojado,18,masculino,Oeste
+c3cfe98c-9857-415c-b596-cb6429864dcf,2025-05-05 11:42:40,It looks good.,feliz,20,no binario,Este
+f536de6b-739b-4360-a524-cb461c148dfb,2025-06-13 20:07:32,It seems crying.,triste,59,masculino,Oeste
+c54532e2-eec0-4487-b2f3-0d97639db813,2024-02-08 02:46:27,It looks typical and typical. Fine.,neutral,21,masculino,Sur
+2c05ac25-7278-4ce4-a0bf-ed13f32efa0c,2024-07-22 05:49:29,Seems quite unusual.,sorprendido,39,no binario,Sur
+2fdab8a7-b9e8-444c-9eef-a955f0adba2c,2024-11-01 22:31:33,This is wrong! Wrong!,enojado,33,femenino,Norte
+794de1ed-5288-4bd4-bd79-023bbaff68b5,2024-08-09 10:29:27,This is good. Normal.,neutral,33,no binario,Norte
+d196d169-bfd9-4f0b-8052-d389e1eb9afd,2024-07-30 19:19:56,I think it is not good and bad! Wrong!,enojado,66,no binario,Sur
+118f7ebe-4495-494a-bcce-6aefddd46851,2025-04-10 01:15:31,I feel outraged! Wrong!,enojado,39,masculino,Oeste
+4984f82a-d6d1-4291-bba8-da1bfe97b4b4,2025-04-04 15:08:35,This is interesting.,sorprendido,29,masculino,Centro
+2aa03184-7e51-40ca-a1c0-a0efe21267ba,2025-01-25 17:44:20,It seems good and interesting.,neutral,28,femenino,Este
+cfd29a2b-dd10-4e1b-a71f-ddf5213a1163,2024-12-12 03:01:04,This is outraged and furious! Wrong!,enojado,62,femenino,Sur
+b291c517-b5da-4aa7-a2c8-702df987d5f0,2025-12-23 17:32:34,I feel standard.,neutral,42,no binario,Norte
+0f146ecc-630d-4af9-bfee-0e7538c92b78,2025-05-26 14:42:34,It is what it is. Fine.,neutral,34,femenino,Sur
+589664ab-9eda-4137-8ffa-e91c0d553923,2024-05-04 05:34:07,It seems wonderful and wonderful.,feliz,60,femenino,Norte
+4d3a47c9-dc32-49e5-b1de-455ef7f5dbeb,2024-05-06 16:27:32,I think it is unusual and unusual. Interesting.,sorprendido,37,no binario,Oeste
+ed8443fc-ee5b-46c0-a810-27a78ce31a83,2026-01-17 06:16:59,Seems quite annoying and stupid!,enojado,38,no binario,Centro
+4f2561d1-b23c-40af-bd4e-388b6dc5c5bd,2024-10-07 22:01:08,It seems ridiculous and angry!,enojado,38,no binario,Centro
+9fae2995-2cfe-40ba-9fb9-69e4a70a0867,2024-06-11 23:05:51,This is ridiculous!,enojado,43,masculino,Norte
+f12baaa8-84aa-43f9-8c97-c0420ad5ebe4,2024-09-16 16:12:24,How unexpected! Wow!,sorprendido,56,no binario,Norte
+311e4797-8244-4a02-a042-75d3c7ca545a,2025-08-05 03:53:09,I feel good. Normal.,neutral,41,masculino,Norte
+4f0453de-ba10-4d50-a640-9fe3183d6b9a,2025-05-02 09:38:09,It seems wow. Interesting.,sorprendido,36,no binario,Centro
+aed5bd34-022f-4154-bd6b-f369fc27a005,2025-08-31 19:59:26,This is interesting. Interesting.,sorprendido,65,no binario,Norte
+69888fc2-4345-44df-96e1-9b8d08c8e6b3,2025-03-20 23:01:26,Seems quite smile and happy. Nice.,feliz,44,masculino,Sur
+a40c3f4b-1226-4f1e-8ab6-6ba793c6612c,2024-02-21 00:43:34,Seems quite love!,feliz,21,masculino,Norte
+853c91ac-57f3-4071-9471-00d9f9f521a2,2024-09-02 19:58:46,Seems quite interesting. Interesting.,sorprendido,29,no binario,Norte
+7d30728a-b97a-4adb-ad32-4120b0cf9d4c,2025-06-13 21:14:19,This makes me feel fine and nice.,feliz,53,no binario,Centro
+acfcb0ad-6b64-4ea1-9735-9e8380c2d71e,2024-02-12 15:32:50,It seems stupid!,enojado,41,femenino,Oeste
+ebb2dc64-a1dd-4b3d-a7da-629f5579fb3e,2025-08-13 01:13:53,It seems furious! Wrong!,enojado,44,no binario,Centro
+0195fa65-c058-4b79-845c-946416d5ae32,2024-08-25 13:12:34,It seems nice. Fine.,neutral,34,masculino,Norte
+baa3b0c6-0202-471e-981d-e84abf021cdd,2025-06-19 03:23:02,I do not like this! Wrong!,enojado,50,masculino,Centro
+ce31d0c7-af6c-41e3-ac88-4e94e9cdf3dd,2024-02-04 07:55:52,It seems mad! Wrong!,enojado,28,masculino,Norte
+f1f503b7-504a-45c7-b4d4-cbfa4eaf4f3b,2025-08-22 15:39:18,This makes me feel shocked.,sorprendido,65,masculino,Sur
+7addb507-4c89-4f5d-a336-c6edc5b8cdb3,2025-02-11 13:08:05,I feel bad. Bad.,triste,61,femenino,Este
+96c55331-16b9-4eb2-af81-e2ec8925c862,2025-08-16 04:33:47,This is difficult...,triste,33,masculino,Norte
+da659da8-875d-418b-bf6b-7fa5d1b4dc67,2025-02-08 05:07:23,Seems quite surprised. Interesting.,sorprendido,53,femenino,Este
+4206c2b3-9459-45e6-9fb0-cf659718816e,2024-09-07 05:56:32,This is terrible! Wrong!,enojado,59,femenino,Centro
+6fa2a314-64d2-44b2-b6eb-7a6498ac1ee0,2025-02-11 06:52:43,Everything is hate! Wrong!,enojado,57,no binario,Norte
+c226326d-537c-4f59-b9d7-942ee9c03791,2024-12-23 14:37:51,This is smile and love.,feliz,33,masculino,Centro
+f0ebe0a7-e64b-4d7c-b241-4d34ae11c957,2026-01-16 04:58:11,It seems difficult.,triste,35,masculino,Centro
+6385291b-42fc-4d8d-be04-2a53e06322e3,2025-01-01 13:24:07,This is hard and disappointing. Not good.,triste,48,masculino,Sur
+3e41b589-76e3-4fc5-994c-68da8b5e1350,2024-05-08 22:22:53,I feel stupid.,enojado,39,no binario,Oeste
+c6770c92-3d57-4156-a28e-315fbf664ec6,2024-09-01 19:04:23,This is angry!,enojado,46,no binario,Sur
+fb1de1f4-0056-41a7-98c9-b4c4f5826ed3,2024-07-19 02:25:33,Everything is good and fine. Good.,feliz,21,femenino,Centro
+5eaab7bc-5e06-439d-bad6-09e5b13dc137,2024-05-26 03:46:20,This makes me feel stupid. Bad.,enojado,43,masculino,Este
+22c1ed55-1fcf-44ad-9091-4850ad972bc4,2024-05-15 23:33:53,Not good.,enojado,39,masculino,Sur
+e2906dcf-d99f-4a87-a7ce-6bd5fdfa4f0f,2025-03-24 14:58:37,It looks okay. Okay.,neutral,61,no binario,Norte
+cd05bd76-1428-442f-a819-7fe478615160,2024-01-28 08:21:29,This is interesting and different!,sorprendido,23,no binario,Centro
+36cb74a1-7516-4749-b89e-1d921e35602c,2025-07-30 03:14:38,I think it is awful. Not good.,triste,44,no binario,Sur
+69540383-4bad-4042-8849-bace06257541,2025-04-23 06:16:06,This is interesting. Normal.,neutral,42,femenino,Sur
+f99982ff-b52f-4bb6-8033-914d61a9731e,2025-06-09 17:42:18,This is bad! Wrong!,enojado,39,femenino,Centro
+fe8b5876-871e-4f64-8b51-1dfb0db625cc,2024-10-02 12:42:48,I think it is tough. Bad.,triste,46,femenino,Sur
+48b86a0d-2dd4-4676-b4cc-b5e0a6da5e39,2025-11-16 15:48:08,It looks sad. Not good.,triste,33,femenino,Sur
+d54bf822-b7ab-4e63-afd9-477c37211896,2025-12-16 06:52:19,Not good.,enojado,34,femenino,Este
+c233785d-9e89-4f1b-94ba-db68a22a5fb6,2024-09-28 11:34:39,It went well. Good.,feliz,44,masculino,Sur
+6238f891-b1a0-4f72-abe6-15314655ec37,2024-05-12 22:09:11,Seems quite love. Nice.,feliz,51,masculino,Oeste
+a2efd857-88bf-4158-a9a2-d10bf8e021e1,2024-08-12 14:45:02,Everything is excited. Nice.,feliz,55,femenino,Centro
+b88bfe8f-bfde-4abf-96f3-129cc34d781b,2025-11-26 15:18:55,I feel ridiculous.,enojado,21,no binario,Centro
+e76762f1-2d82-4f5d-a072-a31c353cdefc,2025-01-05 11:54:21,This is different! Wow!,sorprendido,39,no binario,Sur
+63269b5a-16e0-459b-857d-ed88e17e0c05,2025-11-15 04:08:40,I think it is shocked.,sorprendido,20,femenino,Centro
+d2759eb8-affe-4445-a530-e7ea7196598b,2024-03-13 03:37:56,It looks different!,sorprendido,44,no binario,Este
+a4f47887-9e31-4730-b015-61efeb2c27bb,2024-06-23 10:32:29,It looks joy.,feliz,28,no binario,Oeste
+5392f70c-7166-46fe-8f33-1f753a7691f1,2024-12-22 17:13:08,I feel wow.,sorprendido,37,femenino,Centro
+64368cea-e121-405f-994f-e257d192d517,2024-02-21 13:58:52,This is hard. Bad.,triste,21,femenino,Sur
+5ac6308a-085f-4d96-bb3d-af26c99e8ea8,2025-09-27 14:42:10,I feel terrible and terrible. Bad.,triste,24,no binario,Oeste
+0fc2fe55-6243-4e7a-b447-0f6191a29dd8,2024-12-12 08:51:17,This is not good...,triste,63,femenino,Oeste
+8119cb44-b383-4592-82f9-7b1fa41c86fb,2024-06-17 16:01:42,Everything is standard. Okay.,neutral,31,no binario,Este
+f47822e3-c986-4c4a-862b-5bd3f1c801c8,2025-02-21 11:26:02,This makes me feel different. Okay.,neutral,54,no binario,Sur
+de583972-bf9b-458b-b567-2c6066fd2231,2025-10-09 09:28:06,I feel bad...,triste,59,femenino,Norte
+d66374c0-9a5b-4fe1-8d4f-ed662908207d,2025-01-21 13:00:12,Seems quite stupid. Bad.,enojado,54,no binario,Sur
+ab24cc80-7fe2-46d8-b5c3-08aae01d0635,2025-08-18 15:51:52,It looks devastating.,triste,42,no binario,Este
+f2ec864f-5aa4-411b-8788-e2436c958f56,2025-07-15 13:58:07,It looks fine.,feliz,61,masculino,Norte
+44bf8908-d91d-4164-86d2-b66279b9f821,2025-02-24 13:40:03,I think it is amazing.,sorprendido,66,masculino,Norte
+97644a5a-a603-4450-b850-54579c87e34c,2024-02-15 02:26:18,It seems terrible! Wrong!,enojado,67,no binario,Oeste
+497ba981-bc85-4f61-b256-bbd041bbaa72,2025-02-24 15:52:14,I feel positive.,feliz,42,no binario,Centro
+7e2ec5c2-995b-4208-b9f7-a49ae2ce1350,2025-07-09 00:20:34,Everything is positive and nice.,feliz,48,femenino,Centro
+71a15fd6-11f6-493d-97f9-bfcdae6f3d6e,2024-05-09 05:19:17,I feel shocked!,sorprendido,20,no binario,Oeste
+322b4c56-8084-4829-b3c4-9c774861a793,2025-09-25 10:44:35,Seems normal and regular. Normal.,neutral,43,no binario,Sur
+af1cc486-d98e-4bf7-92ec-3e7976ac2d7e,2024-05-17 01:35:16,I feel good.,feliz,34,no binario,Centro
+019e0847-5c3b-4db2-a58d-c31086d9ca10,2025-02-12 07:41:25,I think it is bad and wrong! Wrong!,enojado,49,no binario,Sur
+2caf8fa2-9fba-4589-9571-14dfb76e738f,2025-09-04 09:02:49,Pretty good and okay!,feliz,54,masculino,Sur
+dbbc6679-e9c0-4b3d-aaff-d58ca188d0dd,2025-03-26 03:34:01,It seems okay. Normal.,neutral,56,femenino,Oeste
+cf4c440d-fa18-4b88-b115-ea2b245af061,2025-03-08 17:16:10,This is wrong and hate.,enojado,64,masculino,Oeste
+301b272b-c41f-4841-aa92-bdf74c5b42fa,2024-09-18 21:02:29,I feel bad. Not good.,triste,49,no binario,Centro
+c8e32ad3-6c9a-446d-a389-509f99765ab3,2025-04-15 09:22:57,This is wrong.,enojado,43,femenino,Oeste
+b52b9110-8c70-4ee1-95e6-57ae145747ec,2025-05-20 09:53:55,I feel amazing. Interesting.,sorprendido,44,no binario,Este
+8ef16742-da6e-4d74-874f-8d2b7a4db1e6,2024-06-29 22:52:24,I feel good and nice. Nice.,feliz,45,masculino,Este
+f816f2fb-5f85-4418-9f34-8a400ea788e9,2024-02-06 17:22:40,Seems quite interesting and different. Okay.,neutral,55,femenino,Norte
+93be3284-ea85-4560-b261-c296b39dc647,2025-01-25 10:43:15,I think it is shocked. Interesting.,sorprendido,37,masculino,Oeste
+7e259463-22ac-4a4c-94f9-4a19f693a074,2024-02-06 02:21:03,It looks devastating and crying...,triste,57,femenino,Este
+aaf0ec08-a7ff-45ed-a702-47bcb2d79132,2024-07-09 16:12:37,It looks great!,feliz,49,masculino,Sur
+1cd0b544-6df3-4c40-bcda-e0c39f38e2ca,2024-06-16 13:35:07,Seems quite ridiculous! Wrong!,enojado,57,masculino,Sur
+1e1aa5a9-f39d-4db7-b525-74af5d9d54c5,2025-06-24 04:35:45,This is hard and sad. Bad.,triste,34,femenino,Centro
+38fe5ede-540a-4aed-9b7e-720b81852415,2024-02-21 22:22:51,It went well and love.,feliz,56,femenino,Oeste
+ae2c168d-dcd2-48cb-821f-2f54c62f953d,2025-05-26 16:37:56,I think it is regular. Normal.,neutral,40,no binario,Sur
+5fcc8a23-ff2a-4a63-8ce0-d7e752640900,2025-04-01 04:13:41,Seems normal.,neutral,43,no binario,Norte
+16c081a0-26df-4f3d-9a96-6bfbc5eeabe7,2024-04-08 16:32:29,It went well and great. Good.,feliz,38,femenino,Centro
+8fd7f1ee-1925-43f6-8fd0-e5308dd77010,2025-06-18 22:35:53,This is terrible. Bad.,neutral,28,femenino,Este
+863bd819-3eae-4204-b8e5-916c11276fd3,2025-12-29 10:43:16,This makes me feel strange!,sorprendido,64,femenino,Sur
+52ee30b7-f90e-4934-bc2e-57fc2c033d09,2025-06-29 22:00:13,This is fine and normal.,neutral,54,no binario,Centro
+e973fdb4-bac3-4a86-9a5c-5b5627e819cc,2025-01-14 07:23:06,I think it is smile and excited.,feliz,18,femenino,Centro
+aeaaa631-ccea-49f1-ac30-1bd55f13613a,2025-09-29 20:33:24,This is bad and stupid.,enojado,54,masculino,Sur
+9cd8a91c-a3a0-4ebb-a23d-3f8be3df2c02,2024-07-14 02:23:03,Everything is nice and positive!,feliz,20,femenino,Norte
+42d29bb8-4864-4153-b9de-d81ea0d75d01,2025-06-13 14:12:34,It seems devastating. Bad.,triste,32,masculino,Oeste
+dccf17cc-b648-45fe-b737-e94ae63a7d6c,2024-01-21 19:23:02,This is annoying.,enojado,34,masculino,Sur
+75ba34e3-85b9-45fe-a7d1-130d2bc4b7c1,2024-10-20 18:43:23,It looks devastating.,triste,46,no binario,Oeste
+1ba66247-388d-47f1-af8b-ca9ad1dd8147,2024-04-28 02:15:30,This is not good. Not good.,triste,58,masculino,Sur
+0c121763-f468-4a07-9897-1fe255e4c9c1,2024-03-11 02:52:17,Pretty standard and fine. Okay.,neutral,43,femenino,Norte
+e7f02690-3106-4dec-b3e7-0c1b3ba2f294,2024-02-12 20:13:35,This makes me feel well and well.,feliz,58,femenino,Oeste
+f48cd1b5-cdad-4b1a-b2c0-a478c4f2ebfa,2025-02-28 09:22:11,I do not like this! Wrong!,enojado,26,no binario,Sur
+36a37d12-8349-4021-81f3-d9bdd2b9a07e,2025-03-24 16:45:26,It looks fine. Good.,feliz,39,femenino,Norte
+347e46ff-8112-428c-ab3d-0d50206c3da9,2025-05-18 01:31:47,How unexpected. Interesting.,sorprendido,52,femenino,Oeste
+aa077ac7-3da2-4567-94bf-5ff7a4a4835c,2025-06-27 16:23:17,It is okay.,neutral,51,masculino,Sur
+8bb9da8e-6bf7-4370-a77e-b2e2101ea67d,2025-05-29 17:58:37,It seems terrible. Bad.,enojado,61,masculino,Norte
+58fc0bf8-e9c1-49f9-8392-9bd2a016bfa3,2024-03-18 06:57:51,How unexpected! Wow!,sorprendido,30,femenino,Norte
+94bae544-60a8-4c68-aa03-e67b73fc93bc,2025-05-16 11:21:42,Everything is okay and normal. Fine.,neutral,50,femenino,Este
+6606ea02-3f2d-46b3-ad7d-99c9221ced48,2025-06-08 07:03:40,This is wrong.,enojado,56,femenino,Sur
+72c67118-93bc-4767-8f2e-4a6ab0a2746d,2025-01-30 15:01:29,I feel terrible! Wrong!,enojado,20,femenino,Centro
+a9e41d6e-9e79-40d6-9e99-8c97daa6e603,2024-07-16 09:33:14,I am okay with this and joy.,feliz,62,masculino,Norte
+af5e65ed-3645-4bdd-8973-5328958219fd,2024-06-23 06:18:13,This is terrible.,enojado,53,no binario,Oeste
+21745b5a-0d18-4e8a-8812-9b75bcd5f544,2024-06-04 13:05:12,It seems unbelievable. Interesting.,sorprendido,51,no binario,Norte
+76b90bf0-9827-4041-aa51-c8e09fe51b14,2025-06-02 08:35:41,Pretty good. Nice.,feliz,19,no binario,Oeste
+025aed36-0047-4d0e-b952-2fa41c1be6c4,2024-03-02 00:33:00,This is hard and awful...,triste,57,femenino,Sur
+b0468381-5bad-4cf8-8929-7f37e3a948b5,2024-03-03 03:22:19,I think it is sad.,triste,24,no binario,Sur
+f20c5ac4-d4ab-4f30-b5f2-90d28b6e9098,2025-11-25 21:06:26,I think it is surprised and surprised. Interesting.,sorprendido,58,masculino,Este
+97207a65-e546-48ad-b0e3-90821e5257e5,2024-10-10 22:27:42,This is interesting and surprised! Wow!,sorprendido,57,masculino,Este
+76bd352c-0e8d-42c0-adf2-194933b6b4c8,2024-09-06 05:27:47,Pretty standard. Fine.,sorprendido,57,masculino,Este
+8bc82b85-128b-44aa-8ef4-43e93a55ee4a,2024-02-23 18:44:05,This makes me feel not good!,enojado,20,femenino,Norte
+b5dabeea-eb51-481e-9123-59a9a418117e,2024-10-27 01:23:01,This makes me feel great. Good.,feliz,32,femenino,Este
+e6190308-5e38-4c7f-8c48-0e33f1e9d0f9,2025-09-09 11:05:56,I think it is ridiculous! Wrong!,enojado,43,femenino,Este
+db543457-206c-4836-bfd2-f53cdd58348d,2024-10-18 04:30:30,Everything is surprised and unbelievable! Wow!,sorprendido,60,no binario,Norte
+dbd64767-0e7d-45de-a87e-6fcc742d78b0,2025-06-19 15:26:23,I do not like this! Wrong!,enojado,35,femenino,Este
+7ad2763b-9c83-443d-815f-7bffde24e16a,2024-06-17 14:56:34,It looks devastating and devastating. Bad.,triste,29,femenino,Norte
+6e5cc728-f0ba-4fdd-a5b0-4ad1338a78f1,2025-10-28 19:18:25,It seems happy. Nice.,feliz,30,masculino,Este
+64315e6a-60ec-4603-96ef-ea901b6906f0,2024-06-05 01:56:05,It seems angry and angry!,enojado,53,masculino,Este
+38ea66a3-e7ec-46cf-bb4b-ef0a2c6f488f,2024-01-26 03:15:06,This is smile. Nice.,feliz,59,femenino,Centro
+30f7e1d6-d5e4-4c6b-8c35-01c6d8f5d94c,2026-01-07 06:22:08,I feel surprised!,sorprendido,62,femenino,Centro
+0da9c563-85ee-4883-9402-84ed7ae8e073,2025-08-14 15:36:52,This is fine and fine. Normal.,neutral,52,femenino,Norte
+d4f532a0-16d2-45c5-9469-b5e6eca4c92a,2025-03-05 02:01:01,It looks mad and angry! Wrong!,enojado,45,masculino,Oeste
+b7c7a331-b4a4-4666-bd5a-397f839f083f,2024-06-23 00:54:00,I am okay with this. Nice.,feliz,49,no binario,Norte
+b332fad2-3f72-415e-b0e0-f87acfc17bd4,2025-05-30 18:56:02,It seems crying. Not good.,triste,26,femenino,Norte
+45563f99-d5ad-4c8d-8b1b-d37717d19431,2025-04-21 04:09:14,I think it is standard.,neutral,52,femenino,Este
+90430603-c5ba-48b7-9592-8dab46a516b2,2025-03-21 02:19:54,Pretty bad. Not good.,triste,49,no binario,Este
+bf81e04a-e374-49ba-9c8d-d877d0e3899a,2024-06-23 03:16:54,I feel good.,feliz,36,no binario,Centro
+c802df19-6e33-4915-b1c9-73b1d7b261e4,2026-01-18 02:01:54,This makes me feel hurt and devastating. Bad.,triste,24,femenino,Oeste
+00574025-51cd-4f24-8d90-53c5dbdc3a46,2025-04-01 06:33:05,Pretty standard.,neutral,23,no binario,Centro
+eeb4aa1a-0a53-40f6-a763-26a49b1f92dd,2025-03-23 21:43:18,It looks hate and hate. Bad.,enojado,34,femenino,Oeste
+6c089dda-5010-47ff-8cd9-7f9ecd4d6756,2025-09-06 23:31:08,I feel good and good!,feliz,40,masculino,Norte
+a8c4a9d5-9c89-4d8b-9e03-fb4a2e4825e1,2024-02-20 19:19:34,I feel excited and wonderful.,feliz,52,no binario,Norte
+a573686c-85fc-4292-833c-a2378fc0e451,2025-09-09 22:30:38,I feel love!,feliz,25,femenino,Oeste
+931b17fb-d4e4-422d-924a-9da22a3fa12f,2024-12-21 20:36:02,I feel bad and sad. Not good.,triste,52,masculino,Centro
+c4991acf-c3bb-4864-acf4-79ea5fa49a38,2024-04-25 14:13:10,It seems awful. Bad.,triste,38,masculino,Este
+fe0b0b48-ce51-4cf5-a74d-d8a85414a545,2024-12-14 20:53:00,Pretty bad.,triste,20,no binario,Sur
+60d7f8d0-2740-4fa0-99b8-95d148dd4acb,2025-02-18 04:45:11,Seems normal. Fine.,neutral,60,no binario,Norte
+a0e6f8a8-0a9b-4ed3-b101-f3df9731174c,2024-09-20 06:38:48,This is standard and normal. Fine.,neutral,48,masculino,Oeste
+a013a350-1a98-4de3-baf7-f4175fa7404f,2025-08-31 17:34:30,This is hard.,triste,60,no binario,Este
+8f95449f-e392-4ec3-b676-c79af4cdd779,2025-11-27 02:50:47,This is nice and wonderful.,feliz,36,femenino,Centro
+2c37242b-86d0-4e38-9b23-26e9ebda2506,2025-10-09 12:42:27,I think it is angry.,enojado,33,femenino,Norte
+9c17ab78-954e-467e-8f81-37f812a2fc68,2024-04-25 18:19:43,It looks love.,feliz,34,masculino,Norte
+61d27296-b6cd-4ecd-b7d1-ea39e7510c32,2025-07-11 07:38:52,It seems okay and positive. Nice.,enojado,42,no binario,Centro
+14b5e4b8-9b64-409c-bdf0-5e1c5b226e2e,2025-08-11 19:02:12,Seems quite happy and love. Good.,feliz,45,femenino,Este
+fa5d85bf-4c3d-4fb4-84e2-294c3a240623,2024-06-18 14:58:45,Seems quite excited. Good.,sorprendido,69,no binario,Norte
+0fcd013a-455f-421b-bbce-51436f55137d,2024-09-06 10:28:53,Seems quite typical.,neutral,60,femenino,Centro
+81086f3f-c696-49f3-9330-ffa527e591b5,2024-04-28 01:47:07,Seems quite stupid.,enojado,39,femenino,Oeste
+e939af61-0929-467e-8c83-7fe44f8b1b68,2024-04-27 17:54:57,Pretty standard.,neutral,53,no binario,Oeste
+9958a23f-2c94-4b7b-b2df-952284234c82,2024-06-27 12:54:24,I think it is shocked.,sorprendido,42,no binario,Este
+03522e05-1f37-469d-aa57-d63c3b66a358,2025-07-26 20:03:31,I feel love. Nice.,feliz,39,femenino,Sur
+53c8c386-49cf-46b5-a78f-ea8f3c3186ec,2024-05-22 22:56:30,Pretty unusual and incredible. Interesting.,sorprendido,56,masculino,Centro
+f81b4f70-d803-47e0-bf0c-880ab75054d1,2024-03-01 06:34:17,I feel incredible and incredible.,sorprendido,19,femenino,Centro
+fdedade3-b486-4ffd-b250-69b6a5d45f67,2024-08-06 23:00:14,This is wrong!,enojado,64,femenino,Oeste
+d99adc05-0687-4f43-88a4-974f94c96218,2024-07-06 11:34:21,It went well.,feliz,38,femenino,Centro
+6a74ca43-894b-4bc5-9029-814e125f798f,2024-11-03 03:11:12,I do not like this! Wrong!,enojado,42,no binario,Este
+1796901b-03fa-47b7-8ab5-ef0c37a8704d,2024-02-04 04:32:59,This is interesting!,sorprendido,57,masculino,Este
+f98002a8-d608-44c6-8235-9959485054e5,2024-07-11 07:39:13,It looks ridiculous and mad! Wrong!,enojado,66,no binario,Centro
+ba8a4b22-fc36-4e8b-8a10-81dcdc43857f,2024-01-22 12:16:22,This is wrong and terrible.,enojado,19,masculino,Sur
+98d50e2e-0645-489f-92b9-8bacc91ff74e,2024-10-21 07:12:13,Seems quite bad and bad! Wrong!,enojado,32,femenino,Oeste
+b3562bd9-7837-4c5a-96de-6ec39bbce968,2025-12-03 17:09:55,I feel hard and bad. Not good.,triste,44,femenino,Oeste
+df2d1c5c-8090-43e5-916f-3a92afc98844,2024-03-18 00:18:02,This is unexpected. Interesting.,sorprendido,40,femenino,Norte
+fa0ab991-4f7e-4ee0-b356-efee481e2319,2024-10-20 20:38:03,This makes me feel standard. Normal.,neutral,63,no binario,Oeste
+20220e43-c426-402b-9519-0b1bde643e81,2024-08-09 01:16:57,I feel stupid! Wrong!,enojado,39,no binario,Norte
+43285d4a-99c6-4f8a-a497-09eb739fd89e,2025-03-12 01:12:15,It seems unexpected! Wow!,sorprendido,55,femenino,Sur
+ac131d0b-60bb-445a-9a14-e1daa12e1d2d,2025-12-22 05:53:23,Seems quite angry. Bad.,enojado,60,masculino,Centro
+e0c129b4-611c-4070-bdee-c3f1125d8073,2024-10-30 04:37:34,It looks bad...,triste,52,femenino,Oeste
+39356682-7015-41e4-b7fa-9d92b5cc0fe4,2024-10-15 20:03:48,It is difficult and not good...,triste,59,femenino,Oeste
+ad815fd7-5cc6-49b7-975f-ada17445a458,2024-01-31 20:45:47,I think it is good. Fine.,neutral,44,no binario,Norte
+b22e7485-f790-4107-9180-2b4ed2efb947,2025-02-24 18:55:30,I think it is bright and good.,feliz,52,masculino,Sur
+2600811b-5c94-47ed-8acd-a69147c18db9,2025-11-29 01:41:36,Everything is hate! Wrong!,enojado,42,femenino,Oeste
+2a3a0cd9-f9f4-48b1-a70c-0b080cc6670a,2024-11-26 09:46:01,Everything is good.,neutral,61,no binario,Oeste
+192a5f32-a738-4c2f-9e98-c2f2b0cdeaf8,2025-07-20 02:52:14,Pretty unusual and surprised.,sorprendido,39,masculino,Centro
+f8ed5d5f-a13a-42aa-a607-738ca0902352,2025-11-27 03:27:39,This makes me feel amazing and amazing! Wow!,sorprendido,26,masculino,Centro
+1e7967f2-365c-460b-a4c5-500f501960a4,2025-02-10 00:29:54,This is hard. Bad.,triste,58,femenino,Norte
+d5c4c282-8aac-4198-b46f-a4737045f19c,2025-01-15 11:06:28,This is hard and tough...,triste,23,femenino,Norte
+d689fa05-511d-44f2-96cf-309841b99e6c,2025-10-15 09:54:12,I am okay with this. Nice.,feliz,65,femenino,Centro
+fa596289-6110-4a30-9f28-eed3e5a45fba,2024-02-25 03:24:10,This is nice and excited. Good.,feliz,44,masculino,Sur
+c0007999-7059-4a88-bfac-45cca553e631,2024-09-03 11:36:49,Seems quite amazing and amazing!,sorprendido,64,no binario,Norte
+82ae9441-bd6e-4259-9e0b-6ba2b2ee6058,2025-05-16 02:56:28,It seems wrong. Bad.,enojado,35,no binario,Norte
+457e793f-4ab8-48f2-9474-33b38bb49575,2025-06-03 06:28:36,Everything is standard. Okay.,neutral,24,masculino,Sur
+21221a52-553d-4c88-ab86-531a7beb2b88,2025-08-08 10:24:20,This is annoying and ridiculous!,enojado,20,no binario,Este
+f1507074-c880-4edb-80da-93a0d98bcdce,2024-03-14 00:45:16,It looks disappointing...,triste,47,femenino,Este
+0d1c2d22-6530-4b2f-bc13-2a6052a7b3ab,2024-03-23 06:42:22,It looks wow and amazing.,sorprendido,69,femenino,Centro
+cf563137-aac8-4382-978a-458a74bfd64d,2025-05-25 01:37:29,I am okay with this.,feliz,45,masculino,Oeste
+1b38a4c0-b093-4f77-95cc-c2b3c23e2148,2025-02-14 18:00:45,It seems surprised.,sorprendido,47,masculino,Sur
+da55189f-08d6-4e36-bc0a-b9d777b1e593,2025-08-26 06:12:58,Everything is not good.,triste,44,femenino,Norte
+463dd783-d846-4ef8-9591-644dbc1adea4,2025-05-31 17:03:59,This is nice!,feliz,42,no binario,Norte
+3c9c695e-96d7-4420-a6e1-8244a6308fa7,2024-03-25 04:37:04,This makes me feel strange.,sorprendido,22,femenino,Norte
+a5ad9fa2-542f-458c-8eaf-2b81f9854406,2024-06-27 23:26:11,Seems quite different and unexpected. Interesting.,sorprendido,64,no binario,Centro
+12363e2f-8259-47c6-b8ab-1e47fab116b2,2024-02-14 03:27:31,It looks wonderful and love!,feliz,56,femenino,Norte
+6048771c-0d85-4533-a9c4-5d883d695f8f,2025-06-25 07:50:54,I do not like this. Bad.,enojado,28,no binario,Este
+5572033d-5b2e-4bde-a07a-8fac2b1fc210,2024-04-22 14:01:25,It is what it is and bad. Okay.,neutral,61,femenino,Centro
+671c7ed3-308f-4288-973c-ce0442570866,2024-03-11 11:40:40,This is wrong and stupid.,enojado,62,femenino,Centro
+02043e10-6894-45b3-a74a-5430fad955ec,2025-06-19 19:18:21,I think it is bad. Okay.,neutral,61,femenino,Sur
+1c51923a-3ec2-47dd-aae8-71037b1c14e9,2025-08-20 06:56:06,This makes me feel angry.,enojado,65,no binario,Este
+c91b78a9-9388-4ee3-8bf8-a68b7627c5ff,2025-02-13 07:15:56,This is standard. Fine.,neutral,46,no binario,Sur
+494653a5-7d6e-4077-9132-ff258e8d5b1d,2024-04-14 06:57:34,It seems difficult. Bad.,triste,23,femenino,Este
+34e21752-5b3e-4426-896d-db5039a279f0,2024-11-11 03:29:37,This is annoying and annoying.,enojado,35,no binario,Este
+e1e1f298-e5f9-4e83-964d-1fd9545d7d02,2024-11-04 01:01:31,Pretty unusual! Wow!,sorprendido,47,femenino,Este
+736999e0-572c-406c-b12a-3ea368338822,2025-07-24 01:40:13,It looks ridiculous! Wrong!,enojado,66,no binario,Oeste
+2a40a1c2-565c-4a23-996c-cb2d2fcbe833,2024-02-01 00:43:53,Pretty unusual. Interesting.,sorprendido,64,no binario,Sur
+adaa39d2-42e7-43d0-8a05-21516b8f19d1,2024-02-11 11:02:38,I think it is difficult and disappointing.,neutral,36,femenino,Centro
+7ffe7d3a-1951-4095-aba1-20abce1b16b8,2025-12-18 07:31:17,This makes me feel standard and typical. Okay.,neutral,56,no binario,Oeste
+6b3dcd8a-9fda-4220-bcb2-913d2350edb4,2024-07-21 10:05:15,This is positive. Nice.,feliz,48,femenino,Oeste
+b57bcd5a-a503-420e-a234-5884c80426d6,2024-09-07 22:49:50,It looks furious. Bad.,enojado,20,no binario,Este
+82a18659-564c-484b-af55-6b263510e77f,2025-07-09 16:43:54,Pretty good. Nice.,feliz,18,no binario,Este
+0fca62e0-b53b-41a9-b84d-b9fe464a9c09,2024-02-14 01:25:10,I feel not good and annoying. Bad.,enojado,65,no binario,Este
+641531ae-3d2e-4e44-aa91-8623d22d16fa,2024-10-25 15:45:13,I think it is bad!,enojado,38,femenino,Norte
+e4472ea4-d92e-4b1b-9d2e-255e2ce55062,2026-01-11 02:16:18,Seems quite wow. Interesting.,sorprendido,51,no binario,Este
+e2aa210a-101b-4c5f-bdd9-2dffd26edc83,2024-09-05 22:55:33,It is okay. Fine.,neutral,21,no binario,Sur
+f660f5c3-67ad-4c24-b701-2d017ce18684,2024-07-01 10:41:51,This makes me feel unbelievable.,sorprendido,38,no binario,Oeste
+af69d2a9-cef4-4e93-8b95-d1880a02b92b,2025-01-11 07:29:08,I feel bad and bad.,neutral,26,masculino,Este
+d30c44e7-e16b-4842-b16f-5c445c3412f8,2025-04-16 15:17:38,This is okay and fine.,neutral,19,masculino,Norte
+21db9c6e-8269-4e2e-b6b9-cf8359bf112b,2025-07-24 18:19:30,This is nice!,feliz,19,masculino,Este
+7735e0fb-edf3-4551-b8be-0f715cce1be0,2025-09-28 16:55:45,This is good and different. Okay.,enojado,45,no binario,Este
+bc183fde-5c3b-4292-872c-277f22e1a35e,2025-01-20 10:26:42,I think it is typical.,neutral,40,femenino,Este
+7ddcf717-f708-452e-8a7f-1e8e4ffb520a,2024-04-18 13:41:17,I feel surprised and unbelievable. Interesting.,sorprendido,53,masculino,Norte
+1d92c7e6-a0e7-43e4-8ab4-5c642dfc9f7d,2025-08-31 01:47:49,This is interesting! Wow!,sorprendido,36,femenino,Sur
+10df3cbe-d0ab-4de5-ac76-4446473ce99d,2024-11-20 08:14:35,Everything is unbelievable and surprised. Interesting.,sorprendido,68,masculino,Centro
+5efc6ea7-1631-4b7f-bdbd-f9e54ce4dd8c,2024-01-26 11:16:39,This is sad...,sorprendido,32,femenino,Sur
+18bf82d4-d428-4454-969c-a523a47a2566,2025-07-07 03:18:23,It looks angry!,enojado,39,no binario,Centro
+5604f9c3-79fd-44d2-adf4-3fd7c914ba90,2025-03-19 16:56:43,Everything is mad and furious.,enojado,63,masculino,Centro
+f13c6dce-c51b-472d-98db-46ae6c6e2870,2024-12-04 16:17:54,It looks awful.,triste,35,masculino,Norte
+4838b244-f50b-420e-8477-db63b03ff580,2024-11-16 19:23:26,Seems quite wow. Interesting.,sorprendido,44,femenino,Centro
+be6769ab-459a-4aa6-a31f-acd0d0ff4c7c,2024-03-29 00:02:23,This is okay!,feliz,25,no binario,Centro
+1869888e-f553-44d3-b291-6a0c113d4547,2024-07-04 19:49:49,This is annoying!,enojado,42,femenino,Norte
+03a82c01-46a3-45cb-aa0f-f99e09659937,2025-04-25 15:58:36,It looks sad. Bad.,triste,53,no binario,Oeste
+e59b7bac-f90d-4e89-bdb3-3e2bbd912b73,2024-05-03 20:56:15,This is fine. Normal.,neutral,35,femenino,Centro
+a46d1098-cd66-4a22-ad83-cc56a39f1477,2024-10-30 18:27:27,It looks devastating. Not good.,triste,31,masculino,Centro
+d64c903f-9712-414b-870b-cb58615f1c69,2024-05-19 05:51:49,This is different.,neutral,23,masculino,Oeste
+3a2be7e3-8a85-4b01-8aca-42759abf5a64,2025-08-04 13:40:18,This makes me feel shocked. Interesting.,sorprendido,51,masculino,Centro
+c2fb9d70-1709-4011-9a60-638f7da979d7,2025-01-02 20:51:30,This makes me feel not good. Bad.,triste,67,femenino,Oeste
+f06dad34-633f-4f7e-8a7e-6e324c85a487,2024-08-25 15:32:06,It is okay and typical. Normal.,neutral,61,femenino,Centro
+30253f1e-6581-439b-98c2-deb3f85ff65e,2024-03-26 06:36:39,I think it is hurt and terrible...,triste,21,no binario,Centro
+efa88000-2f46-4dbd-baa9-a81fe31f0b53,2025-05-14 17:47:07,Pretty bad and sad...,triste,20,femenino,Norte
+412df044-4f37-4004-b710-6767826de4fb,2025-10-30 03:27:04,It went well and excited. Nice.,feliz,51,no binario,Este
+492c08fb-b9a8-49ca-8119-fc05df8e287c,2025-02-20 15:52:36,Seems quite terrible and bad!,enojado,47,no binario,Sur
+0142717a-331a-48b2-85db-14bd075e0401,2025-09-05 08:51:44,It seems shocked and incredible!,enojado,54,no binario,Sur
+4b30579a-9d47-4847-a906-c54ac1003e13,2025-01-27 12:01:32,This makes me feel fine. Good.,feliz,46,femenino,Este
+5c9747b2-96e8-4dad-a327-943a937eb4e6,2024-10-28 06:44:04,How unexpected and shocked.,sorprendido,20,masculino,Norte
+8cb13f19-2443-40e3-8f8a-03ff6993e3cd,2025-07-29 13:40:27,Seems quite excited and wonderful.,feliz,43,masculino,Este
+9cb242b0-d6af-46c5-bb4f-ad1332a83309,2025-08-04 06:32:05,I feel furious and angry! Wrong!,enojado,58,femenino,Norte
+0e51f693-6276-4afe-af4c-909fbfae9851,2025-12-16 19:05:37,It seems surprised!,sorprendido,48,masculino,Oeste
+34fbf911-be37-48d8-9471-7b57bf2b7aa4,2025-03-23 06:56:32,This is excited. Good.,feliz,21,femenino,Este
+4735553f-2e9c-4ae5-b605-e558268f97c2,2024-09-28 03:40:51,I do not like this and outraged. Bad.,enojado,41,no binario,Oeste
+69aa343e-d169-4b6f-9361-38388d156e5f,2024-03-03 19:43:18,This is furious! Wrong!,enojado,43,masculino,Oeste
+4fd07213-974e-4de3-8878-769f2af6947f,2024-07-23 22:05:33,I feel wonderful!,feliz,59,femenino,Oeste
+bbfac82a-ef73-4c6a-b848-5c4bf4df5b9f,2025-07-28 10:08:10,I think it is different. Fine.,neutral,38,masculino,Centro
+aa3c818c-5de1-4dd8-b74f-78eb83238cdd,2025-11-27 00:41:28,I think it is annoying. Bad.,enojado,56,masculino,Centro
+714d5ebd-eba0-439f-afe5-1f5419080553,2025-09-12 06:50:22,This makes me feel happy and happy. Good.,feliz,48,femenino,Este
+eb9fc9e7-ae34-4870-bfd2-3d0d13146e32,2025-12-15 18:12:37,It looks awful.,triste,19,no binario,Norte
+33bf2f10-33dc-40c7-9dcb-0385978da816,2024-09-06 04:34:58,Pretty good. Good.,feliz,68,no binario,Oeste
+b15daf46-834b-4c81-9e18-0c37edf26976,2025-11-02 23:38:15,Seems quite crying.,triste,37,femenino,Norte
+ed3b41c6-d5f7-4330-ba89-b7f5f3b81f5c,2024-11-21 22:36:21,This is surprised and unbelievable!,sorprendido,23,no binario,Oeste
+b76c724e-5a6b-4767-bbd8-f04a873cedf6,2024-09-28 00:30:07,Seems quite hate and angry.,enojado,45,no binario,Norte
+3e898d0c-ae20-4e2c-a8b0-afd63c6ee103,2025-03-14 21:49:17,This makes me feel disappointing and difficult.,triste,30,femenino,Este
+28961a17-54b9-4f9e-9c77-92ab22106639,2025-06-30 19:35:51,I think it is furious.,enojado,32,femenino,Sur
+59007f92-ec03-4fe1-b2f3-0d465a2cb175,2024-06-21 00:21:03,Seems quite shocked.,sorprendido,23,femenino,Norte
+71b1f7d8-7efc-43b2-a77b-778e709d5343,2024-08-06 12:09:41,Pretty bad.,triste,61,masculino,Oeste
+ea58fbdb-1ec0-4bec-ab2f-378a1f184f22,2025-05-31 14:38:16,I think it is devastating. Not good.,triste,50,femenino,Oeste
+87608841-0af1-4c5a-8964-6bab0dd6c49a,2024-09-05 17:51:35,I think it is good.,feliz,33,masculino,Oeste
+fced92b8-d177-4853-b859-329bbb5e7839,2025-08-15 15:51:35,This makes me feel different. Okay.,neutral,58,masculino,Oeste
+2a0c253c-2b68-469d-affb-c4bd14e0749f,2024-08-06 00:45:05,This is annoying.,enojado,53,femenino,Sur
+1f03a4c6-4b3d-4e19-8aba-fb44e95c27c6,2025-08-14 03:59:33,Pretty good and great. Nice.,feliz,40,masculino,Centro
+68274c2c-d979-46d8-863f-835aeed92010,2025-11-08 05:57:56,This makes me feel angry and angry!,enojado,42,femenino,Centro
+5d8c174b-c2fa-47d5-b3ab-f3e1ad919bb9,2024-08-15 18:17:44,Everything is hurt...,triste,27,masculino,Este
+b14ec49c-c38b-49b1-a566-947fbff030f4,2025-07-28 00:40:04,Seems quite okay. Good.,feliz,50,masculino,Oeste
+d6c4fc0e-ed25-4aeb-a60e-263d1185a19b,2025-01-02 14:02:31,This makes me feel unexpected and strange!,sorprendido,56,masculino,Este
+0b8ab841-17a9-4905-ba38-9e1cf97232ab,2024-07-17 06:12:15,This is annoying! Wrong!,enojado,52,femenino,Norte
+16a9da88-daa5-474a-982e-936ebabe4f92,2025-09-07 11:17:31,I think it is okay. Good.,neutral,61,masculino,Norte
+abd2ac69-bb7b-4714-a002-fdcdc9955c70,2025-04-21 04:07:39,This makes me feel outraged.,enojado,64,no binario,Norte
+d63c6310-cc94-4ae9-bfe7-4d6e239e45cc,2024-08-24 21:46:49,Everything is unexpected!,sorprendido,40,masculino,Centro
+279c4805-df12-4ba6-b10a-fb1108a810bd,2025-02-25 03:46:58,This makes me feel angry. Bad.,enojado,29,no binario,Sur
+db23ecb8-2a58-400e-86fd-5e3f8295a0c5,2024-07-31 15:41:08,Seems quite good and well.,feliz,36,masculino,Este
+da947632-a724-40ff-8485-c01fab63a66d,2026-01-08 14:06:14,Everything is stupid! Wrong!,enojado,27,masculino,Norte
+46c91597-2ad4-4a32-a925-ddd6bf9eb9ec,2025-03-06 10:10:15,Everything is angry.,enojado,39,femenino,Este
+3fd4efca-d688-4f80-9d53-7970680242e1,2024-08-05 21:32:21,It looks well!,feliz,39,no binario,Oeste
+9d12eb84-085d-4cad-8a4b-e59dae3466a7,2025-11-10 21:21:10,It is difficult.,triste,60,no binario,Este
+bbacffca-9fcc-4eec-891d-911db267468a,2024-06-05 22:10:26,Everything is annoying!,enojado,34,masculino,Oeste
+415285da-684b-45dc-8bac-0db4a19cf182,2024-11-03 21:44:18,Everything is terrible. Bad.,triste,62,femenino,Sur
+4c5f7491-fe6a-4859-bb3c-49c0fdbd1bf8,2024-05-19 11:54:56,This is annoying.,neutral,44,no binario,Centro
+e08f4717-9dd1-4dd3-99b0-9867333e44dd,2025-05-13 04:36:28,How unexpected and unbelievable!,sorprendido,42,femenino,Oeste
+d2f7d258-f663-484e-8e23-56f95644e30d,2025-10-18 17:42:59,I think it is awful. Bad.,triste,20,no binario,Este
+e6567981-f91f-40f1-a813-5a2bbcb19d24,2024-10-19 07:27:23,I think it is wow and incredible! Wow!,sorprendido,31,masculino,Este
+7ff1bd6b-2a27-4488-b068-85b49dbcea59,2025-05-06 19:55:54,This is annoying.,enojado,19,masculino,Centro
+6be7e060-f7a8-4408-8519-a335b5a7944c,2024-12-25 15:55:30,It looks wrong.,enojado,49,femenino,Este
+de0414dd-6192-4b37-a162-e7362f5c3f41,2025-10-10 15:01:18,Everything is bad and wrong. Bad.,enojado,43,no binario,Sur
+6d1681cc-233b-44de-80bc-40454cf8e7b7,2024-04-15 17:17:53,Everything is hard. Bad.,triste,22,femenino,Oeste
+9232d978-4d95-47bc-9446-a0287564f272,2024-10-21 12:33:21,This is bad and mad! Wrong!,enojado,45,no binario,Oeste
+1bf6ce70-4380-4060-b839-6be45651b83e,2024-05-06 13:10:28,It seems joy.,feliz,44,masculino,Oeste
+dee2c857-26e6-4f21-8649-cc01ee63066c,2024-04-15 05:46:58,It seems smile and happy.,feliz,34,femenino,Centro
+9fc4dd48-2f39-4d49-a917-8a32364324c9,2025-12-15 07:59:30,I do not like this.,enojado,59,masculino,Sur
+3b6befd6-2c3e-4794-aa68-99028684bfc7,2024-05-24 02:41:52,Seems quite mad.,enojado,29,femenino,Oeste
+45d2a3d2-174e-41ae-aa39-d0bffcf206ed,2025-12-27 15:58:07,I feel interesting and interesting!,sorprendido,56,femenino,Oeste
+8a3447c9-9701-4a5b-b2c2-18b7fe5fdf24,2024-10-28 16:31:49,Pretty bad and terrible. Not good.,triste,54,masculino,Centro
+b8bbeb4a-491f-4501-a9a4-c4e6ab73b269,2025-02-26 06:55:00,This is wow and wow.,sorprendido,36,masculino,Este
+59403825-c6bd-48b0-ac82-f1c02f276061,2024-05-22 11:50:52,I think it is wrong!,enojado,37,masculino,Norte
+9499f4e4-8311-49c1-9ec0-1815c272ab49,2025-01-06 18:35:26,This is bad.,enojado,35,no binario,Norte
+11f7522d-1c6f-440f-be8c-9f7e88de46b2,2025-01-31 22:23:58,I think it is different.,sorprendido,41,no binario,Oeste
+12997012-05c1-4adf-a1d1-19450e7efa8a,2024-02-21 09:25:57,Seems quite wrong. Bad.,enojado,42,masculino,Sur
+361b4891-15c0-4911-a1bd-71186b2de48a,2024-01-20 23:14:00,Seems normal and normal. Normal.,neutral,34,masculino,Este
+835b3c3e-4eeb-4d89-96b1-7c4519f28d7b,2025-05-15 21:02:59,It looks strange! Wow!,sorprendido,39,no binario,Centro
+f33f0bd7-394b-4d57-af52-75b0f087b7f9,2025-10-31 11:15:59,This is sad. Not good.,triste,66,no binario,Norte
+2e7c4f38-fd1b-4186-8952-fd29fde065cb,2025-10-05 22:19:27,Everything is nice and nice. Fine.,neutral,67,masculino,Centro
+f4df62ee-e2e8-4dbc-9c8e-9fa94d6c30fe,2025-10-04 16:47:54,I am okay with this. Nice.,feliz,63,femenino,Centro
+bdc357ec-ca7a-49d2-bfe0-6dd38a4a6f75,2025-01-26 21:57:20,I feel ridiculous!,enojado,55,femenino,Este
+78b3567a-192d-4571-aeb0-be1ba94d6e25,2025-12-16 13:08:31,Pretty standard. Okay.,triste,53,femenino,Este
+eba177fe-5ff4-40d5-9fe2-0ba7f3967981,2025-07-06 17:28:19,Everything is fine. Fine.,sorprendido,58,masculino,Centro
+dab9ba8d-5ac7-4e53-bd8b-ca4e22827589,2025-05-01 03:43:42,It looks hard. Bad.,triste,18,masculino,Centro
+58b644f6-2ed1-45e6-af70-7064972ba054,2024-10-01 02:27:25,This makes me feel wrong. Bad.,enojado,59,no binario,Este
+cd2df676-1f7a-4b5e-9874-5b82640550f6,2025-01-16 06:10:18,This is interesting and unbelievable!,sorprendido,23,femenino,Centro
+97534b0a-cabd-4ae4-814c-b1406b021760,2025-03-27 11:17:42,I feel fine. Good.,feliz,36,no binario,Este
+a89b1300-a697-4751-bb97-a36524a53c4d,2024-07-10 13:36:15,This is hard. Bad.,triste,49,masculino,Norte
+e4c92e08-b4cf-46bd-97c3-0da629b73ee1,2025-03-30 15:54:22,It seems terrible...,triste,31,no binario,Sur
+bfbc728a-dfd4-40f3-8240-f8ebf96abb5b,2024-05-26 14:52:04,I think it is unexpected. Interesting.,sorprendido,61,no binario,Este
+5d9199c7-0009-4a54-9b89-4813d4b65c5e,2024-11-23 10:30:41,It seems devastating...,triste,47,no binario,Norte
+ab951bd8-8639-4d5a-964c-df67e6dd9a0d,2024-10-21 23:03:17,I think it is not good and tough. Not good.,triste,58,femenino,Este
+013f70bb-48c9-4bef-ba58-03687358125b,2024-11-05 03:14:09,It seems ridiculous. Bad.,feliz,66,masculino,Centro
+92c9dd57-4de5-4c49-bd91-7a861d8e6c11,2024-10-24 01:08:26,This is not good and tough. Not good.,triste,33,femenino,Este
+f08e6a01-1fa0-41e9-9b17-4a074eac534a,2024-01-23 13:43:18,This is fine. Fine.,neutral,20,femenino,Este
+4555f9e5-37f6-40ec-9b9f-176c62cf75a9,2025-02-09 08:39:08,I do not like this and outraged. Bad.,enojado,48,no binario,Norte
+948fc92a-cc8a-48ea-88ec-35bcc1e53a5e,2024-04-17 12:00:35,It looks hurt and hurt...,triste,43,masculino,Este
+6a60fbf3-09ed-4da8-8f68-8c54fbb33974,2025-09-27 14:58:20,Seems quite surprised and wow.,sorprendido,41,masculino,Este
+8f8c662d-8e2a-4538-b10d-2e6716ffd20c,2024-01-25 18:01:21,I feel good!,feliz,33,femenino,Este
+667399db-0889-4658-82e2-67d71da7c52f,2024-06-06 10:47:04,I think it is amazing.,sorprendido,63,no binario,Norte
+3ed22fd4-2c78-42f1-aee8-8998f3fc84ef,2025-04-08 20:28:03,Everything is incredible! Wow!,sorprendido,18,femenino,Este
+ac6c8d1f-dfaf-4fb4-8636-806294bf54dd,2025-02-06 15:02:58,This is tough and hard. Not good.,triste,59,no binario,Centro
+781d2d2a-0a32-4507-a5ee-59a03344460b,2025-06-20 23:08:15,I think it is surprised and wow. Interesting.,sorprendido,33,no binario,Sur
+0b3d4a86-46e1-4609-895e-65116ef5024f,2025-04-26 10:14:42,Seems quite smile. Good.,feliz,51,femenino,Este
+098a89ac-4010-4069-809f-71d9738bb741,2025-04-04 14:28:28,This is mad and furious. Bad.,enojado,50,femenino,Este
+bc868d7b-a36b-4a94-bf0e-0954893c0967,2025-05-23 03:57:33,It seems nice. Normal.,neutral,23,masculino,Oeste
+27e9eea0-7d57-41ec-ab99-d8b9e031377b,2024-11-05 01:54:12,This is bad. Okay.,neutral,21,no binario,Sur
+7383971b-9a79-42bb-a04d-eed747ba2df2,2024-07-10 05:11:01,Quite strange!,sorprendido,69,masculino,Este
+59903e6a-d293-4e04-b79a-78326b658a97,2024-01-24 14:03:23,I feel smile and joy. Good.,feliz,21,no binario,Sur
+e626514d-bbd6-4510-9c8a-aa1084dc81eb,2024-08-22 14:22:03,This is furious.,enojado,69,no binario,Centro
+04d4197e-555f-4483-ae98-518631d1a556,2025-01-19 02:27:28,Everything is unexpected. Interesting.,sorprendido,23,femenino,Este
+b438947b-196b-419e-989a-2e3dc246066b,2025-04-11 06:16:36,I am okay with this!,feliz,51,femenino,Sur
+f03f16c1-5903-4e1c-9dea-e4df85fe1032,2025-04-15 20:56:24,Everything is bad. Not good.,triste,26,femenino,Centro
+c978c86a-c7ae-4e57-8966-f9c58f2db53e,2025-03-10 23:06:57,I do not like this and hate.,enojado,55,femenino,Oeste
+3837f479-dc10-45bf-936c-ac65cb4ee33d,2025-10-16 02:27:35,It seems shocked!,sorprendido,47,femenino,Sur
+93993446-0444-4e18-b016-f48bf7154154,2025-07-11 13:43:02,This is love!,feliz,27,no binario,Norte
+e7517fcf-63df-4fcc-a3f5-4ffdffb0bb61,2025-12-25 07:59:09,It seems terrible!,enojado,61,masculino,Centro
+9690e2ea-f57c-4e40-b6c3-29aaf08dfbee,2025-09-12 00:11:51,This makes me feel mad. Bad.,enojado,52,masculino,Centro
+d53fdf14-54dc-4c1f-bf13-d3650cbe1f26,2024-10-26 20:15:18,This is furious and angry!,enojado,51,no binario,Centro
+aeeff135-ea1b-44e7-85db-9eba566793d7,2025-07-02 05:25:00,This is furious. Bad.,enojado,48,femenino,Centro
+c95485c1-c5d2-482f-9127-595d989e446f,2024-08-13 07:35:58,It looks ridiculous. Bad.,enojado,44,no binario,Centro
+a18637ac-ec97-4f72-89b0-04117ae000a4,2025-11-04 05:03:10,Everything is wonderful. Good.,feliz,63,masculino,Centro
+59df28c3-11d2-41ee-af69-1177c23f41cb,2025-05-11 03:27:44,Everything is bright!,feliz,63,masculino,Norte
+9b07beab-868b-4b18-8795-9fa1bd74c0fa,2025-08-20 00:42:40,This is not good...,triste,63,no binario,Oeste
+a17aae19-e9e2-4c26-9f31-76fdbf399dca,2024-05-03 11:27:54,I feel good!,feliz,58,masculino,Centro
+2b824fd0-6aed-45dd-99e2-26d1276f8c6f,2024-07-20 15:34:37,I think it is nice and positive.,feliz,26,no binario,Centro
+0979873c-d111-4165-a5c1-368fa755b206,2025-11-15 16:40:41,I feel bad. Bad.,triste,26,femenino,Centro
+e1d956e7-1cb7-41c8-871f-574e638c0177,2024-07-03 21:11:39,It is okay.,neutral,61,no binario,Oeste
+33f1140f-5dcc-437b-8fb9-ad2e95a4750f,2024-03-24 19:00:51,I feel bad. Normal.,neutral,19,no binario,Sur
+e9586308-314e-40a1-81a4-d9709e99d200,2025-01-22 23:04:07,How unexpected and amazing! Wow!,sorprendido,53,femenino,Centro
+5b0abe62-bdf5-4e64-8716-0b606df660eb,2024-09-06 16:54:56,Everything is not good. Bad.,enojado,41,masculino,Sur
+5cd12425-c106-4a71-8562-3b72370eb109,2024-03-05 02:28:03,Everything is fine and bright!,feliz,43,femenino,Oeste
+cbee1514-bcb3-4ae9-9926-f81061c6289f,2025-12-02 17:27:45,I feel bad and hard.,triste,58,femenino,Oeste
+0538acd6-8f8c-4216-a9c2-84eefcaae47c,2025-05-21 09:01:04,I feel good. Nice.,feliz,47,femenino,Norte
+62cd5e74-5ecc-4c70-a3c7-d30d643ad8e9,2025-07-11 12:38:03,I think it is joy and love.,feliz,59,femenino,Centro
+2cb63d0d-721b-4fc9-8eb1-c235d993c35e,2025-01-21 20:31:45,This makes me feel tough.,triste,30,masculino,Sur
+0f0482eb-c484-48b5-91f9-ff48c15863c7,2024-05-05 06:26:33,This makes me feel bad. Normal.,neutral,20,masculino,Norte
+57ff1db4-3443-4c36-b7bb-d198350bd36f,2025-05-04 06:45:51,I think it is stupid!,enojado,61,masculino,Centro
+35f140c0-1ebe-4f8a-af0e-321f7922317f,2025-09-03 21:36:13,It seems nice!,feliz,66,masculino,Oeste
+b9a62e37-1ae1-4cfc-b918-98532597be84,2025-02-28 14:30:52,Pretty standard. Okay.,neutral,40,masculino,Oeste
+ae0398f7-92ed-4600-afb6-daac3f7b0669,2024-12-13 13:54:26,Seems quite hate!,enojado,33,femenino,Norte
+7224ca73-8814-4569-848e-e689b267adfd,2024-10-07 16:37:29,Seems quite awful and sad. Bad.,triste,27,masculino,Centro
+eb9a6759-5bf9-4187-9e46-d6db6366a26f,2025-08-18 09:25:19,How unexpected. Interesting.,sorprendido,66,femenino,Este
+32089389-0dff-43ce-aa90-30f95a3f0b04,2024-05-06 19:15:52,I feel bad.,triste,63,no binario,Centro
+cd68e71b-86f8-43ae-bd7a-df016a1af1b5,2024-02-24 20:45:49,Everything is wonderful and happy. Nice.,feliz,49,femenino,Sur
+29fff36b-9b8b-4bee-bba6-a8d23f504b57,2025-09-29 05:36:26,It looks wow!,sorprendido,27,no binario,Sur
+4cc2f6ce-85a9-481b-b131-da51b4037e8a,2025-01-16 19:39:54,Everything is typical and typical.,neutral,35,femenino,Oeste
+fa6c4c6c-0bc3-4212-baa2-3cfe017e898b,2025-01-23 20:51:48,This is interesting.,sorprendido,66,masculino,Centro
+1ba1f109-94c9-452b-be12-2373ce336c48,2025-09-28 07:04:43,It looks normal.,neutral,40,masculino,Oeste
+4eaebaec-5b3d-4702-8e6a-824c7287a63e,2025-08-31 03:42:41,It looks not good and wrong!,enojado,36,no binario,Oeste
+59ea98f8-d51c-42d5-898f-678ddfbb85a8,2025-11-07 11:09:12,It is what it is and different.,neutral,45,no binario,Centro
+bd594227-ddd6-4d6b-912d-b0943faa6cde,2024-02-20 16:52:06,This is fine. Fine.,neutral,62,masculino,Oeste
+d49ee5ae-4184-4b6d-ad05-1873b0fdb0a7,2025-05-01 23:03:45,Everything is wonderful. Good.,feliz,40,masculino,Centro
+b15df45c-1436-4b98-af00-2254241b1fde,2024-07-12 10:14:08,Pretty good. Good.,sorprendido,66,no binario,Oeste
+d0e33ca0-994c-4fcf-9a30-da32ff2a5daf,2025-04-22 05:12:37,This is different! Wow!,sorprendido,29,masculino,Oeste
+37442c98-2c55-496e-8fd2-565dcf4ca2c5,2025-08-21 10:33:42,It looks outraged and furious!,enojado,33,no binario,Norte
+0261109f-faf2-45c6-af40-0f3ca6582a76,2024-09-29 07:22:27,This is bad!,enojado,53,femenino,Norte
+cf46be54-6350-4934-a406-dfbd5f45f906,2024-12-06 04:44:53,This is nice and happy. Good.,feliz,35,femenino,Este
+64dbf498-afd4-427b-8ded-61f7cbc31612,2024-11-13 17:38:07,It seems annoying! Wrong!,enojado,25,masculino,Sur
+419372e0-cd4f-4ea0-ae1f-ee3a1022ae41,2024-01-20 09:37:15,This is bad. Bad.,enojado,34,masculino,Centro
+e5286ee5-a5e1-4372-8ec4-7e90788852f6,2025-11-30 23:18:24,This is wrong!,enojado,50,femenino,Sur
+4fa5d7bc-5090-49d4-8440-725e717531d5,2025-11-12 04:03:17,It looks wrong!,enojado,47,no binario,Centro
+d96e5c17-684d-4c9e-afe6-bccc9c432210,2024-08-09 01:04:25,It went well and okay!,feliz,32,masculino,Norte
+9d7a6ff3-55a2-4446-97e3-3b95b8d62fba,2024-11-22 14:22:12,It looks strange.,sorprendido,44,femenino,Centro
+a593964d-e620-4780-818b-a0bd3b9dc72d,2024-06-16 16:26:29,This is bad. Bad.,enojado,32,no binario,Centro
+9369ba51-64b7-456e-97d7-3abe9a973fd9,2024-03-18 02:11:53,This is amazing!,neutral,19,femenino,Centro
+051e9e52-97a7-4340-966f-b266cbbe3748,2024-08-18 22:09:28,This is bad.,triste,32,no binario,Oeste
+db6e7a37-8fc0-4e5b-9850-e202df7ace0d,2024-08-25 07:59:49,It looks hard. Bad.,triste,45,masculino,Este
+77f416d0-156b-46cc-9205-8963c7b94c03,2024-02-20 03:10:55,I think it is devastating and terrible.,triste,63,no binario,Oeste
+6013d3a5-df7b-4042-bf34-00a9ac1acd56,2025-03-29 20:21:25,I think it is interesting and bad. Fine.,neutral,48,femenino,Este
+694ea49b-b61b-48c0-8bdb-1ed40a5470d6,2024-07-21 07:04:01,This is annoying. Bad.,enojado,66,femenino,Sur
+6ef47ada-7eda-481e-afa3-cc272a5d2a91,2024-03-28 22:18:36,This is different and unexpected!,feliz,51,femenino,Oeste
+3e83d563-8c88-40d8-9321-895bfa739e8c,2024-10-27 19:21:03,Seems quite not good and bad. Not good.,triste,35,masculino,Centro
+8175dc64-070b-43c5-aa19-1aca9d5a06dc,2024-08-01 20:53:06,It seems regular and okay. Okay.,neutral,22,no binario,Oeste
+6bf726d7-2c96-4c2e-9db5-23b2c0642c28,2024-04-26 01:53:21,This is nice and joy. Nice.,feliz,60,masculino,Oeste
+bef6a8c4-34f9-410f-8b32-eb1da3279910,2025-06-03 08:03:23,It looks strange!,sorprendido,63,no binario,Oeste
+2c5ad6fd-d16f-4bf2-8944-ac7d73ec251c,2024-03-05 22:20:32,Seems quite unusual and strange! Wow!,sorprendido,26,no binario,Centro
+737c9799-3bc3-4072-ad7f-e6288d4761d0,2025-03-03 07:50:48,This is annoying and hate!,enojado,62,femenino,Este
+9e4ad506-1642-4626-8e80-0b56a5ea7522,2024-10-09 10:47:12,I think it is strange!,sorprendido,29,femenino,Norte
+16bc7e7f-2c83-4730-bc74-0072c8909406,2024-01-28 01:14:25,I feel good.,feliz,18,no binario,Oeste
+6c3c7f1c-f666-41ad-955d-7ba5de91c12f,2024-05-22 03:06:36,Seems quite crying. Not good.,triste,49,no binario,Oeste
+180c38d1-8ea5-4a7e-b581-648d1c07080e,2025-12-02 23:01:38,Everything is crying. Bad.,triste,28,masculino,Oeste
+c69a0d2a-fb69-4e3e-a632-42ba3bfb38cd,2025-06-27 14:51:42,Everything is devastating...,triste,42,masculino,Sur
+21d91483-72d3-4d9d-a3a0-75458f452456,2024-04-11 02:53:38,It looks different and unexpected!,sorprendido,28,no binario,Norte
+246c91e9-57ee-4b11-9d92-3151bdddaea1,2025-02-22 09:35:00,This is not good and disappointing. Not good.,triste,40,femenino,Centro
+04735146-8973-48aa-9522-a348237539df,2024-08-12 00:21:33,Pretty unusual.,sorprendido,51,femenino,Sur
+dd4261e0-a28a-4c34-a450-289280f09f84,2025-12-27 08:30:50,It seems furious!,enojado,55,masculino,Norte
+6f95c8a3-8791-439b-8d31-070f2885bfab,2024-09-30 23:34:07,It looks good. Nice.,feliz,63,no binario,Centro
+7b6641da-1655-4313-a567-5c480e45b413,2025-12-10 14:50:09,I think it is mad!,enojado,20,no binario,Este
+799984ea-1f71-4779-920c-678fe6b70371,2025-09-21 04:09:36,I think it is stupid! Wrong!,enojado,27,femenino,Este
+53cf1efe-c271-4bf1-9718-5c0598f02fc3,2025-01-17 18:20:55,It seems annoying.,enojado,40,femenino,Sur
+ed85d2eb-efea-4593-af91-e2462c0be261,2024-09-14 00:07:54,It is okay. Fine.,neutral,41,masculino,Este
+5f114f38-fd0d-47e9-bfc0-ccb0afe367ea,2024-03-31 21:02:47,Seems quite joy!,feliz,63,femenino,Oeste
+d3013703-bf45-4382-8597-5b5fbb04a9f8,2024-11-28 18:09:11,It looks amazing.,sorprendido,31,no binario,Oeste
+45aa39bd-549f-4d2f-84f6-958036534196,2024-12-14 07:18:30,It looks hate.,enojado,46,femenino,Centro
+459dfb28-3971-451c-9d5f-5e5705394c0a,2025-11-12 01:54:15,It seems bad.,triste,27,masculino,Oeste
+b53fad37-7a54-4a27-ba95-0195f06c5e8f,2026-01-10 00:49:26,I feel great and happy. Nice.,feliz,36,masculino,Oeste
+a167639d-7615-491b-ab78-650abe02c031,2024-08-02 09:02:31,It looks bad. Okay.,neutral,30,femenino,Este
+ec8d105d-de30-44be-bca7-40c78abce45b,2026-01-10 21:57:40,I feel smile and love.,feliz,36,femenino,Norte
+e2db7203-8ec7-45b9-aeb1-dbcddda50add,2025-12-06 10:23:57,This is awful. Bad.,triste,23,masculino,Centro
+2c5cc7d7-4f68-4a51-9c67-eb50cc07d744,2025-09-13 02:07:35,This is different. Interesting.,sorprendido,32,femenino,Este
+506b2039-6f09-463a-b146-9336e26bd457,2025-10-26 07:48:28,This makes me feel different. Interesting.,sorprendido,46,masculino,Sur
+c5ae3cb6-2beb-47bc-acd4-58fa9ec57294,2024-04-24 14:24:23,I think it is hard and not good. Bad.,triste,56,no binario,Sur
+acf3cd72-ff74-4126-b06b-d861d702b37d,2024-11-25 21:21:04,This is bad.,enojado,49,no binario,Oeste
+a1910052-6484-41fc-a08e-5dbc2c230c09,2024-04-22 03:44:52,Everything is strange! Wow!,sorprendido,45,no binario,Centro
+49650993-0fa0-4e3c-a491-a02da3bba956,2025-03-01 04:11:46,Not good and hate.,enojado,61,femenino,Centro
+f46dd6ca-138d-47a3-8ed9-4475f953c570,2025-12-24 15:05:50,I feel good.,feliz,22,femenino,Norte
+cad9e563-1c79-4b3c-80e2-4a62e467cfc0,2025-01-08 17:56:36,Quite strange!,sorprendido,51,no binario,Sur
+6f87a299-95b9-4633-853e-630f8a3f192d,2024-04-25 09:50:47,It is difficult. Bad.,triste,52,no binario,Oeste
+1fc3d8eb-3d46-418b-8962-bab9b841a570,2024-10-11 15:50:20,I do not like this and mad!,enojado,32,femenino,Norte
+3146c2bd-0aa7-4754-84be-bad1723034c7,2025-06-09 15:56:09,It looks terrible and devastating...,triste,18,no binario,Sur
+2df29117-a6cd-4234-8f2d-0a6bd5383bf0,2025-02-27 23:04:44,This is interesting.,neutral,61,masculino,Oeste
+9c69cb75-626c-4284-aa76-5f9be6bfe0f7,2025-10-10 23:07:32,Not good!,enojado,67,femenino,Este
+0686b10c-eb07-4649-a173-f5dde199453a,2024-08-07 02:48:29,This is bad and bad!,enojado,18,no binario,Sur
+ea10b439-cb1c-4013-879c-f508e3ad6e79,2024-02-17 03:48:40,I feel good!,feliz,48,masculino,Norte
+03727805-91f8-444b-a4c5-e4fc648209de,2025-01-18 02:03:23,Everything is wow!,sorprendido,27,masculino,Sur
+721d8c22-c40c-44a1-95c8-613600cb6e6d,2024-05-16 02:43:41,This is strange!,sorprendido,22,femenino,Norte
+9bb5ff49-b6c5-4faa-aa69-b129dde2735a,2025-11-27 17:03:47,This is angry and angry. Bad.,enojado,47,femenino,Este
+535560f6-4057-4135-9575-8d6bd65219a8,2024-11-19 07:10:42,I feel good and happy. Nice.,feliz,33,masculino,Oeste
+728bbbe6-31be-4d71-b210-0de1fc778c7d,2024-07-18 09:11:06,Everything is tough and bad. Bad.,triste,38,masculino,Centro
+6e696c49-2fb6-4be7-944e-09432389d7dd,2025-01-16 14:40:45,This is annoying! Wrong!,enojado,30,no binario,Sur
+0606df59-3f6a-441f-a601-9cb914c3030e,2025-11-23 20:31:38,This is wrong!,enojado,47,no binario,Oeste
+c7f8ceef-d8b4-4c88-b0c3-fc0f29c7b571,2024-08-06 20:02:47,It seems fine.,neutral,40,femenino,Norte
+f18352ae-293c-45a2-be0d-b902b70b89ec,2025-04-29 08:18:33,This is great. Nice.,feliz,31,masculino,Centro
+2bb89f22-a534-45d6-909b-41d9aba634b1,2025-12-19 05:23:14,It is difficult...,triste,25,no binario,Este
+7f7b368d-44b4-40a1-94a7-c2186fc99ce4,2025-01-28 00:50:47,This is tough and hard...,triste,41,no binario,Norte
+a0032235-c690-4b12-b14e-f7558668c71d,2025-02-14 13:35:08,I think it is unusual.,sorprendido,60,femenino,Este
+e7cc4a67-bc84-47ca-b6d7-116e960f6683,2024-05-23 16:50:48,I am okay with this. Good.,feliz,47,no binario,Este
+83c2840c-593a-4f55-b4b9-6a8c74a3d858,2024-08-02 19:16:21,I think it is positive.,feliz,27,no binario,Centro
+8575856d-0bef-4c4d-9f61-0436e7d0aeb8,2025-02-19 03:55:35,It seems wow and surprised. Interesting.,sorprendido,48,no binario,Centro
+568157d9-bc7f-4dc7-937e-97d7a45cc983,2024-12-27 04:12:08,Seems quite strange! Wow!,sorprendido,19,masculino,Norte
+2d64dc10-b36c-4ff7-bd89-bc82077d77ea,2024-03-05 06:56:31,It looks outraged and outraged. Bad.,enojado,66,masculino,Este
+83726457-a7e7-4f48-82cd-874750a54906,2025-09-13 13:23:02,I feel unbelievable and amazing. Interesting.,sorprendido,55,no binario,Este
+6736badc-1753-441a-b254-fe7c42943e7a,2024-01-23 06:15:37,I think it is hurt. Bad.,triste,55,masculino,Este
+a7bfc4c7-82b2-4bda-b955-4c12d69f6666,2025-06-19 13:35:58,It seems excited!,feliz,67,femenino,Centro
+95f58417-3c23-41e2-9ae0-79b239e38260,2024-08-18 23:19:38,This makes me feel ridiculous. Bad.,enojado,52,no binario,Este
+708d4146-a002-4c06-800e-9993a1b2d4db,2024-11-22 16:34:22,It is difficult. Bad.,triste,46,femenino,Sur
+7627f5f1-ff47-4a0d-ab22-5747d67110ab,2024-06-13 18:07:31,I do not like this!,enojado,49,masculino,Este
+d88a3926-a0c3-4d22-b26a-5a40fce2d9e6,2024-02-07 20:25:07,I think it is stupid. Bad.,triste,24,femenino,Este
+1366fb3b-e972-4718-b546-a24b8bbcc5ba,2024-08-04 09:43:58,This is unusual and unexpected.,sorprendido,22,no binario,Norte
+f3a9703a-30fe-4873-b3ac-e483ab8215ef,2024-04-28 07:25:09,It looks terrible.,enojado,19,no binario,Sur
+a63d41b5-7e48-4bf7-9418-52c94a465304,2024-11-26 08:45:34,I do not like this and ridiculous. Bad.,enojado,22,masculino,Sur
+26784754-6f67-43b9-bc92-f2770de0d7cc,2025-07-14 02:05:45,Everything is wrong.,enojado,45,no binario,Centro
+03c6fa9e-b841-46ee-a7fb-bc8cd815d05f,2024-09-28 14:16:59,It looks wrong! Wrong!,enojado,55,no binario,Este
+cce136d3-b1c6-4583-b36d-55faf9ea666d,2024-07-22 01:32:46,This is not good. Bad.,triste,54,masculino,Oeste
+c28ae27c-76cd-457e-a7d6-39ac0541a3dd,2024-08-31 04:25:18,This makes me feel terrible. Bad.,triste,29,no binario,Sur
+cd78be79-4c1b-4bb2-ae9d-0e787eb29b89,2025-02-28 04:06:24,Not good!,enojado,19,femenino,Oeste
+a32001af-147a-476c-8fe2-7cc67e403130,2025-12-09 16:25:31,It looks love.,feliz,55,no binario,Este
+d7cfabdb-76f4-461f-89ae-9abd7e492f5a,2025-07-24 05:05:32,It seems not good.,enojado,40,no binario,Este
+a04ac060-e953-4c7c-a3d2-5fba50837364,2025-09-21 21:44:21,Pretty good. Good.,feliz,50,no binario,Oeste
+6ad8d021-b520-466d-a0b7-80ef826a977c,2025-10-29 15:51:04,I think it is well and good.,feliz,65,femenino,Este
+5816301a-c5ae-4d24-a6fb-62d65ddc937a,2024-07-22 08:03:23,This is great!,feliz,68,femenino,Centro
+33ec335b-584e-458a-902a-baf0fe97b437,2025-07-11 04:16:32,This makes me feel surprised and wow.,sorprendido,63,femenino,Centro
+7e141c33-540c-498b-9551-30e0dc067507,2024-01-28 20:28:31,I feel bad and awful. Bad.,triste,58,masculino,Centro
+0bce9d30-0190-425d-8b71-599685357202,2024-06-26 19:26:40,Everything is devastating...,triste,22,masculino,Centro
+184c72fa-5cd3-40ec-8bae-0fa5579a5b77,2024-12-24 00:11:35,It looks furious! Wrong!,enojado,58,femenino,Sur
+5a491114-7f4f-4274-9d19-c097c26c7c9a,2024-12-25 22:10:28,I think it is unbelievable and amazing!,enojado,50,masculino,Norte
+a119601e-9b76-4ad8-8d55-da1b7a97610d,2024-12-30 17:03:44,This makes me feel fine and okay. Good.,feliz,33,no binario,Oeste
+ebcb65ae-599a-4fb7-bcf5-e2be29435a54,2025-06-22 13:35:43,It is okay. Okay.,neutral,30,femenino,Sur
+b6523472-ac76-4048-aa75-d5ea6a97f86a,2024-05-22 01:06:34,I think it is furious. Bad.,enojado,38,femenino,Centro
+9534f4cd-b6ee-47cf-992d-02c8434d5e14,2024-02-01 17:17:04,This is interesting.,sorprendido,60,no binario,Centro
+3bf30113-b2ae-49f6-bdf9-d289463c75c3,2025-03-22 07:07:45,I think it is wrong. Bad.,enojado,31,femenino,Este
+328e8490-8dac-46ce-9df6-02fb52e3ada0,2025-06-15 05:14:41,It looks not good. Bad.,enojado,51,no binario,Centro
+f4bc155e-2bcb-4551-aef0-674b92bbf827,2024-12-05 20:33:52,I am okay with this. Nice.,feliz,60,masculino,Este
+03ac4e2b-b209-4562-84b0-9cdec3a6d7eb,2024-03-24 20:41:42,It seems surprised.,sorprendido,29,femenino,Este
+42fb8179-dc7d-4afe-a0b1-f003defa92d8,2025-09-05 22:42:25,This is hate and mad!,enojado,23,no binario,Sur
+c472b13f-a71b-44a1-a5fa-fef72a3d7924,2025-08-05 17:17:39,It looks smile.,enojado,33,masculino,Oeste
+2540a90c-eca6-4519-ac1f-1c57ebe415b3,2024-09-15 11:18:54,Pretty unusual! Wow!,sorprendido,18,no binario,Norte
+0d93352e-a3fc-4667-a052-7415068484d8,2025-10-22 21:36:08,Seems quite outraged!,enojado,26,masculino,Sur
+63debe05-316e-410b-8a5a-2fa2301ee39b,2025-09-10 22:19:08,This is hate!,enojado,49,femenino,Centro
+e161a685-ed40-409d-b44a-ccb099286b6d,2024-07-12 22:11:14,This makes me feel fine and standard. Fine.,neutral,63,femenino,Sur
+ff6f4f54-eca3-46f3-b35b-c2af76e969fe,2026-01-06 08:35:08,I think it is angry and hate. Bad.,enojado,43,femenino,Oeste
+87f42336-e8ca-403e-ae43-f1a2316439d9,2025-11-15 03:11:55,It looks excited and joy. Nice.,feliz,56,femenino,Oeste
+75302e38-6228-4c94-a6af-3f5769835545,2024-01-26 18:41:05,Everything is not good.,triste,57,masculino,Norte
+72bd70ed-c240-4b11-a8d3-2c0d2fb2cfad,2025-09-09 17:50:07,It went well and good. Nice.,feliz,55,masculino,Centro
+fdac2661-b856-4468-8501-aa5788b05c3d,2026-01-17 03:44:20,This is fine. Fine.,neutral,43,no binario,Oeste
+652419da-ca3f-4c4a-9f6f-5bb4993ec465,2024-08-15 21:30:01,Everything is regular. Okay.,neutral,53,masculino,Centro
+1d65dfd4-d722-4446-a4d1-fb022b92f6cf,2025-06-26 05:37:14,It looks wonderful. Good.,feliz,38,no binario,Centro
+5cd107fa-c884-41d4-8d1d-cf743a924b90,2024-12-04 03:00:37,Seems quite annoying. Bad.,enojado,23,femenino,Centro
+9d913325-b0d6-48de-8905-c80a2dc44240,2025-02-10 14:50:54,This makes me feel positive!,feliz,41,masculino,Este
+a4eef0de-d6dd-435f-adbb-e57438f9e223,2025-06-03 03:09:06,This is nice!,feliz,30,femenino,Norte
+90551d1e-d033-4a14-9630-64127d6d73aa,2025-06-15 02:17:27,This is annoying. Bad.,enojado,55,no binario,Centro
+f00917d3-6db8-4bb9-bb7b-a96885eba3d3,2024-08-16 01:21:15,It looks angry!,enojado,27,masculino,Centro
+8ec0a570-b526-4a4c-aae0-b1e74f157e82,2024-12-16 11:16:14,It looks excited!,neutral,56,masculino,Oeste
+36816b3e-ef1a-44a1-a810-afe6f6526faf,2025-09-08 18:51:17,Quite strange.,sorprendido,28,no binario,Este
+c504bce1-5fd2-479e-af24-b4eec7c43824,2024-07-13 02:49:50,I feel normal and standard. Fine.,neutral,42,femenino,Oeste
+ef29034b-4a1e-485e-9b66-6e5bcced6822,2024-09-19 19:51:17,I think it is great!,feliz,37,no binario,Centro
+48ca4c19-06e9-4b3d-9e55-596c19fca4e1,2025-02-04 19:11:38,It looks shocked! Wow!,sorprendido,56,masculino,Este
+0d5d826b-ee0d-4174-b4a4-05929a0d115e,2024-10-11 19:25:26,This makes me feel tough. Bad.,triste,57,no binario,Sur
+fab763c1-575d-463c-a4b9-8a2dceb8d566,2025-10-24 20:28:39,I think it is different. Fine.,neutral,66,masculino,Oeste
+5c539bff-2955-4033-a2eb-bc22a63de6d0,2025-08-17 07:27:13,I think it is mad and outraged.,enojado,22,no binario,Sur
+53ba90ab-5ce3-4b78-86e2-59d61b6024a5,2025-10-10 08:14:51,How unexpected!,sorprendido,38,femenino,Sur
+c18de1da-22e6-4f5e-aa50-fafa86d1d011,2024-04-28 23:54:31,It seems bright and nice. Good.,feliz,66,no binario,Oeste
+3e6102cb-860c-4378-93b5-8706718abbd5,2024-05-04 20:19:40,It looks interesting and unusual!,sorprendido,21,femenino,Norte
+03daf430-f7e9-43c7-885e-3687e2093d05,2025-01-20 23:32:01,Quite strange! Wow!,sorprendido,64,femenino,Centro
+0fc80bc3-0ebb-4384-91d5-3ba705e75c34,2025-09-27 11:49:08,It seems awful and awful.,triste,47,no binario,Sur
+5c0c8d57-17f8-4983-a01f-f180c21a3903,2024-03-21 17:37:40,It seems outraged.,enojado,27,femenino,Este
+1072fdaf-12ae-49ac-a70a-e558cd4a1c3e,2025-04-21 06:45:24,I feel wonderful!,feliz,64,masculino,Norte
+f69e37ef-e1fb-4d69-8b25-006a16fbb6b2,2025-11-21 12:05:37,This is outraged and outraged! Wrong!,enojado,20,masculino,Este
+5a74b243-96b4-48f4-98aa-a51d9858af36,2024-12-03 21:29:49,I feel normal. Okay.,neutral,20,masculino,Este
+b93a5188-3f55-4776-9d28-f90a5b5e8768,2024-10-21 04:04:56,Everything is excited. Good.,enojado,55,masculino,Norte
+ecfdf8b5-b65b-406c-a873-e4f2152180f3,2025-07-02 18:22:53,This is interesting. Interesting.,sorprendido,50,femenino,Oeste
+be3dd180-8769-4d4c-9a92-01002cd8d88e,2024-07-01 00:01:57,It looks furious!,enojado,26,masculino,Este
+0b798447-4914-44f1-925e-b48e5f4a0160,2024-09-06 14:44:09,It seems difficult. Not good.,triste,36,masculino,Oeste
+e7f7aae8-60f3-420c-804b-aa7b6a226198,2024-12-30 01:16:52,This is love. Good.,feliz,52,femenino,Norte
+e488e4d3-1f1c-4452-a9c2-86322ff8a5e0,2025-03-09 20:39:13,This is nice!,feliz,31,masculino,Norte
+ad100667-6f48-4541-98da-2f6339a34e5e,2026-01-02 07:14:14,Everything is not good.,enojado,47,no binario,Este
+c34cb7e9-2c20-4103-ba91-a3cc9165af5e,2024-05-23 09:03:57,Everything is bad! Wrong!,enojado,34,no binario,Norte
+97292c8f-948a-4aab-bd42-6335dc8b68b1,2024-04-21 02:45:47,It looks different and different. Interesting.,sorprendido,39,masculino,Centro
+a7a72699-53ff-4abe-beec-a4b068634976,2025-10-05 01:34:00,I think it is strange!,sorprendido,53,femenino,Norte
+d09be5bf-a6ad-4b65-8538-c78015602ae9,2025-10-25 15:55:03,Pretty bad. Not good.,triste,48,masculino,Oeste
+fb990bac-7302-49a3-ac19-3e327baf8f4c,2025-03-03 13:25:03,This is nice. Nice.,feliz,38,masculino,Este
+9b087114-4900-4564-b84b-4af4b876c28f,2024-09-10 07:53:28,I do not like this. Bad.,enojado,63,masculino,Sur
+5633d8e5-e293-44e2-b12e-ed2c8d976f7f,2024-02-19 04:32:42,Everything is hurt. Not good.,triste,46,femenino,Este
+9cd89e53-d3f1-4711-8d32-5a1f0d78441b,2024-07-08 23:18:17,Everything is crying and sad.,triste,25,no binario,Este
+310d2908-0907-4def-ba8e-59fa385e3ca0,2025-09-12 21:01:34,It looks not good. Not good.,triste,64,no binario,Oeste
+bed9ad1b-f1c8-42a3-aca9-c421c0ce3f90,2024-08-11 20:12:46,Seems quite unusual and different!,sorprendido,23,masculino,Oeste
+fa2a6eef-af97-48e4-b5da-5f7c6a87bb0f,2025-07-10 17:49:04,Everything is normal.,neutral,32,masculino,Este
+2a92f8d8-ae9b-4668-8a13-cfd64e51c5bd,2024-11-03 21:00:29,I feel outraged! Wrong!,enojado,48,masculino,Oeste
+e7001128-cea9-43a1-8bb9-c8c6c09dc7b4,2025-07-18 11:44:21,It seems unbelievable and incredible! Wow!,sorprendido,52,femenino,Sur
+df053b75-c0b0-40ec-80a8-a692a68699df,2025-12-28 02:15:26,I think it is good and okay!,feliz,48,no binario,Centro
+26d7bbad-e9fa-4367-9312-d7fa6b2b026b,2024-03-05 16:25:24,This makes me feel furious. Bad.,enojado,41,masculino,Centro
+9936e142-7b7f-412e-a185-64e04aba0f4b,2026-01-04 20:51:51,This is bad. Bad.,sorprendido,28,masculino,Sur
+fc13f01a-33af-4ff4-a4d7-4206ffb74f7a,2024-09-21 22:11:46,Everything is angry. Bad.,enojado,19,femenino,Este
+eea326c5-373a-4b05-a457-e0016a62897f,2025-09-17 00:23:39,Seems quite nice. Okay.,neutral,56,femenino,Centro
+07d80c3e-22b9-40c0-b6fb-e1dcdc2bc9b7,2026-01-11 03:49:08,I feel good. Nice.,feliz,46,no binario,Oeste
+a834358d-eccc-4c94-80cc-100096e85b7c,2025-10-04 18:13:22,I feel stupid. Bad.,enojado,54,femenino,Norte
+3765bce6-e3e4-4293-800a-255ef8b1649a,2025-07-21 04:33:02,I think it is ridiculous!,enojado,26,femenino,Centro
+723eee45-4161-426d-a224-48ccf5ebfacc,2025-09-27 00:11:04,This makes me feel terrible and devastating.,triste,66,no binario,Oeste
+bd0a1e32-9c6b-4072-98cb-bfe7643fc425,2024-08-07 23:08:10,It looks bright. Nice.,feliz,29,femenino,Sur
+4085a583-faa6-42cb-8f73-87799447922f,2025-09-04 10:04:47,This is sad. Not good.,triste,41,no binario,Oeste
+4bf159d0-a90b-4ab8-af72-2d6a6da3af65,2024-06-18 15:26:27,It is okay.,neutral,35,femenino,Este
+ef536c08-f706-4aaa-8fcf-960b7a260728,2024-11-10 23:58:09,This is annoying! Wrong!,enojado,27,no binario,Oeste
+f170575f-cf95-4a3c-85f9-bde781f92a65,2024-10-09 21:33:55,It is difficult...,triste,22,masculino,Este
+164c1e0a-f307-4136-ae06-75433ed5aef6,2024-12-10 19:12:35,This is interesting! Wow!,sorprendido,34,femenino,Oeste
+2de8ddde-d6a9-4a49-b9bf-a7ae2713a078,2025-05-03 16:40:57,It seems awful. Bad.,triste,27,masculino,Sur
+8cfa3f67-aba0-422b-ab0c-1f64d02606a8,2025-06-01 15:53:38,This makes me feel not good and disappointing. Not good.,triste,28,femenino,Sur
+d0663157-191b-46f5-b5c0-293b3c9135e1,2025-07-02 05:43:11,This is bad! Wrong!,enojado,54,masculino,Centro
+204bba59-2a1a-4266-b176-d5f8441aa308,2024-10-03 10:55:44,It seems unexpected and different.,sorprendido,65,femenino,Centro
+2df5fb48-b706-406a-a7c6-f6495118aeb3,2025-03-24 09:48:47,This is interesting! Wow!,sorprendido,27,no binario,Este
+cddf9489-2fe0-47a7-90a9-4201f9b02cc1,2025-11-16 13:14:31,It seems bright.,feliz,52,masculino,Oeste
+12368d8f-efcb-47a5-82b3-0fb39dbaa646,2024-11-06 09:12:49,Pretty unusual!,sorprendido,64,masculino,Norte
+b4eb37e1-a9a8-47d7-bb99-da31c2d1637b,2024-11-16 06:57:28,This makes me feel ridiculous! Wrong!,enojado,35,masculino,Sur
+7bfe3cf6-091f-43e9-a71e-5535fff462f5,2024-08-01 03:07:29,I think it is joy. Nice.,feliz,54,no binario,Centro
+5039cf22-2387-4ba1-9ca4-2792c23720ed,2025-10-09 07:08:49,Quite strange.,sorprendido,40,femenino,Este
+e6be83b6-1514-4266-97e9-ff62d1dbfea5,2024-01-24 23:19:59,I feel bright. Nice.,feliz,35,femenino,Sur
+c0fb30b4-a037-4e60-83ee-c83da36463e3,2024-06-18 02:17:17,It looks terrible.,feliz,54,masculino,Este
+518d0553-a1a3-4a9b-bb2c-366690fa7161,2024-09-27 22:18:55,It seems hard. Not good.,triste,67,no binario,Centro
+8e11ff8c-7002-49f6-bee2-af760d10fb59,2024-12-26 00:46:23,This is unusual. Interesting.,sorprendido,24,femenino,Sur
+b1a38b7e-4709-4c38-b2da-8e009ad66885,2024-08-24 15:43:57,This is bad.,enojado,68,masculino,Norte
+3a0559dd-2383-4af5-932e-ea353a6e08df,2024-07-02 19:32:41,It is what it is. Okay.,sorprendido,37,masculino,Centro
+a5b30a57-29ad-4a40-8501-cb2b756001a4,2025-01-14 16:41:39,This is not good and difficult. Not good.,triste,43,femenino,Este
+b5126591-473d-4c63-af9f-0d0d9519c13f,2024-12-10 09:03:58,Everything is standard.,neutral,63,femenino,Centro
+1c0a5b0d-efad-44c8-9c43-7024671431c4,2025-07-02 20:55:38,Seems normal and interesting. Fine.,neutral,41,no binario,Oeste
+72473e90-2d1c-426d-beec-0207763feeb1,2025-11-17 22:09:13,Seems normal and nice. Fine.,neutral,23,masculino,Sur
+10b5e715-c982-44ae-8285-9bb9f9aaf340,2024-10-10 04:31:08,Quite strange. Interesting.,sorprendido,28,masculino,Centro
+f1508f46-b72b-4f66-bc46-26f2c2c7c249,2024-04-19 11:11:57,This is interesting and nice.,neutral,30,femenino,Norte
+947bcf96-9dff-4909-8031-24b15af392db,2025-04-05 04:39:36,I feel angry and furious. Bad.,enojado,46,masculino,Sur
+4f6253fa-1c6c-487e-93c3-19b321dc82cd,2024-02-05 07:01:15,Seems quite unexpected.,sorprendido,41,femenino,Oeste
+593f17f0-b852-4823-8eaf-2baacf3737e2,2025-03-27 04:37:15,This is not good and hurt...,triste,24,masculino,Oeste
+15d98d35-54a0-4341-8b4a-3a8ee84e66c9,2024-11-27 05:02:28,Not good! Wrong!,enojado,26,no binario,Sur
+ee64e70d-4b51-42c7-a5fa-bada65af118e,2025-12-11 18:54:41,This is surprised.,sorprendido,46,no binario,Oeste
+fbf43e1f-37ca-41ad-9ace-267939f85f34,2024-12-08 21:16:03,This makes me feel interesting. Interesting.,sorprendido,54,femenino,Este
+6498a6df-8719-43d8-a97d-85a9d93994be,2025-11-19 05:16:11,I feel incredible!,sorprendido,66,no binario,Sur
+d74a7850-ac83-44f5-ba53-6cf76fe867bd,2025-10-06 14:44:48,This is angry and ridiculous! Wrong!,enojado,29,no binario,Este
+0e5dd5fd-a9da-4b16-a58d-bad163d5d46a,2024-07-30 16:18:28,I think it is hard. Not good.,triste,43,femenino,Este
+aa9267c0-911e-44f3-88e3-97119abdd7f8,2025-01-04 23:35:59,Seems quite normal and fine. Okay.,neutral,31,masculino,Norte
+7a1ab293-d36e-410e-a7a1-7f5943871ba6,2025-06-17 15:30:31,Seems quite devastating and hurt. Bad.,feliz,57,femenino,Centro
+1b54907d-4d3f-4678-8f9c-e3853105a26e,2025-03-10 01:12:48,Seems quite amazing and unbelievable! Wow!,sorprendido,18,no binario,Este
+5f5c5771-6824-4ede-bab4-ba66194fddbe,2024-07-06 08:00:14,It seems furious! Wrong!,enojado,52,no binario,Este
+5c6d83c4-e961-4971-aa80-dd7201132970,2025-06-29 15:59:53,Seems quite surprised.,sorprendido,58,femenino,Este
+02a5f27b-d779-4428-9af7-544e9c9ac071,2025-08-11 12:29:54,This makes me feel interesting and nice. Normal.,sorprendido,23,no binario,Oeste
+693b3f5a-9118-4c4e-8b20-54e3c07b026c,2025-09-18 11:08:24,It went well and great. Good.,feliz,36,no binario,Norte
+07dbfeaf-ea10-4503-a1ed-b20886e765d1,2024-04-13 17:37:00,Everything is devastating. Not good.,triste,47,femenino,Sur
+ec90ef5c-3856-478b-9931-77b765c052ca,2025-05-14 05:32:30,This is interesting! Wow!,sorprendido,43,no binario,Centro
+ca52571b-83cb-4715-9ccc-511707baba6b,2025-05-27 08:28:01,This makes me feel nice. Good.,feliz,25,no binario,Norte
+6c1170cd-f8a0-4339-a9f5-f19497c07ef7,2024-06-12 23:32:09,Pretty good. Nice.,feliz,32,masculino,Centro
+ddd7c76c-950b-4b67-8a57-030d979b2557,2025-02-21 14:37:13,It looks different.,neutral,33,masculino,Sur
+65b1d56b-fe62-4eab-960b-f694607f8ce3,2025-01-25 22:18:20,This is typical. Okay.,neutral,24,masculino,Norte
+6bcc3ce7-4b37-4c84-8d81-c7156f84e478,2024-04-25 07:45:35,This makes me feel well. Nice.,feliz,21,femenino,Este
+31f82585-507e-41df-b284-55165231c4c7,2025-08-23 05:26:34,I feel hate.,enojado,47,masculino,Oeste
+0882ad62-16aa-4268-b155-da070679847a,2025-04-28 12:38:37,This is wow. Interesting.,sorprendido,58,femenino,Sur
+fd9ff7b7-f1b1-4ba5-ada2-d3c7d93328fe,2024-08-02 23:19:20,This is different. Interesting.,sorprendido,47,femenino,Centro
+e78f421b-196a-442d-ae40-4c7809d875a4,2024-10-12 07:35:44,Everything is standard.,neutral,38,no binario,Oeste
+762435eb-5ad1-42a6-bc3d-b70046f0a696,2025-05-23 13:05:13,I feel bad and awful. Not good.,triste,45,masculino,Norte
+58fdb3d6-ef1f-4a02-9e9a-32ff004b3f76,2024-10-10 03:34:53,I feel stupid. Bad.,enojado,67,femenino,Norte
+1e5448c5-3fef-4041-bff1-b56c48c9ed26,2024-02-26 16:49:10,Pretty unusual.,sorprendido,54,femenino,Oeste
+6f918da3-5bea-477c-92f4-f97749af8c6d,2025-02-07 22:49:56,This is surprised.,sorprendido,20,masculino,Centro
+bab792ac-4ba4-42c1-8fd8-dd0f96112e53,2025-02-03 08:02:34,This makes me feel not good. Bad.,sorprendido,45,femenino,Norte
+b3c2d488-c0ac-4ace-881d-5f9babbc4c78,2024-12-23 21:29:14,This is bad and angry! Wrong!,enojado,29,no binario,Este
+3a4a5cf1-e5d5-4687-ab97-470e00212416,2024-01-22 21:20:43,Everything is hurt...,triste,51,femenino,Este
+c4d2795a-9b25-40c3-99b4-08fab0efa0a9,2025-11-29 03:41:46,It looks smile.,feliz,35,masculino,Centro
+8a09d38b-a0aa-417c-9573-ebf471c68227,2025-05-27 03:20:53,This makes me feel joy and joy.,feliz,66,masculino,Norte
+adfa5776-c239-4a81-94db-ef5051babfe9,2024-09-09 19:28:31,This makes me feel unusual. Interesting.,sorprendido,54,no binario,Sur
+ce6cf77f-3bb6-4939-ba61-808856335bed,2024-09-11 09:52:41,Quite strange and unexpected! Wow!,sorprendido,47,femenino,Sur
+f072168e-7a5a-404d-b33e-bd553df21f0d,2025-02-13 19:57:33,I feel typical.,neutral,44,femenino,Centro
+a647bd6a-58a8-42ed-a1c7-8e1c61bfe50a,2025-07-07 11:07:19,Everything is typical.,neutral,50,femenino,Sur
+d31d7c79-9ba8-4ffc-97c6-2494646c9e55,2024-04-08 08:23:55,This is bad. Bad.,enojado,31,no binario,Sur
+e3de1a39-7e36-4346-9261-5e2c2ae99de7,2024-05-26 18:00:01,Seems quite great and joy.,feliz,36,masculino,Sur
+40bb030c-dfef-430b-8514-3f4c69077408,2025-06-06 03:05:00,Not good. Bad.,enojado,62,femenino,Oeste
+aab07968-6373-474d-a8b1-e46d6e9b8376,2025-11-21 09:38:38,Seems quite awful and crying...,triste,49,masculino,Norte
+04c548da-25ef-4d9e-ac38-75f87dede55f,2025-05-07 21:13:38,It seems positive!,feliz,67,femenino,Norte
+64a00e06-e120-4512-97ac-8d36eccee41f,2024-10-24 03:10:12,It is okay. Okay.,neutral,64,no binario,Centro
+ae0eca36-2d84-490b-99d0-5332a25e7c1a,2025-05-23 13:06:21,Seems quite unusual!,sorprendido,35,no binario,Norte
+c0c59525-e24b-4521-a041-d74bb907b035,2025-07-11 04:46:43,Everything is love.,feliz,40,femenino,Sur
+e1c5f688-86ad-40fb-ae56-390a7a2d9cf2,2024-05-19 23:13:16,This is amazing!,sorprendido,69,femenino,Centro
+c337b61c-964f-42d6-831e-3d89585b15a0,2024-07-24 02:56:38,Everything is bad and not good. Not good.,triste,41,femenino,Oeste
+31048ca2-d1b6-47c7-b465-fbd855c65e14,2025-03-03 21:22:47,I feel ridiculous! Wrong!,enojado,24,masculino,Este
+1425acd1-87c7-4d81-997f-c2dc7fdb35ea,2024-06-04 15:20:08,It went well and great. Nice.,feliz,57,masculino,Norte
+4e6be0d5-2ec3-4703-b56e-ece0050f69fe,2024-06-02 13:07:08,Everything is standard. Fine.,neutral,36,masculino,Sur
+95e58ff6-71ac-4690-bbf3-1e064341d9e5,2025-03-27 18:04:08,This is different and unbelievable! Wow!,sorprendido,51,masculino,Centro
+788ce6c9-50db-4383-88ba-7ffa27c2f537,2024-10-05 02:07:42,It seems ridiculous. Bad.,enojado,25,masculino,Este
+01eb863c-4993-41f4-b5ed-67782b6f3547,2024-02-17 08:35:38,Everything is hate.,enojado,28,masculino,Este
+9623838b-cb52-4e04-86b5-6f7bd6a1e5b5,2025-06-09 12:25:50,It seems interesting.,sorprendido,51,no binario,Este
+2eedc720-79a4-4b31-93f9-1535e3bd580b,2024-06-14 06:16:06,It looks regular.,neutral,41,masculino,Norte
+7b9ce8bb-d8e0-4927-8003-d56db6f650ac,2024-05-20 23:11:07,I think it is furious and mad. Bad.,enojado,64,masculino,Oeste
+c0ab731a-9848-45d9-adef-d62df2ab1c8b,2024-03-24 03:31:10,This is annoying!,enojado,44,masculino,Oeste
+92718746-5e82-42f2-af68-7ad0d337572a,2024-10-07 07:30:22,Seems quite wrong and bad.,enojado,37,no binario,Este
+0cb0544f-d7c3-4a7b-97ff-adc308a80176,2025-08-05 07:49:21,It looks nice. Good.,feliz,19,masculino,Centro
+28a5b23b-0fad-4540-9af7-a31c15d0c40d,2024-09-18 22:33:45,Everything is ridiculous! Wrong!,enojado,39,femenino,Oeste
+e6ebc699-5d0c-41a5-abf0-adda2ad3b686,2024-03-25 12:36:20,Everything is interesting.,sorprendido,39,masculino,Norte
+a9cb456c-242f-4215-8f63-eb643b112186,2025-07-08 18:41:11,It looks excited and great. Nice.,feliz,30,no binario,Este
+d7dc78b9-19c1-46ac-b83d-6c3f98ebcc62,2026-01-04 02:19:38,It went well and positive.,feliz,68,masculino,Norte
+1892db7d-8f18-40d5-a1f9-c32563e809f1,2025-03-23 14:14:52,It seems annoying. Bad.,enojado,19,femenino,Norte
+04feb877-d6fa-4444-a122-345a628066ce,2024-10-10 23:05:25,It is okay and different.,neutral,36,no binario,Este
+771e5ddb-61fd-4537-960f-448d3748582e,2025-05-02 00:54:15,I feel unusual. Interesting.,sorprendido,46,no binario,Este
+b9f3de67-1cfb-42da-800c-6b209181e891,2024-10-21 07:18:03,This is surprised and wow! Wow!,sorprendido,26,masculino,Oeste
+47a11ae0-ad88-4fec-a31c-04301647b682,2025-10-22 01:49:24,Seems quite wonderful and wonderful. Nice.,feliz,65,no binario,Oeste
+92f10444-ef55-442a-8f9e-f8fff523dd52,2025-02-11 22:04:25,I feel good.,feliz,53,masculino,Norte
+12d50d3c-02c1-4ea6-a735-49163c884ab3,2025-07-21 22:31:54,Not good.,enojado,40,no binario,Este
+a949fa9d-e84d-4db9-b999-6f53855c3fd3,2025-08-20 14:32:27,Not good and hate! Wrong!,enojado,50,masculino,Centro
+8ccb12c8-2fd5-4c2f-a19c-1d2713368e9b,2024-12-29 12:24:24,Everything is stupid and bad!,enojado,33,femenino,Este
+b8956add-256a-4b3a-ad20-70acce991ef1,2024-03-16 16:04:14,I think it is bad. Bad.,triste,36,femenino,Norte
+ec3ad0be-e9f4-4fd8-93db-21d036e77063,2024-12-11 13:03:53,Seems quite typical.,neutral,34,masculino,Sur
+0aba8958-dd92-4899-a46d-d3009c27f466,2025-12-22 04:13:00,Everything is bright. Nice.,feliz,66,masculino,Sur
+1db76f1f-d0b0-43b0-98ad-f81055e1b3fb,2024-02-11 21:46:55,I feel bad. Bad.,triste,42,masculino,Sur
+13339098-30af-4de5-a936-092fad912cd4,2024-06-12 17:47:29,This is different and strange.,sorprendido,38,masculino,Sur
+715eb537-881f-49b3-ae0e-b778a47d29bd,2024-02-07 18:11:50,This is awful and crying...,triste,32,masculino,Norte
+b0a6da84-6d6c-4086-96aa-007352724fa0,2025-05-24 22:40:49,This is interesting. Interesting.,sorprendido,55,femenino,Oeste
+6e525835-3b3b-460b-a127-f9d516727cd1,2025-11-19 12:37:17,I think it is strange.,sorprendido,55,no binario,Este
+0fc13977-fbd8-40a8-8b5f-0012b0330922,2025-01-31 10:45:01,This is interesting and unexpected. Interesting.,neutral,33,masculino,Norte
+c5da8ee9-a62f-4a10-bea8-7839fdb865aa,2025-12-06 09:50:59,I think it is different and nice. Okay.,neutral,56,no binario,Sur
+56d72f72-bc64-4ffa-90ba-5231e151f127,2025-03-28 20:32:55,I think it is regular. Okay.,neutral,39,masculino,Este
+aeb06f47-e001-48db-af90-d290df5faa86,2025-10-31 12:00:22,I think it is devastating.,triste,46,masculino,Norte
+84ccff22-b6cf-4a8e-834f-c57a7b332478,2025-05-05 16:31:41,This is bad! Wrong!,enojado,24,masculino,Este
+0e876df4-8cdf-43ba-8312-2dae79009da6,2024-07-16 02:23:31,It looks smile and joy.,feliz,60,femenino,Sur
+8d09e6cc-40ff-45c4-93c9-6d9ce2e9116d,2025-05-14 08:41:55,I feel unusual.,sorprendido,45,masculino,Norte
+d27d4823-5034-42a9-8647-79b189919d41,2025-08-16 04:38:28,It looks hurt and terrible.,triste,58,femenino,Oeste
+4e064d5a-1a81-41a4-b199-495bf4490eb5,2024-12-06 10:28:01,This makes me feel not good and annoying!,enojado,42,masculino,Este
+0e371f50-bfff-4632-82cb-c6abf3143bdd,2025-04-24 08:03:14,I think it is nice.,neutral,50,masculino,Sur
+c6a3f803-6e4d-4ac4-bd92-8eef47206665,2025-02-03 00:20:10,I feel excited and wonderful!,feliz,28,no binario,Centro
+9518a2eb-31bb-4e94-9a7f-3f814aa49542,2025-04-07 13:36:33,Seems quite angry. Bad.,enojado,30,no binario,Norte
+12233f4a-74e6-4c70-aec4-0b4742542abd,2025-08-29 03:46:23,Everything is nice. Normal.,neutral,42,femenino,Este
+2c7b7eb5-c182-4fe3-8996-9d4373e9ec77,2024-05-02 18:53:36,Seems quite devastating...,triste,44,femenino,Norte
+574b3561-7b2f-4b5f-a934-58f1e2e7608c,2024-01-21 00:13:30,It looks bad and different.,neutral,34,masculino,Centro
+bb025a59-3e96-43d6-8282-5b823f0b4db5,2024-12-05 00:21:09,This is positive!,feliz,62,masculino,Centro
+2fdabdd9-9e7e-4d79-baee-2d8a58a6c5a6,2025-02-22 14:47:42,Everything is incredible.,sorprendido,21,masculino,Centro
+ae4ea619-f20a-4d25-a389-db13109cf5ad,2024-07-27 00:29:32,This is annoying and outraged.,enojado,28,femenino,Sur
+13f779dd-ace9-44d0-a04c-2d1db366c6dc,2025-05-28 09:37:01,I think it is furious!,enojado,59,no binario,Norte
+48a40368-ea02-4d08-8c1f-374fe6a0ab62,2024-10-01 11:55:28,I feel love and great.,feliz,48,femenino,Norte
+bac625da-9224-4830-ab14-fcb10995179b,2025-11-18 22:29:45,How unexpected.,sorprendido,64,no binario,Norte
+13c67f6c-8283-4e02-b7a4-36a5edd2e418,2024-09-26 13:37:18,Everything is disappointing and hard. Bad.,triste,42,femenino,Centro
+0883a277-ae8b-46ed-9d96-9744a3c944d7,2025-04-04 10:47:57,This makes me feel not good!,enojado,67,masculino,Sur
+c8ef29b5-0d33-42b3-be3a-1013ae67cba8,2025-10-28 22:23:57,I feel bad.,triste,30,no binario,Oeste
+c4ea0ecd-2d23-4915-a4d0-870bd693537c,2025-08-16 16:13:16,Quite strange! Wow!,sorprendido,21,masculino,Centro
+83a14f6e-177a-4d56-b982-25e8fa1ff2d0,2025-07-04 14:22:00,I feel not good...,triste,52,no binario,Centro
+700258c0-18a2-43cf-bccf-1aa9565d9454,2025-08-09 22:34:19,Seems quite wonderful and great.,feliz,52,masculino,Sur
+da66cd8c-8dea-42a9-b55a-5dba97aab137,2024-08-22 11:02:48,This is annoying!,enojado,29,no binario,Centro
+78a45ee5-8dea-46bd-a702-98ffdec76e6d,2024-06-12 09:48:10,This makes me feel surprised and wow. Interesting.,sorprendido,50,femenino,Norte
+40077948-441a-411e-aa13-f232b647cf9b,2024-10-24 06:06:20,I feel not good and difficult. Bad.,triste,62,masculino,Centro
+94a63a5a-794d-4292-b582-ccab1975649e,2024-01-21 03:23:24,This is different and incredible!,sorprendido,66,no binario,Este
+635cb182-18f8-43c7-89c6-adca5bbc4fa7,2025-09-22 00:59:02,I feel unexpected!,sorprendido,49,femenino,Sur
+ca541285-4d02-4521-88b1-15963a3c3fae,2024-06-07 00:42:58,I think it is devastating and sad. Bad.,triste,56,no binario,Oeste
+6ed8fc25-0e26-4985-bda2-527bf4c11757,2025-09-25 09:24:24,It seems okay. Fine.,neutral,68,no binario,Oeste
+9ccdc88d-0a69-436b-8222-9efd17433942,2025-10-10 01:53:03,It is difficult.,triste,53,femenino,Sur
+ca7ef965-1f3e-43f0-bc03-4621775d4ecf,2025-10-07 00:16:00,This is wrong and not good! Wrong!,enojado,67,masculino,Centro
+3353096e-1cf4-4856-8a3d-d3acc9bb07ee,2024-02-05 11:18:43,This is bad! Wrong!,enojado,66,femenino,Este
+530ee6f3-292d-44a7-b3e6-58dacb2598cf,2025-10-25 21:11:45,This is disappointing and bad. Bad.,triste,63,masculino,Este
+0e75949a-c94f-46b6-9ca0-d3527439de43,2025-11-20 08:28:02,I feel excited.,feliz,36,femenino,Sur
+2751cf10-edfc-491e-a1c2-2dc5c6dcbe1d,2025-10-23 15:39:30,It looks interesting! Wow!,sorprendido,26,no binario,Norte
+969ccb26-2aeb-4566-b026-ff2dc720c37a,2025-02-25 14:18:08,It seems fine. Normal.,neutral,18,masculino,Norte
+6d4d8b60-0716-42aa-b581-d06b3cdc573e,2025-08-17 16:54:09,Seems quite love and happy.,feliz,29,masculino,Oeste
+53502738-b1f8-4d5d-acc7-a02838a5ae4c,2025-07-01 11:39:49,This is wrong.,enojado,35,femenino,Este
+4f478dba-8cd0-4bf2-9ca6-1ace03461189,2024-05-13 04:40:53,I feel amazing!,sorprendido,46,masculino,Centro
+82ba8294-4a26-42bd-858d-c61331065ab5,2025-09-05 21:00:23,Quite strange and surprised. Interesting.,feliz,63,no binario,Este
+70e37f0a-9311-44a9-a991-814938ec8fdc,2024-09-06 16:44:41,I feel typical. Okay.,neutral,30,no binario,Este
+2238c324-fc13-4305-8b3a-60fb8531beb4,2024-12-22 17:29:05,I do not like this.,enojado,28,masculino,Oeste
+f44c975a-e620-4d60-9984-29e7f0497bed,2024-02-03 21:43:57,I feel shocked! Wow!,sorprendido,21,masculino,Norte
+06b462f9-587e-4275-b98f-303a883abec4,2024-10-29 09:42:26,It looks outraged and furious!,enojado,26,femenino,Centro
+766b6285-a75a-4f42-88f2-3e74d8584efc,2025-05-15 11:21:04,Everything is incredible and wow! Wow!,sorprendido,50,no binario,Oeste
+39ef2007-bc46-4f5f-a945-034c2476599b,2025-03-05 09:23:15,This is annoying. Bad.,enojado,27,masculino,Sur
+b1f0a11b-a77b-43fa-9464-be2d2ae4808b,2025-05-15 07:36:39,It seems interesting and good.,neutral,48,femenino,Norte
+1c0d4652-cffd-488b-a47c-c4280419d1dd,2025-06-03 09:30:01,Everything is joy!,feliz,30,masculino,Norte
+3e70607e-0f5e-4f39-8306-74cdfa8ec77d,2025-04-29 02:18:13,It looks ridiculous!,enojado,55,masculino,Sur
+54047993-182f-4af4-ba9c-986ba1ddcf8e,2024-02-18 10:30:33,This makes me feel unexpected! Wow!,sorprendido,35,femenino,Sur
+fabd9063-431b-49ed-92f9-ae683c1d924e,2025-03-09 01:33:53,Quite strange and unbelievable!,sorprendido,64,masculino,Centro
+948121c6-866f-4f0f-a28d-1e059fd35781,2025-05-25 16:57:57,This makes me feel bad.,enojado,31,femenino,Este
+d7585f05-7518-4315-b688-fcc06499ea5f,2025-12-29 13:35:05,This is incredible and unbelievable.,triste,21,no binario,Norte
+c35f06d5-24e2-4022-b68a-3929a63eb316,2024-06-02 14:38:41,It looks good. Good.,feliz,31,no binario,Norte
+b002aae2-8f7b-472c-a94c-3d1cd56acda4,2025-09-09 02:55:51,It seems crying and crying. Not good.,triste,34,femenino,Sur
+387b6159-6e2f-4044-a845-0aae65429947,2025-05-25 16:41:56,This makes me feel bad and difficult.,triste,68,femenino,Sur
+eae18d45-5ca9-4857-8da8-66b70e51c571,2025-11-02 17:54:46,It looks mad! Wrong!,triste,18,masculino,Este
+8ebdee89-c43a-453c-8361-ad0b13fa0f61,2024-02-18 11:48:43,Everything is hate.,enojado,30,masculino,Norte
+f5c1c7fe-3638-4bc3-9b47-1bb0bcdbb494,2024-11-02 12:27:29,It looks positive and good!,feliz,53,no binario,Centro
+7e9c4dd6-f28d-40d6-b53f-ed6522ea9e5e,2025-06-10 07:30:41,It looks disappointing and difficult...,triste,30,masculino,Sur
+5c016fb9-7028-4816-909f-dff17fcba726,2025-09-09 14:53:47,It seems smile.,feliz,25,femenino,Este
+90b71e8e-41ed-4b5f-a402-55c85e5b1907,2025-06-03 10:42:18,This makes me feel terrible. Not good.,triste,60,femenino,Oeste
+3c40aa12-0ff7-4220-abb1-423272e2dd4e,2026-01-04 04:20:24,I feel devastating and awful.,triste,33,femenino,Este
+5bfa998e-79fd-481a-a7f4-fa0c2c1238c5,2024-07-28 22:04:15,This is wrong and terrible.,enojado,38,no binario,Norte
+9f4aa7cf-9231-454e-9295-f3df83acf448,2025-03-30 01:34:38,This makes me feel angry and angry. Bad.,enojado,48,no binario,Oeste
+53cb527e-d8b6-4e0d-b881-dc63d5cc7408,2025-05-09 11:09:20,It seems interesting. Normal.,neutral,61,femenino,Este
+b3d16f63-3be9-44ca-8549-e1d22f25660a,2025-08-08 04:53:36,I feel hard. Bad.,triste,45,femenino,Norte
+41307bf6-a2bb-4602-be50-db5dac7e933f,2024-08-20 17:21:08,Everything is great and love. Good.,feliz,42,femenino,Sur
+e880fab3-f85d-4f14-9c25-a7ae2c71b006,2024-06-24 16:36:18,It seems surprised!,sorprendido,23,femenino,Centro
+883804dd-f9f6-473a-8a7c-8ea50d4b5a45,2025-12-05 08:58:21,This makes me feel joy!,feliz,44,femenino,Este
+b01aa9d4-dd30-4b30-98a7-f76ffc204dca,2024-06-26 16:30:47,I feel great!,feliz,50,femenino,Centro
+41dd683d-8f75-41eb-9e99-a28c84117526,2025-09-25 09:42:22,This makes me feel interesting. Fine.,neutral,27,no binario,Norte
+613e9ae1-92de-4d09-9773-883a8a2f7cd1,2024-07-15 08:03:39,I think it is outraged!,enojado,69,no binario,Oeste
+11fd293c-c795-4784-a218-c94228394d30,2025-06-20 00:53:13,I think it is regular. Okay.,neutral,28,no binario,Centro
+1aaab5dc-8b7a-482b-bc98-2819390080e2,2024-04-21 02:49:55,Seems normal.,neutral,53,no binario,Centro
+acb95a24-df73-4d09-8940-12eb27f1b2be,2025-01-19 05:45:02,I feel furious and mad.,enojado,36,no binario,Norte
+279a15e8-60dc-40cb-878f-d02158daff6c,2025-05-09 13:30:44,This is hurt and hurt...,triste,49,femenino,Norte
+f44fe2d7-00f0-44f8-9b63-0f32e542d2fb,2024-06-30 22:06:47,I think it is fine and bright. Nice.,feliz,45,femenino,Este
+b97c2270-de35-42e6-9252-01a17370f1cc,2024-05-15 06:14:07,This is not good...,triste,21,no binario,Sur
+31b29dbb-e424-4117-96e3-019a1837099e,2025-11-03 04:01:52,It looks typical and typical. Normal.,neutral,34,masculino,Este
+e7ab1872-093e-4d5e-b8d1-eafdcb57d2b0,2024-08-10 01:03:51,This makes me feel ridiculous! Wrong!,enojado,22,no binario,Oeste
+6a85934b-6290-47b8-9cb5-98404740afd4,2025-10-17 23:00:15,I feel incredible! Wow!,sorprendido,32,femenino,Oeste
+8a39acb6-9055-4296-be37-9e5d0c329da6,2024-07-18 18:59:09,This is different and nice. Fine.,neutral,39,no binario,Sur
+565fac1b-797e-417b-9f8d-e4a28652a04e,2024-08-09 02:49:19,I think it is surprised.,sorprendido,68,masculino,Este
+9bd2194f-e879-4652-9d5c-ad0b62a1e067,2025-03-20 00:35:21,I feel good and love. Good.,feliz,43,masculino,Este
+b1bf9230-82f3-4673-b8f3-29280a6a8b2e,2024-12-05 07:10:26,I feel disappointing and disappointing. Bad.,triste,28,no binario,Norte
+557c4d7c-86fb-46f7-b6fa-83c0475e4c8c,2024-04-23 11:50:27,I do not like this.,enojado,27,femenino,Oeste
+b1d32552-8d4d-4440-aaf9-002bcfc0df92,2024-03-12 04:10:47,I feel furious and outraged.,enojado,47,masculino,Centro
+e00f2a50-4ee6-4714-8ba9-3b4580b07b31,2025-12-18 00:55:53,Seems quite not good...,triste,37,no binario,Norte
+ba9fbfb4-1fe9-4b97-9ca2-b72718b9c187,2025-05-28 18:58:35,Seems quite unusual and unexpected.,sorprendido,63,masculino,Oeste
+02564da4-1f7a-43ad-b14a-7b4499910291,2025-01-31 19:01:43,This is annoying.,enojado,59,femenino,Sur
+da39fd0f-0a6f-4f43-bd6d-adecdbc44805,2024-11-16 04:22:23,Seems quite good.,feliz,55,no binario,Este
+e3dc7725-7d6f-4908-8a58-aeee3cc510bd,2024-08-17 05:01:32,I do not like this! Wrong!,enojado,23,no binario,Este
+61c77520-fcae-4478-b79f-934120064c3c,2024-02-06 19:45:35,Pretty standard and regular. Normal.,neutral,24,no binario,Centro
+7f8ceb1f-4e2e-4a5c-b90f-ab4d1b4f278e,2025-10-21 13:51:36,This is difficult and hard...,triste,69,no binario,Norte
+667645fd-eadc-4a66-83cb-5b61ec0cecba,2025-03-23 05:37:33,Seems quite standard.,neutral,22,masculino,Este
+8a722436-35b7-4875-8f48-d4a09cce2cb3,2024-05-29 04:48:23,It looks normal. Okay.,neutral,33,no binario,Centro
+ee408d2f-6016-4d44-a967-258c6ed1de4c,2024-10-08 12:49:52,This makes me feel shocked and wow. Interesting.,sorprendido,32,masculino,Sur
+18b92e06-4495-467c-b7a4-59aa8f3406c7,2025-06-19 01:54:32,It seems fine!,feliz,64,femenino,Oeste
+ed1369aa-b36a-463c-afd2-702e9e51cecc,2024-02-15 18:16:07,Everything is typical and fine. Normal.,neutral,54,masculino,Oeste
+a1dd9d27-9978-4446-9420-99f7ffa3ad1d,2025-05-27 05:18:21,It seems not good. Bad.,enojado,41,femenino,Oeste
+309ffde0-ceec-4279-b586-208e7779df81,2025-11-04 10:02:00,I feel ridiculous and mad. Bad.,enojado,58,no binario,Este
+de84eec9-6715-48b6-9007-ad5002eceb62,2025-11-15 17:14:00,Everything is hurt and devastating...,triste,27,masculino,Sur
+c1286d48-0b06-45c7-80a4-571b65750bbb,2024-11-16 03:28:55,This makes me feel terrible. Bad.,enojado,30,no binario,Centro
+1a2de3af-a716-4185-80c6-b9ba5340b9a0,2025-03-18 17:01:27,I am okay with this and well!,feliz,49,femenino,Centro
+8182277b-9b2f-4ded-b5c5-d29341d56d75,2024-06-09 01:04:50,It went well and bright.,feliz,22,femenino,Centro
+59475a54-a151-404b-b0d7-5a752ad6cf45,2026-01-12 07:40:10,Seems quite sad.,neutral,30,masculino,Oeste
+23fdcc5d-b61f-4e4e-afa8-d3db35d2c35a,2024-10-03 12:57:52,Seems normal.,sorprendido,54,femenino,Sur
+cfbc149a-f015-454f-97e2-df5ec638f204,2025-12-24 00:37:49,It looks difficult.,triste,29,masculino,Oeste
+25ffc2eb-4dca-4484-ab1f-cf68e3f84c85,2024-03-30 09:29:32,Everything is not good. Bad.,enojado,46,no binario,Sur
+1b1810f8-a652-4782-9c7f-c0c2e2a13d57,2024-10-21 20:05:58,Pretty bad. Not good.,triste,18,masculino,Oeste
+afb8b05b-1fa7-4653-8cb1-2b9291d08193,2025-06-01 14:18:47,It looks angry. Bad.,enojado,50,masculino,Centro
+a7c3f4e1-1b0a-4839-bd41-50a8e3d36447,2024-08-05 09:14:42,I think it is mad.,enojado,66,masculino,Oeste
+26afa177-4c88-47cf-8f0a-fad8c95d1cd3,2024-12-21 13:59:22,This is wrong and stupid.,enojado,24,masculino,Este
+aeeeea71-e491-43b4-84c9-2dacb4afeb70,2025-05-31 07:00:06,It looks interesting.,neutral,37,no binario,Oeste
+d686c8c9-4373-4b2f-be52-5bcc9638545f,2025-11-04 09:38:49,It is difficult. Bad.,triste,20,femenino,Norte
+fc1122f4-de47-4c47-a7e4-e4f0462520bd,2024-08-22 20:15:13,Seems quite strange. Interesting.,sorprendido,32,femenino,Norte
+96d280fc-56de-4541-8173-18ddab30cc0a,2024-08-06 13:53:04,I think it is annoying! Wrong!,enojado,41,masculino,Norte
+0481e88f-a2b0-4715-ade2-3cb7594acf91,2024-07-08 17:53:42,I feel amazing!,sorprendido,33,femenino,Centro
+ea0960d6-8ad8-4703-9ce9-4e8f4dd4bda4,2025-01-25 21:54:55,This makes me feel awful and hurt.,triste,53,masculino,Norte
+1a60612a-d406-4221-b93f-ea6556213a7d,2025-12-06 18:58:25,It seems regular.,neutral,47,no binario,Norte
+228002e4-ff8b-4b88-b9ca-0f5e20936321,2025-10-26 06:27:01,This is ridiculous. Bad.,enojado,58,femenino,Centro
+230bcddb-8ac4-46bb-9c9e-dcee8a12b229,2024-06-11 19:54:42,I am okay with this.,feliz,46,masculino,Centro
+99f26c94-955e-481d-9721-a39ce86fdf6a,2025-02-21 09:31:11,I think it is outraged! Wrong!,enojado,47,no binario,Centro
+107de04e-253f-4e11-a471-ebb5135973fa,2024-11-18 21:27:26,Seems quite unbelievable!,sorprendido,20,femenino,Norte
+a9221e2d-996e-4fa5-9b4c-179d1ccdbeb9,2025-02-01 04:10:30,Everything is wow!,sorprendido,63,masculino,Este
+ed0c1344-3904-4d3c-aeb3-137af166edb2,2024-11-17 12:58:23,It seems standard. Normal.,neutral,24,masculino,Oeste
+3f1453c4-c961-411f-a2e0-8348566583d1,2025-05-13 08:43:29,This is not good and crying.,enojado,63,masculino,Oeste
+8b0ac040-134c-40de-9ddc-f121ab6e54e8,2025-07-25 13:54:05,Everything is unexpected! Wow!,sorprendido,48,no binario,Este
+a42aa82d-545d-474e-a800-b0591b75df56,2024-05-09 15:57:07,I think it is amazing. Interesting.,sorprendido,49,femenino,Este
+ef5525ae-2c03-4d1b-9570-97dd62a015fd,2025-03-25 10:20:33,It looks fine and standard. Okay.,neutral,36,no binario,Este
+4618ae2b-6ced-48be-bb7e-6690ce3d21fd,2024-12-22 13:44:46,This makes me feel amazing and incredible.,sorprendido,36,femenino,Oeste
+2ed92eed-bc4e-46dc-91ba-c4431ca8103e,2024-05-14 19:38:27,It seems nice and well. Good.,feliz,38,no binario,Este
+aa6b64b4-c189-40da-8ddb-3c78cffe809b,2025-02-09 21:29:09,This is annoying and mad! Wrong!,enojado,67,no binario,Centro
+ce74ad09-1eae-47fc-a76e-97c09adb445e,2024-12-19 16:03:50,This is bad and mad.,enojado,41,femenino,Centro
+2c21eec1-9ba9-4c24-9713-39364b17f2a6,2024-02-19 02:50:49,It went well and happy!,feliz,54,no binario,Oeste
+83a3a423-48b5-4522-8555-b2adc5435453,2025-10-24 04:49:14,This is hard...,triste,57,no binario,Sur
+21c6a41e-7ca0-4d1e-934a-9a5577506236,2024-08-20 15:01:11,It seems terrible and sad.,triste,61,masculino,Norte
+c6a8dc74-7d18-4bc4-b691-f5351e4c4c07,2025-10-23 12:51:55,It looks angry! Wrong!,enojado,68,masculino,Norte
+bab5102f-f7b8-4eda-9f67-34b22cdc9c42,2025-12-09 17:55:48,It looks interesting! Wow!,sorprendido,49,femenino,Sur
+2677ee9d-4985-401d-b25e-fd982be3e9f9,2025-10-29 18:47:53,I feel smile!,feliz,20,no binario,Norte
+52390ef1-18a4-4c42-beb6-6e36b7ee0962,2024-07-01 19:05:38,It looks love and wonderful!,feliz,31,no binario,Centro
+5f62bfa6-984a-4e00-b046-15b158ef83cb,2024-09-21 20:07:31,This makes me feel well.,feliz,19,no binario,Sur
+b516f33b-612c-4b9e-9d4e-407c95f611d1,2025-11-13 23:15:19,Seems quite awful. Not good.,triste,51,masculino,Este
+44f25ad7-61a1-4e76-bfb1-155fb9720aab,2024-01-23 22:18:15,Pretty standard.,neutral,20,masculino,Sur
+33d015df-0ebb-491c-815a-f7cb492aa667,2024-12-11 08:00:54,Everything is okay. Nice.,feliz,54,femenino,Sur
+ce7a233c-3482-41b9-a729-84bb348e5a07,2024-03-06 08:32:18,It seems hate. Bad.,enojado,59,masculino,Centro
+2faee4f2-d2ec-4dfc-aabf-edd1eb8488b3,2025-04-01 03:14:01,Seems quite devastating...,triste,21,no binario,Centro
+beb7d4a7-b06a-42f3-8c31-1526b595ba15,2024-10-01 20:44:55,It seems sad and hurt.,triste,28,masculino,Sur
+17ba838e-59df-47d9-b015-f59d63330a54,2024-07-14 20:56:23,It looks not good!,enojado,45,femenino,Oeste
+cec8e361-b2e8-4045-ab8e-ce0e617315c6,2025-02-05 20:40:36,Seems quite difficult. Bad.,triste,19,femenino,Este
+2dcf6555-f16c-480f-a647-79f85f0572ee,2024-10-17 22:45:20,Seems quite unexpected. Interesting.,sorprendido,37,masculino,Norte
+c8108882-62bf-42d7-a276-af09fe4dd21a,2025-04-07 00:49:33,I feel wow and incredible.,sorprendido,52,no binario,Oeste
+e39ad05d-7744-4d0d-baf0-82b672a065ca,2024-01-31 06:03:37,Everything is okay.,neutral,31,no binario,Norte
+f23fd1ef-8a94-4bda-84d5-6d8bc2820436,2025-02-15 02:36:35,Seems quite okay.,feliz,24,no binario,Norte
+b3f510d7-369e-4762-845b-2b60e6cec22f,2025-06-09 12:15:22,Everything is happy. Good.,feliz,25,femenino,Sur
+122a1b46-ba8a-4ccd-82be-b482e9d64e35,2025-05-17 01:36:57,It looks unbelievable! Wow!,sorprendido,37,masculino,Centro
+188336a0-e86d-435e-9c79-3e0245ed4484,2024-03-18 06:10:42,This is hard. Not good.,triste,53,no binario,Norte
+25465ccc-c9d9-41bf-b5fe-c9e773434f9b,2025-06-14 22:06:15,This is hard...,triste,60,femenino,Este
+3bd4a3c2-c363-44d4-a7e4-6f323784b615,2024-09-21 07:00:03,I am okay with this!,feliz,29,masculino,Norte
+10be82e2-34f0-4f21-b7c3-b52cdff71aca,2025-07-22 03:47:51,It looks positive and well. Good.,feliz,40,no binario,Oeste
+a4f3a2bb-30a6-45a5-a7d1-04fb533c23f9,2025-02-14 15:58:03,This is well. Good.,feliz,38,femenino,Sur
+9214a371-7962-4604-8154-9aae28886501,2025-04-07 04:13:34,I think it is well and good. Good.,feliz,44,masculino,Norte
+0e38b7bc-5c16-4da6-9418-bd7174f307cc,2025-08-16 14:00:06,This is interesting and unbelievable! Wow!,sorprendido,51,femenino,Norte
+1e2761e2-122b-45e9-9349-811d4abb1304,2024-10-02 10:49:12,This is furious and angry! Wrong!,enojado,41,no binario,Norte
+71e3fd8a-b181-4253-85b1-66baa8c41875,2024-03-31 14:34:57,This makes me feel unbelievable and shocked. Interesting.,sorprendido,43,no binario,Este
+e42ffc72-e13a-4267-800c-0a59aacdf9e9,2024-08-19 22:04:54,This is fine.,neutral,46,masculino,Sur
+b57b17bb-fb9d-4981-8051-a538a760a56e,2024-10-23 23:37:00,This is nice. Good.,feliz,67,femenino,Este
+84ca1590-cfad-4085-97f8-4216ef488157,2024-03-09 13:31:02,This is hate.,enojado,66,no binario,Este
+c35a4b66-355b-4b78-9283-7a4f4d18224a,2025-05-03 08:05:10,This is standard. Okay.,neutral,53,femenino,Norte
+5558b8ba-2b59-4b02-99d1-d6671bcd009c,2025-01-05 14:16:01,This makes me feel hard. Not good.,triste,59,femenino,Oeste
+6cfde0f8-e87d-4cdb-bc36-024b7b04d5f2,2024-05-09 00:49:26,I think it is typical. Normal.,neutral,59,no binario,Centro
+2bb25b15-35fa-4d88-88ed-bd1c76d936ce,2025-06-17 05:44:37,Everything is fine and typical. Normal.,neutral,52,no binario,Oeste
+6613337f-aa14-43fc-b703-3906020cc95b,2024-12-22 02:09:06,It seems excited. Good.,feliz,65,no binario,Centro
+51223a44-1eb4-4856-a841-5d7fe3b02071,2024-03-02 16:41:11,I think it is terrible. Not good.,enojado,35,masculino,Oeste
+8f24fad1-43d0-4def-afcc-a3dca5490291,2024-02-06 01:09:46,Pretty standard. Normal.,neutral,18,no binario,Norte
+cd279b25-1642-4dee-b3c2-4e37b3990d0e,2025-10-19 13:42:55,Pretty standard. Normal.,neutral,37,femenino,Norte
+68297199-08c1-4bf2-bd17-fdede6aeb2fa,2025-03-18 10:48:51,Quite strange!,sorprendido,63,no binario,Centro
+5625f51f-54f0-4b7d-8f2c-5ea24b1b3514,2025-08-19 01:39:02,This makes me feel not good.,triste,44,masculino,Sur
+20015b1f-cf15-4e7b-b8d5-0f0c23b6c620,2024-06-02 16:39:00,It looks ridiculous. Bad.,enojado,65,masculino,Oeste
+89fa4970-44c3-470e-89da-9a46b8f25560,2024-12-12 17:31:56,Seems quite surprised and surprised! Wow!,sorprendido,20,no binario,Centro
+1d8b2ac1-8a11-4c15-a664-280f67ab283b,2024-06-26 02:12:47,This is shocked! Wow!,sorprendido,34,no binario,Centro
+da8743ec-3bf2-4b1d-8c0a-9e1b18e4bb07,2024-02-05 01:29:26,Everything is incredible!,sorprendido,61,femenino,Sur
+a20fe4ab-da75-4b72-9c51-b0ecfcf63f39,2024-06-07 03:33:43,This makes me feel devastating and devastating. Not good.,triste,54,masculino,Oeste
+dc249310-641c-42d0-8aa1-e692bdefb47b,2025-02-26 18:14:49,I do not like this! Wrong!,enojado,37,masculino,Centro
+43341359-0c51-44cc-8948-7cbc2afdf5d4,2024-06-19 18:22:33,This is interesting!,sorprendido,20,no binario,Sur
+6488e9a6-0ae6-4f8e-9b7d-5c53e901fa34,2024-08-25 02:37:21,Quite strange and wow!,sorprendido,22,masculino,Sur
+d77863e3-e8cc-461c-8931-818aeb955085,2025-02-11 18:54:44,I feel unbelievable! Wow!,sorprendido,47,no binario,Centro
+bdd057fe-cd55-43f1-ab06-b1f176eb9b47,2024-02-21 10:34:15,I feel not good and annoying! Wrong!,enojado,30,femenino,Centro
+c055b750-dab4-4926-babe-c70269ffd538,2025-03-19 13:01:10,I think it is normal. Okay.,sorprendido,53,masculino,Este
+bf8615fd-bc1b-4c32-8472-3b34e6da11df,2025-02-02 03:54:50,It is what it is. Fine.,neutral,54,masculino,Sur
+d5e41394-85d2-4a2b-a12e-62098684685e,2025-09-27 22:25:39,Seems quite wow and incredible!,sorprendido,57,masculino,Oeste
+b06948ad-6a68-41e8-a1f4-ae5b1db28cfc,2024-04-15 18:12:43,This is hard...,triste,32,no binario,Norte
+cbb74256-e5d4-4745-9718-c64d2ac7f612,2025-10-28 23:46:06,It looks unbelievable!,sorprendido,68,femenino,Norte
+23a25e10-f323-43c3-b1ca-298a8dfc463f,2024-02-14 10:57:20,Seems quite nice and well. Good.,feliz,56,masculino,Este
+fcba357d-3b5b-451d-aa3e-8db1eb7446ab,2025-06-03 21:25:44,This is great and smile!,feliz,68,no binario,Centro
+c5ec4a44-dd04-44d7-b437-27f9b31eff7f,2025-07-27 03:59:23,It looks well.,feliz,41,femenino,Norte
+5b7609c1-bd7a-49ed-ad5c-8c80cc23baa6,2025-06-27 19:40:18,I feel bad...,triste,37,no binario,Este
+3986930b-2618-4031-a1d6-20790a22ee08,2024-06-20 12:43:23,Pretty standard and standard.,neutral,40,no binario,Este
+d0cb536c-6e55-4024-af7d-2f359d3b322b,2024-05-17 02:01:52,This is bad! Wrong!,enojado,42,femenino,Este
+f562a849-21a5-413c-b6f4-283d1e6ce17f,2025-06-08 05:53:58,Not good!,enojado,58,femenino,Este
+cbcd5c35-176b-42ad-b515-2c426e194fe1,2024-03-12 18:04:44,I do not like this and bad. Bad.,enojado,53,femenino,Centro
+12d08ff4-b329-49c1-b710-24e1ebf1f0e2,2025-03-25 10:43:50,Pretty bad.,triste,61,no binario,Este
+d80357a6-d18e-46e5-ab22-89d4015248e2,2025-12-02 19:49:06,I think it is stupid. Bad.,enojado,32,masculino,Sur
+54aa0b00-6374-4be8-8d7d-d45ecb22be7a,2024-04-15 23:35:58,It looks devastating. Bad.,triste,45,no binario,Este
+9dc94bdc-05ff-419c-9969-25d5dea60d11,2024-01-23 00:25:20,Seems normal.,neutral,50,masculino,Este
+22f92334-a996-43b8-980f-31c3595e8385,2025-04-10 08:07:18,It seems tough.,triste,45,masculino,Sur
+e37a7200-5bf1-4c37-9c17-1b174149f081,2025-08-08 15:53:21,Quite strange! Wow!,sorprendido,34,no binario,Este
+f756d7f4-5ed8-45df-a588-8e24ff1041cf,2025-03-21 20:01:59,It looks incredible and unbelievable. Interesting.,sorprendido,65,femenino,Sur
+2964de6b-a956-42ae-a62d-86a5f2b4eee4,2024-11-29 04:31:41,This makes me feel different. Fine.,neutral,33,masculino,Este
+efc6a6e2-f69e-4ef7-b37c-a8e300abfb56,2025-03-12 23:32:58,Everything is nice. Okay.,neutral,25,femenino,Norte
+dd144436-6e48-477a-b2d5-79520b9c8b48,2025-02-16 02:46:22,I do not like this!,enojado,68,masculino,Oeste
+0f81398e-b2a0-417f-9877-0016b2bf73f8,2024-03-03 03:55:12,Everything is good.,feliz,38,femenino,Norte
+6a694325-c5e2-496e-aff7-89b30c476898,2024-08-03 08:33:41,It seems furious!,enojado,21,femenino,Sur
+1fc846ef-cfef-444d-b8a1-1195de5f8ecb,2024-03-26 19:55:19,Everything is different and interesting. Okay.,neutral,53,masculino,Sur
+1b6a463e-8565-43f6-820e-998cb7f0c82c,2025-02-25 05:07:55,Not good.,enojado,34,femenino,Norte
+d9009117-5c6c-4155-bfcd-c2585e88e413,2025-06-30 22:47:45,I do not like this and not good! Wrong!,enojado,66,masculino,Norte
+ef48d09c-9644-4535-b462-67c754eb36ed,2024-04-28 00:42:42,This makes me feel unexpected. Interesting.,sorprendido,52,masculino,Oeste
+e11db18c-f084-422f-bfa3-c67cfd7ce888,2025-02-10 14:31:47,Everything is nice!,feliz,18,masculino,Centro
+8119f688-c1ab-46c9-9606-c4321c25d0c1,2024-05-30 18:16:48,It seems incredible. Interesting.,sorprendido,55,no binario,Sur
+10b8ef86-8ed6-4edb-8585-e2230f9fedda,2024-08-26 10:17:22,I feel typical. Fine.,feliz,56,no binario,Este
+47de9a02-d247-4565-a4c1-90f8d710f9c5,2025-08-16 04:49:06,Seems quite love.,feliz,40,no binario,Centro
+0edb2b61-2fea-4d92-b87d-2738c137fb72,2025-05-25 02:09:09,I think it is love and smile.,feliz,63,masculino,Sur
+7ee38a94-07b0-4e8a-982c-4be2f3790872,2025-06-23 12:56:13,This makes me feel difficult.,triste,67,no binario,Norte
+8164f226-ea97-4ddc-b7b6-d48cbdcc7622,2024-02-24 06:16:41,It seems crying and hurt.,triste,59,no binario,Centro
+0f44d3fd-0a18-46ba-ab4f-d135b4abbab8,2025-11-27 15:36:59,I feel good. Good.,feliz,25,femenino,Sur
+77b51b9b-561a-407f-8c85-619b31d24216,2025-02-08 03:28:47,I feel awful.,triste,66,femenino,Sur
+48d1a9a2-f626-4d06-bd2e-76032374a784,2024-05-15 07:30:32,I feel different and strange! Wow!,sorprendido,65,femenino,Sur
+606d311f-39f2-4c70-9030-b21c1085d74e,2025-02-01 17:41:27,Pretty good and okay.,feliz,43,no binario,Este
+384aa372-b328-4045-9f48-d5a28cf36613,2024-08-28 09:10:13,It looks shocked and incredible.,sorprendido,31,femenino,Este
+adbf21ca-0fe5-4bbf-a7ce-723f904bed5d,2024-10-26 11:56:43,This is annoying!,enojado,40,no binario,Sur
+3663577a-4ba9-4fd6-842d-601530250532,2025-01-28 10:28:54,Everything is good!,feliz,18,masculino,Oeste
+189f8bb6-4f78-4b98-9992-a15cfd818a5b,2024-01-22 15:55:37,This is incredible and wow. Interesting.,sorprendido,61,femenino,Oeste
+87c70175-b516-4744-8160-431be33b5cc1,2024-11-21 12:07:44,Seems quite ridiculous!,enojado,55,femenino,Oeste
+6fb2d1e2-59d5-4824-a69b-07f2ee802c77,2024-05-27 12:42:54,I feel well and fine.,feliz,47,masculino,Centro
+f75e584a-83ff-453f-9e6b-3b0744cd9bc3,2025-06-15 14:52:11,This makes me feel incredible and wow!,sorprendido,56,masculino,Sur
+572cd248-f6bf-4dc6-aaca-bdb4128e2e57,2025-10-16 17:02:34,I think it is incredible.,sorprendido,68,masculino,Centro
+d9d642a7-413e-4275-9978-f6fea196a151,2024-12-21 04:15:32,I do not like this and hate.,enojado,22,masculino,Norte
+abd9a9b0-a183-4f69-9132-34a287efb1f0,2024-10-01 20:24:15,This is different! Wow!,sorprendido,42,masculino,Este
+a6948da5-9850-4c3d-b18d-da1685eb91a0,2024-08-02 17:42:06,This makes me feel surprised!,sorprendido,32,masculino,Norte
+b8ecf385-d9c9-4842-8f2d-30f5c43adad2,2024-06-10 10:38:37,Pretty standard. Okay.,neutral,23,femenino,Norte
+d76026b9-04ed-4478-9db8-aaf46261f701,2024-12-24 04:48:56,It looks wonderful!,feliz,41,no binario,Norte
+cbf24083-f2b4-48cd-941f-5b4a2ccfc1b5,2024-08-19 20:21:47,I feel positive. Good.,triste,21,masculino,Este
+48dad005-63b3-4acb-83b1-da756a8ae9d1,2025-03-31 23:00:03,This makes me feel happy. Nice.,feliz,41,masculino,Oeste
+361fabb2-9478-441a-b086-9414f4f9fc99,2025-04-25 15:27:56,Everything is great and smile. Good.,feliz,31,femenino,Oeste
+abd4ec61-ce38-4d17-abb6-c7808aec8549,2025-02-15 07:36:05,This is fine. Okay.,neutral,21,no binario,Este
+e3099e39-301e-4555-b8a0-c9057d82c5ff,2025-10-19 10:19:09,It looks amazing.,sorprendido,31,no binario,Norte
+eca22647-009e-4971-af32-05362fc10179,2024-02-09 14:57:26,This is hard. Not good.,triste,26,no binario,Oeste
+4bd4c765-70f6-4ad5-b289-d6b2a95ff336,2025-03-30 20:53:16,I feel good and fine.,feliz,68,femenino,Sur
+50a2bbb5-cfda-4128-b789-3f9f8b3b7037,2025-12-04 06:45:09,Pretty unusual!,sorprendido,67,masculino,Oeste
+0308d40f-6106-4c13-96ec-0859b8ab7b65,2024-09-08 04:25:32,Not good and not good! Wrong!,enojado,53,femenino,Centro
+bb4e2e1f-709a-4619-bfe1-eea8c1d220c8,2024-11-13 08:27:01,Seems quite amazing and incredible.,sorprendido,45,masculino,Sur
+91609bea-65c7-42d6-a2ff-88a890bc3280,2024-07-08 00:02:49,It seems hard.,triste,54,masculino,Centro
+e3a23005-17af-4ee4-a557-04b48a18f4c2,2024-05-10 21:18:35,I feel standard. Normal.,neutral,67,femenino,Este
+8cb6061d-4ace-4d33-9ce6-40c9199247cc,2024-03-04 10:58:45,Everything is good.,neutral,44,masculino,Centro
+9b6240af-949f-4d04-a8f2-afcab7c91878,2025-09-22 18:15:20,I feel love.,feliz,28,no binario,Sur
+f317b938-62f3-4b5c-a155-44016789402c,2025-10-01 19:45:19,This is interesting! Wow!,sorprendido,41,femenino,Norte
+2e62f531-ea61-434b-9d2b-94e77047aed6,2026-01-13 08:37:12,Pretty good!,feliz,28,no binario,Norte
+74503bbd-be30-4efc-827a-cd96522f1caa,2025-01-01 15:53:16,It looks different. Interesting.,sorprendido,59,masculino,Este
+ca350a3e-bee1-4318-8f6d-458ef424d78c,2024-09-29 17:46:03,It seems shocked and shocked. Interesting.,sorprendido,20,no binario,Sur
+ba1bb312-bf96-44b6-a60e-6acf7f4ac3c9,2024-11-25 20:24:52,It looks well. Nice.,feliz,43,masculino,Oeste
+9b7fc3fe-2da6-414a-9441-c3e0017b7134,2025-02-16 18:41:19,Everything is nice. Nice.,feliz,65,no binario,Norte
+d56c4a3e-bf83-41a5-8180-dac2850d837e,2024-03-29 12:49:27,I think it is devastating...,triste,33,no binario,Oeste
+f098c4e1-4f5c-467d-aeba-dd3e19a90422,2024-11-09 12:17:20,It seems wow.,sorprendido,23,no binario,Este
+e4e0af64-0b16-4683-a582-aaa5add9e7fa,2025-01-28 03:46:53,It seems difficult...,triste,27,no binario,Centro
+318098b1-d646-4e5a-8991-4dc06a21f9bc,2024-04-11 18:06:39,This is different!,sorprendido,40,femenino,Oeste
+e9ac7c69-ff42-4ab2-9376-8a8bcee5555d,2025-01-03 11:42:39,I do not like this!,enojado,65,femenino,Oeste
+b361c785-03e0-4f50-bf16-b02a9f5ef9e6,2024-04-03 23:13:46,I feel wrong.,enojado,24,femenino,Oeste
+149d5b5d-129f-4897-bed6-f0def3831e3a,2024-08-26 05:22:37,It looks awful and devastating. Bad.,triste,23,femenino,Norte
+8f52e47c-8fc6-45d5-a766-c270023b3e94,2025-08-09 08:09:43,This is good and bad. Fine.,neutral,36,femenino,Este
+84bc5b29-a069-4fea-9ee5-7c7593011d6d,2024-05-26 05:21:04,It seems bright. Nice.,feliz,31,no binario,Centro
+a2b29ba9-8824-4fbc-9832-2b82fe8ae255,2025-12-04 16:35:05,I feel crying. Bad.,triste,25,femenino,Norte
+662b093b-7553-46eb-bf18-d7d95a78310b,2025-03-26 06:56:04,I think it is hurt. Bad.,triste,51,masculino,Este
+4fb4fa7c-7e5d-447b-9b13-eb6b6bd3baad,2024-03-14 23:49:12,This makes me feel awful...,triste,19,femenino,Oeste
+ec1281c6-2914-4859-9474-050ebd50e20f,2024-08-28 21:51:11,I feel bad. Not good.,triste,33,no binario,Oeste
+606a394e-f0b6-48a8-a7a0-4e518ce5d4bc,2024-12-06 13:54:48,It is okay.,neutral,32,masculino,Sur
+e1ac6e78-8e25-4361-bb9a-1296313f53f1,2024-03-20 00:07:42,Not good! Wrong!,enojado,42,no binario,Norte
+774a694c-54f8-4636-b842-6daff787cba6,2025-07-26 18:36:08,I feel good!,feliz,32,masculino,Oeste
+ecbe8222-ee98-4a9a-b1a6-90fdf833d424,2025-01-23 01:47:30,This makes me feel good. Normal.,neutral,66,femenino,Centro
+8eada5dd-9673-44cd-ac7b-aba90090e3ce,2024-11-25 22:42:50,I feel bad. Fine.,neutral,21,no binario,Centro
+3af56a05-fb28-4c19-8cc6-3985ef99b32f,2024-02-16 20:05:14,This is annoying. Bad.,enojado,56,femenino,Oeste
+14836af8-bc06-4e0d-8e44-d4cdae36b123,2025-11-22 01:51:54,It looks good. Okay.,neutral,58,femenino,Este
+c40e952f-8292-4172-9e30-a25f5a348aa5,2024-08-01 09:32:22,I think it is hate!,enojado,19,no binario,Centro
+d8c7b4e5-d473-40f5-935d-f709375558fa,2024-10-24 22:56:38,This makes me feel shocked. Interesting.,sorprendido,48,femenino,Centro
+693caec2-db6c-47ed-9f14-098fefe255d2,2024-08-14 16:44:18,It seems okay and bright. Nice.,feliz,34,masculino,Este
+6d3190e4-275c-4413-b264-1a94fbd751eb,2024-04-21 10:21:55,Pretty bad...,triste,27,femenino,Oeste
+c6fdc625-7c53-47ea-9c10-72fc5a8b6b39,2025-03-19 23:04:32,It seems shocked.,sorprendido,39,masculino,Norte
+177e2bc7-074e-4c54-a8b6-16ee35d6f42d,2024-03-24 13:21:11,Everything is hurt. Bad.,triste,19,masculino,Este
+f174959e-4e35-4c7b-80ef-6e71e2350173,2024-08-22 09:04:08,I do not like this.,enojado,32,femenino,Oeste
+a29c31c7-5daf-4586-8033-cd8c744f4143,2026-01-10 14:02:28,I think it is bright and good. Nice.,feliz,41,femenino,Este
+07258754-841c-4adf-b2ca-6e1410b71887,2024-04-26 13:25:27,It seems nice. Okay.,neutral,25,masculino,Sur
+e44c6a1c-d041-4c6a-ab9c-becd2b99eb83,2025-11-16 20:39:24,This is interesting! Wow!,sorprendido,38,femenino,Oeste
+3ce06cae-d9e0-49e8-8a3e-8b71255d5fdf,2025-07-12 02:50:37,This is interesting! Wow!,sorprendido,38,no binario,Oeste
+46d74a15-2809-4912-bffc-10d047671adb,2025-12-13 13:44:26,I feel hurt. Bad.,enojado,59,no binario,Este
+5a7e5867-75c9-4181-8ae2-eff2928f271d,2025-01-26 17:43:45,Pretty unusual and strange. Interesting.,sorprendido,23,masculino,Sur
+e60eae79-69d2-4a24-9d17-711d7d6dbf2a,2025-04-07 20:17:17,It looks typical. Okay.,neutral,55,masculino,Este
+f59e4707-4bdc-481f-91fd-247b623e44b7,2025-06-09 14:07:32,Pretty good. Nice.,feliz,41,no binario,Este
+dd5d8228-bfde-4c92-9aef-1e108be55e04,2025-05-20 16:57:40,It seems devastating and terrible. Bad.,triste,49,masculino,Norte
+2769abc0-4bf1-4ee9-8feb-f206ef99cece,2025-09-08 06:39:45,I feel different and strange.,sorprendido,38,no binario,Oeste
+771b99d8-6d28-40b9-a536-60a21711388b,2025-10-17 04:24:54,This is normal.,neutral,46,femenino,Centro
+0ebb6dda-e29e-4a61-ae03-54be58d7316a,2024-12-25 03:13:28,It seems hate! Wrong!,enojado,29,no binario,Oeste
+df27ba7c-92cd-4372-9632-d8eabae2496c,2024-02-26 15:46:02,It went well.,feliz,68,masculino,Centro
+9e8fac6e-49f5-435a-b9c7-47fa60140270,2025-02-18 23:10:49,I feel bad.,triste,55,no binario,Este
+b8d77eaf-de0a-4900-b5f9-e41ae91b4cf7,2025-04-01 08:23:55,It seems hurt. Not good.,triste,65,no binario,Oeste
+cc8b8b6e-eed7-46cd-b2f2-fbffa177430f,2025-09-15 12:43:27,It is what it is. Fine.,neutral,38,no binario,Norte
+112e2e5d-8c9a-4ef9-8124-22f2b6d039ad,2024-09-17 12:05:58,It is difficult. Not good.,triste,65,no binario,Norte
+498e4448-b382-4ee7-89af-bab3afd57cd7,2024-09-30 04:46:40,This makes me feel outraged!,enojado,33,masculino,Sur
+8956e4a3-15ac-4a40-890c-ec57e239ac22,2024-06-05 08:16:47,It looks devastating and devastating. Not good.,triste,43,femenino,Este
+3b741a55-39e3-4e36-a91c-b70ec93f7cb0,2024-04-09 01:36:18,It seems strange and unexpected! Wow!,sorprendido,31,femenino,Este
+8839a8a0-1dde-4e8c-8b01-f17260b11629,2024-11-06 08:38:14,It looks great!,feliz,43,no binario,Este
+d61686eb-281e-48d4-b12d-a25e5434e3d2,2024-11-21 07:46:23,It is okay. Okay.,neutral,50,femenino,Este
+f38d9d6e-b132-4fce-a36b-f4588ad64fde,2025-06-19 14:17:34,I feel different! Wow!,sorprendido,32,femenino,Sur
